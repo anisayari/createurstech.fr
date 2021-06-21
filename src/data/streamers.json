@@ -1,0 +1,14 @@
+[
+    {
+        "name": "test",
+        "bio": "This is my bio",
+        "youtubeUrl": "https://youtube.com",
+        "twitchUrl": "https://twitch.tv"
+    },
+    {
+        "name": "streamr2",
+        "bio": "This is streamr2 bio",
+        "youtubeUrl": "https://youtube.com",
+        "twitchUrl": "https://twitch.tv"
+    }
+]
