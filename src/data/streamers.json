@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Micode",
+        "bio": "Vous n'avez pas beaucoup de temps à consacrer à l'Informatique ? Moi si. Autant vous faire profiter des petites choses que peu de gens savent ! Je n'ai pas la prétention de vouloir vous former, mais si j'ai éveillé votre curiosité en vous apprenant quelque chose, alors j'ai atteint mon objectif !",
+        "youtubeUrl": "https://www.youtube.com/Micode",
+        "twitchUrl": "",
+        "twitter": "https://twitter.com/Micode",
+        "avatar": "https://pbs.twimg.com/profile_images/1151769320843894784/xSa-ZAvz_400x400.jpg"
+    },
+    {
+        "name": "Hardisk",
+        "bio": "Tu aimes l'audiovisuel ? Abonne-toi , tu vas adorer !",
+        "youtubeUrl": "https://www.youtube.com/user/hardiskblog",
+        "twitchUrl": "https://www.twitch.tv/hardisklive",
+        "twitter": "https://twitter.com/Hardisk",
+        "avatar": "https://pbs.twimg.com/profile_images/1359480479767023616/enidpfsx_400x400.jpg"
+    },
+    {
+        "name": "BenjaminCode",
+        "bio": "Benjamin Code est une chaine dans laquelle je tente de vous montrer les bons cotés de la vie d'un développeur freelance. J'essaie de ne montrer que peu de code et de privilégier une approche grand public pour faire découvrir à plus de monde cet univers pas si inaccessible qu'on ne le croît.",
+        "youtubeUrl": "https://www.youtube.com/c/BenjaminCode",
+        "twitchUrl": "https://www.twitch.tv/benjamincode",
+        "twitter": "https://twitter.com/benjamincodeYT",
+        "avatar": "https://pbs.twimg.com/profile_images/1251066757869178881/M9KwfsQR_400x400.jpg"
+    }
+]
