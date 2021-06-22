@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/techStreamers",
+  pathPrefix: "/youtubeurs.tech",
   siteMetadata: {
     title: `TechStreamers`,
     author: {
