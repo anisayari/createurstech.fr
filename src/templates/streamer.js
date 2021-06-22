@@ -21,11 +21,16 @@ const StreamerTemplate = ({ data, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
+          <img src={streamer.avatar} alt={streamer.name} />
           <h1 itemProp="headline">{streamer.name}</h1>
-          
         </header>
         <section>
         <p>{streamer.bio}</p>
+        <ul>
+            { (() => { if (streamer.youtubeUrl) return <li><a href={streamer.youtubeUrl}>Youtube</a></li>})()}
+            { (() => { if (streamer.twitchUrl) return <li><a href={streamer.twitchUrl}>Twitch</a></li>})()}
+            { (() => { if (streamer.twitter) return <li><a href={streamer.twitter}>Twitter</a></li>})()}
+        </ul>
         </section>
         <hr />
       </article>
@@ -76,6 +81,10 @@ export const pageQuery = graphql`
       id
       name
       bio
+      avatar
+      youtubeUrl
+      twitchUrl
+      twitter
     }
 
     previous: streamersJson(id: { eq: $previousStreamerId }) {

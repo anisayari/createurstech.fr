@@ -30,6 +30,7 @@ const BlogIndex = ({ data, location }) => {
 
           return (
             <li key={streamer.fields.slug}>
+              <img className="streamer-avatar" src={streamer.avatar} alt={streamer.name}/>
               <Link to={streamer.fields.slug} itemProp="url">
                 <span itemProp="headline">{title}</span>
               </Link>
@@ -75,6 +76,7 @@ export const pageQuery = graphql`
         fields {
           slug
         }
+        avatar
       }
     }
   }
