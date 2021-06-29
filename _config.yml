@@ -22,10 +22,9 @@ title: Les createurs Tech français
 email: contact@defendintelligence.com
 description: >- # this means to ignore newlines until "baseurl:"
   Le site qui référence tous les créateurs de contenus tech sur Youtube et Twitch en francais.
-baseurl: "/createurstech.fr/" # the subpath of your site, e.g. /blog
-url: https://anisayari.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://createurstech.fr/ # the base hostname and protocol for your site, e.g. http://example.com
+twitter_username: defendintelligence
 
 # Build settings
 theme: minima
