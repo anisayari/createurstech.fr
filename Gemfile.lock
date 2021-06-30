@@ -294,7 +294,7 @@ DEPENDENCIES
   github-pages (= 215)
   jekyll-admin
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  minima
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
