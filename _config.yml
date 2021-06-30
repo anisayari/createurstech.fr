@@ -27,7 +27,7 @@ url: https://createurstech.fr/ # the base hostname and protocol for your site, e
 twitter_username: defendintelligence
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
@@ -38,7 +38,8 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
+include:
+  - assets/css/styles.css
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
