@@ -38,11 +38,11 @@ $card-padding: .7rem;
 .rounded {
     clip-path: circle();
 }
-
-.button_tags.active {
+.button:active,
+.button.is-checked {
   background: #f6b93b;
   border-color: #f6b93b !important;
-  color: #fff;
+  color: #fff !important;
 }
 
 .button_tags:hover {
