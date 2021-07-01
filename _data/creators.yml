@@ -1,23 +1,33 @@
-- twitter: TEACHERSDUNET
-  followers_ twitter: 2538
+- global_name : TEACHERSDUNET
+  twitter_account: TEACHERSDUNET
+  followers_twitter: 2538
   youtube_channel: Les teachers du net
   followers_youtube: ''
-  number_of_youtube_video: 1456
+  number_of_youtube_videos: 1456
+  profil_picture : https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s88-c-k-c0x00ffffff-no-rj
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. I
+  twitch_channel : 'def'
+  categories: 'dev_web actu_tech'
+  followers_twitch: 150
+  plateformes : 'youtube'
 - twitter: jojol67
   followers_ twitter: 276.2k
   youtube_channel: jojol
   followers_youtube: 2190000
   number_of_youtube_video: 1510
+  categories: 'dev_web'
 - twitter: Romainlanery
   followers_ twitter: 192.2k
   youtube_channel: Romain Lanery
   followers_youtube: 1010000
   number_of_youtube_video: 834
+  plateformes : 'twitch'
 - twitter: micode
   followers_ twitter: 73.3k
   youtube_channel: micode
   followers_youtube: 850000
   number_of_youtube_video: 90
+  plateformes : 'youtube twitch'
 - twitter: TheiCollection
   followers_ twitter: 123.7k
   youtube_channel: TheiCollection

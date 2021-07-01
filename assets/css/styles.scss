@@ -1,3 +1,70 @@
 ---
 ---
 @import "main";
+
+body{
+  #background-color: #222222;
+}
+
+$card-spacer-x:            1.25rem;
+$card-spacer-y:            .75rem;
+$card-border-width:        .0625rem;
+$card-border-color: #bfbfbf;
+$card-padding: .7rem;
+
+
+.title *{
+  display: inline;
+}
+.card {
+  position: relative;
+  border: $card-border-width solid $card-border-color;
+  border-radius : .5rem;
+  background-color:white;
+  margin-bottom: $card-spacer-y;
+  margin-left : 1rem;
+  margin-right : 1rem;
+  padding : $card-padding;
+}
+
+.button-youtube{
+  color: #FF0000;
+}
+
+.button-twitch{
+  color: #6441a5;
+}
+
+.rounded {
+    clip-path: circle();
+}
+
+.button_tags.active {
+  background: #f6b93b;
+  border-color: #f6b93b !important;
+  color: #fff;
+}
+
+.button_tags:hover {
+  color: #ffffff !important;
+  background: #f6b93b;
+  border-color: #f6b93b !important;
+  transition: all 0.4s ease 0s;
+}
+
+.button_tags {
+  margin:2px;
+  color: #494949 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 5px;
+  border: 1px solid #494949 !important;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+}
+
+
+.button-group{
+  margin-bottom: 10px;
+}

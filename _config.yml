@@ -17,14 +17,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-domain: anisayari.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: createurstech.fr       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 title: Les createurs Tech français
-email: contact@defendintelligence.com
 description: >- # this means to ignore newlines until "baseurl:"
   Le site qui référence tous les créateurs de contenus tech sur Youtube et Twitch en francais.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://createurstech.fr/ # the base hostname and protocol for your site, e.g. http://example.com
-twitter_username: defendintelligence
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://github.com/anisayari/createurstech.fr# the base hostname and protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
