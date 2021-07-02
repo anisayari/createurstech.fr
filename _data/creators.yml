@@ -5,7 +5,7 @@
   twitch_channel: def
   twitch_channel_name: ''
   twitch_description: ''
-  twitch_followers: 150
+  twitch_followers: ''
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
@@ -29,7 +29,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 276.2k
+  twitter_followers: 276200
   youtube_channel_name: jojol
   youtube_followers: 2190000
   youtube_number_of_videos: 1510
@@ -43,7 +43,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 192.2k
+  twitter_followers: 192200
   youtube_channel_name: Romain Lanery
   youtube_followers: 1010000
   youtube_number_of_videos: 834
@@ -57,7 +57,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 73.3k
+  twitter_followers: 73300
   youtube_channel_name: micode
   youtube_followers: 850000
   youtube_number_of_videos: 90
@@ -71,7 +71,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 123.7k
+  twitter_followers: 123700
   youtube_channel_name: TheiCollection
   youtube_followers: 776000
   youtube_number_of_videos: 856
@@ -85,7 +85,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 15.8k
+  twitter_followers: 15800
   youtube_channel_name: Nowtech
   youtube_followers: 293000
   youtube_number_of_videos: 460
@@ -99,7 +99,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 35.9k
+  twitter_followers: 35900
   youtube_channel_name: hardisk
   youtube_followers: 275000
   youtube_number_of_videos: 469
@@ -113,7 +113,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 26.8k
+  twitter_followers: 26800
   youtube_channel_name: Grafikart.fr
   youtube_followers: 215000
   youtube_number_of_videos: 1272
@@ -127,7 +127,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 19.2k
+  twitter_followers: 19200
   youtube_channel_name: Guillaume Slash
   youtube_followers: 209000
   youtube_number_of_videos: 198
@@ -155,7 +155,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: FormationVideo
   youtube_followers: 133000
   youtube_number_of_videos: 441
@@ -183,7 +183,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Developpeur Libre
   youtube_followers: 88700
   youtube_number_of_videos: 148
@@ -239,7 +239,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 12.6k
+  twitter_followers: 12600
   youtube_channel_name: Benjamin Code
   youtube_followers: 54000
   youtube_number_of_videos: 189
@@ -323,7 +323,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Abrege
   youtube_followers: 31700
   youtube_number_of_videos: 48
@@ -393,7 +393,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Go Digi
   youtube_followers: 20700
   youtube_number_of_videos: 32
@@ -435,7 +435,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: getCodingKnowledge
   youtube_followers: 18000
   youtube_number_of_videos: 654
@@ -463,7 +463,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Le Designer du Web
   youtube_followers: 14700
   youtube_number_of_videos: 424
@@ -617,7 +617,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: AFUP PHP
   youtube_followers: 6770
   youtube_number_of_videos: 550
@@ -631,7 +631,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: JavaScript de Zero
   youtube_followers: 6630
   youtube_number_of_videos: 55
@@ -645,7 +645,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Donkey Geek
   youtube_followers: 5560
   youtube_number_of_videos: 139
@@ -659,7 +659,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Thibaud Dauce
   youtube_followers: 4490
   youtube_number_of_videos: 387
@@ -673,7 +673,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Sitedudev
   youtube_followers: 3960
   youtube_number_of_videos: 110
@@ -687,7 +687,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Grimille - La Meute
   youtube_followers: 3900
   youtube_number_of_videos: 96
@@ -701,7 +701,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: YoanDev
   youtube_followers: 3660
   youtube_number_of_videos: 51
@@ -715,7 +715,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Sebastien Imbert (Raton Codeur)
   youtube_followers: 3400
   youtube_number_of_videos: 55
@@ -757,7 +757,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Louis Nicolas - BELIEVEMY
   youtube_followers: 2000
   youtube_number_of_videos: 104
@@ -771,7 +771,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: David Dias
   youtube_followers: 1970
   youtube_number_of_videos: 14
@@ -785,7 +785,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Seb Duval - Creation de sites web
   youtube_followers: 1920
   youtube_number_of_videos: 16
@@ -799,7 +799,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Wawa Sensei
   youtube_followers: 1550
   youtube_number_of_videos: 35
@@ -813,7 +813,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Pierre Terrat
   youtube_followers: 1460
   youtube_number_of_videos: 35
@@ -827,7 +827,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Road To Dev
   youtube_followers: 1420
   youtube_number_of_videos: 80
@@ -841,7 +841,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: SDN
   youtube_followers: 1210
   youtube_number_of_videos: 98
@@ -855,7 +855,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Ben Open
   youtube_followers: 976
   youtube_number_of_videos: 30
@@ -869,7 +869,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Cyberastuces
   youtube_followers: 825
   youtube_number_of_videos: 17
@@ -883,7 +883,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: NadfriJS
   youtube_followers: 561
   youtube_number_of_videos: 53
@@ -953,7 +953,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 10.3k
+  twitter_followers: 10300
   youtube_channel_name: Ataxya Network
   youtube_followers: 346
   youtube_number_of_videos: 3
@@ -967,7 +967,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: training dev
   youtube_followers: 171
   youtube_number_of_videos: 21
@@ -981,7 +981,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: HappyToDev
   youtube_followers: 167
   youtube_number_of_videos: 25
@@ -995,7 +995,7 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: null
+  twitter_followers: ''
   youtube_channel_name: Benjamin Bohec
   youtube_followers: 55
   youtube_number_of_videos: 215
