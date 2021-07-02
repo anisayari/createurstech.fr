@@ -30,21 +30,37 @@ title: Le site qui référence les créateurs de contenus tech francophone.
             <div class="card {{creators.categories}}  {{creators.plateformes}}">
                 <div class='title'>
                     <div class="image-cropper">
-                        <img src='{{creators.profil_picture}}' width="50" height="50" class="rounded" />
+											{% if creators.youtube_profil_image_url != '' %}
+                        <img src='{{creators.youtube_profil_image_url}}' width="50" height="50" class="rounded" />
+											{% else %}
+											                        <img src='{{creators.twitch_profil_image_url}}' width="50" height="50" class="rounded" />
+											{% endif %}
                     </div>
-                    <h2>  {{ creators.global_name}} </h2>
-                    <a href='https://twitter.com/@{{ creators.twitter_account | markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
+                    <h4>  {{ creators.global_name }} </h4>
+
+									  {% if  creators.twitter_account_name   != '' %}
+                    <a href='https://twitter.com/@{{ creators.twitter_account_name| markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
                     <p>{{ creators.followers_twitter }}</p>
-                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
-                    <p>{{ creators.followers_youtube}} followers, {{ creators.number_of_youtube_videos}} videos</p>
-                    {% if  creator.twitch_channel%}
-                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel | markdownify | strip_html }}' target="_blank"><i class="fab fa-twitch"></i></a>
-                    <p> {{ creators.followers_twitch}} followers</p>
-                    {%endif%}
+										{% endif %}
+
+									{% if creators.youtube_channel_name  != '' %}
+                    <a class='button-youtube' href='https://youtube.com/c/{{ youtube_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                    <p>{{ creators.youtube_subscriber_count}} followers, {{ creators.youtube_video_count}} videos</p>
+									{% endif %}
+									
+                    {%  if   creators.twitch_channel_name  != '' %}
+																			                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-twitch"></i></a>
+                    <p> {{ creators.twitch_followers}} followers</p>
+
+                    {% endif  %}
                 </div>
 
                 <p>
-                    {{ creators.description}}
+									{% if creators.youtube_description != '' %}
+                    {{ creators.youtube_description}}
+									{% else %}
+									  {{ creators.twitch_description}}
+									{% endif %}
                 </p>
 
         </div>
