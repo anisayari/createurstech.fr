@@ -1,4 +1,30 @@
 - categories: ''
+  global_name: Yorzian
+  plateforms: ''
+  twitch_broadcaster_type: 
+  twitch_channel_name: Yorzian
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: yrougy
+  youtube_channel_id: UCfsEmSD8oVD147HCz5aCOUg
+  youtube_channel_name: ''
+  youtube_channel_username: #SPECIFY THE CHANNEL USERNAME , YOU CAN FIND IT IN youtube.com/user/CHANNEL_USERNAME OR IF youtube.com/channel/CHANNEL_ID_HERE PLEASE CHECK youtube_channel_id AND LEAVE THIS ONE = ''
+  youtube_custom_url: ''
+  youtube_description: ''
+  youtube_hidden_subscriber_count: ''
+  youtube_profil_image_url: ''
+  youtube_subscriber_count: ''
+  youtube_video_count: ''
+  youtube_view_count: ''
+- categories: ''
   global_name: TEACHERSDUNET
   plateforms: ''
   twitch_broadcaster_type: ''
@@ -1853,29 +1879,3 @@
   youtube_subscriber_count: '1710'
   youtube_video_count: '52'
   youtube_view_count: '40843'
-- categories: ''
-  global_name: Yorzian
-  plateforms: ''
-  twitch_broadcaster_type: 
-  twitch_channel_name: Yorzian
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: yrougy
-  youtube_channel_id:  UCfsEmSD8oVD147HCz5aCOUg
-  youtube_channel_name: ''
-  youtube_channel_username: #SPECIFY THE CHANNEL USERNAME , YOU CAN FIND IT IN youtube.com/user/CHANNEL_USERNAME OR IF youtube.com/channel/CHANNEL_ID_HERE PLEASE CHECK youtube_channel_id AND LEAVE THIS ONE = ''
-  youtube_custom_url: ''
-  youtube_description: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: ''
-  youtube_video_count: ''
-  youtube_view_count: ''
