@@ -33,12 +33,13 @@ title: Le site qui référence les créateurs de contenus tech francophone.
                         <img src='{{creators.profil_picture}}' width="50" height="50" class="rounded" />
                     </div>
                     <h2>  {{ creators.global_name}} </h2>
-                    <a href='https://twitter.com/@{{ creators.twitter_account }}' target="_blank"><i class="fab fa-twitter"></i></a>
-                    {{ creators.followers_twitter }}
-                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel}}' target="_blank"><i class="fab fa-youtube"></i></a>
-                    {{ creators.followers_youtube}} followers, {{ creators.number_of_youtube_videos}} videos
+                    <a href='https://twitter.com/@{{ creators.twitter_account | replace:'/',' ' | truncatewords: 1 | remove:'...'  }}' target="_blank"><i class="fab fa-twitter"></i></a>
+                    <p> {{ creators.followers_twitter }}</p>
+                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel | replace:'/',' ' | truncatewords: 1 | remove:'...'  }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                    <p>{{ creators.followers_youtube}} followers, {{ creators.number_of_youtube_videos}} videos</p>
                     {% if  creator.twitch_channel%}
-                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel}}' target="_blank"><i class="fab fa-twitch"></i></a> {{ creators.followers_twitch}} followers
+                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel | replace:'/',' ' | truncatewords: 1 | remove:'...' }}' target="_blank"><i class="fab fa-twitch"></i></a> 
+                    <p>{{ creators.followers_twitch}} followers</p>
                     {%endif%}
                 </div>
 
