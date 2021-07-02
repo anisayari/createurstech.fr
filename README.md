@@ -69,7 +69,7 @@ You can contribute by forking the project and asking for a pull request (please 
 - [ ] Design buttons
 - [ ] Design global website
 - [ ] Responsive adaptation
-- [ ] Create Data flow from Twitch  / Youtube / Twitter @anisayari
-- [ ] Enhancement on README
+- [x] Create Data flow from Twitch  / Youtube / Twitter
+- [x] Enhancement on README
 - [ ] Logo createurs tech
 - [ ] Others task are coming..stay tuned
