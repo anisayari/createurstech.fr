@@ -106,7 +106,7 @@
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
     \ mercredis \xE0 20h"
-  twitch_followers: 47952
+  twitch_followers: 47953
   twitch_id: '273839506'
   twitch_number_of_view: 534343
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
@@ -223,13 +223,13 @@
 - categories: ''
   global_name: grafikart_fr
   plateforms: ''
-  twitch_broadcaster_type: ''
-  twitch_channel_name: ''
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  twitch_broadcaster_type: affiliate
+  twitch_channel_name: grafikart
+  twitch_description: Developpeur Web | Freelance
+  twitch_followers: 5986
+  twitch_id: '32887598'
+  twitch_number_of_view: 103540
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
   twitter_id: ''
@@ -838,7 +838,7 @@
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3301
+  twitch_followers: 3303
   twitch_id: '209525793'
   twitch_number_of_view: 17497
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
