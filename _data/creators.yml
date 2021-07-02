@@ -1,4 +1,37 @@
 - categories: ''
+  global_name: Defend Intelligence
+  plateforms: youtube twitch
+  twitch_broadcaster_type: partner
+  twitch_channel_name: DefendIntelligence
+  twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
+    \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
+    \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
+    \ disponibles pour les subs."
+  twitch_followers: 3317
+  twitch_id: '209525793'
+  twitch_number_of_view: 17678
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
+  youtube_channel_id: UCnEHCrot2HkySxMTmDPhZyg
+  youtube_channel_name: Defend Intelligence
+  youtube_channel_username: ''
+  youtube_custom_url: defendintelligencetech
+  youtube_description: "Une chaine pour savoir quoi affronter si Skynet prend le contr\xF4\
+    le, on y parle d'Intelligence Artificielle par des vid\xE9os de vulgarisations\
+    \ mais aussi des tutos pour les d\xE9butants et experts.\nJe suis Anis Ayari,\
+    \ Senior Ing\xE9nieur en Intelligence Artificielle et je suis votre h\xF4te dans\
+    \ ce voyage.\n\nBienvenue dans la matrice."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '22300'
+  youtube_video_count: '56'
+  youtube_view_count: '483519'
+- categories: ''
   global_name: Yorzian
   plateforms: youtube twitch
   twitch_broadcaster_type: partner
@@ -858,39 +891,6 @@
   youtube_subscriber_count: '23400'
   youtube_video_count: '52'
   youtube_view_count: '1274640'
-- categories: ''
-  global_name: Defend Intelligence
-  plateforms: youtube twitch
-  twitch_broadcaster_type: partner
-  twitch_channel_name: DefendIntelligence
-  twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
-    \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
-    \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
-    \ disponibles pour les subs."
-  twitch_followers: 3317
-  twitch_id: '209525793'
-  twitch_number_of_view: 17678
-  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
-  youtube_channel_id: UCnEHCrot2HkySxMTmDPhZyg
-  youtube_channel_name: Defend Intelligence
-  youtube_channel_username: ''
-  youtube_custom_url: defendintelligencetech
-  youtube_description: "Une chaine pour savoir quoi affronter si Skynet prend le contr\xF4\
-    le, on y parle d'Intelligence Artificielle par des vid\xE9os de vulgarisations\
-    \ mais aussi des tutos pour les d\xE9butants et experts.\nJe suis Anis Ayari,\
-    \ Senior Ing\xE9nieur en Intelligence Artificielle et je suis votre h\xF4te dans\
-    \ ce voyage.\n\nBienvenue dans la matrice."
-  youtube_hidden_subscriber_count: false
-  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '22300'
-  youtube_video_count: '56'
-  youtube_view_count: '483519'
 - categories: ''
   global_name: Go Digi
   plateforms: youtube
