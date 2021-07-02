@@ -8,7 +8,7 @@
     lectroniques, je ne pouvais que jouer un peu avec la radio d\xE8s mon adolescence."
   twitch_followers: 2464
   twitch_id: '136244267'
-  twitch_number_of_view: 26769
+  twitch_number_of_view: 26770
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/92a23201-5a4c-49b2-9525-5cff8bd20678-profile_image-300x300.png
   twitter_description: Vulgarisateur, formateur informatique. Twitch partner https://t.co/xq0818Euq9
     https://t.co/lcwC3iR7mm Dinosaure des Internet
@@ -26,7 +26,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSzfMARAJZvh4xRfNU-BTP2cTWqpiCG3ALaA38J=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '8480'
   youtube_video_count: '144'
-  youtube_view_count: '347451'
+  youtube_view_count: '347820'
 - categories: ''
   global_name: TEACHERSDUNET
   plateforms: youtube
@@ -127,7 +127,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS9bGGUPid3aKZbn9af772JmLkiZ8qCMmj7Nlbi3g=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '1010000'
   youtube_video_count: '837'
-  youtube_view_count: '152581647'
+  youtube_view_count: '152601869'
 - categories: ''
   global_name: micode
   plateforms: youtube twitch
@@ -137,7 +137,7 @@
     \ mercredis \xE0 20h"
   twitch_followers: 47956
   twitch_id: '273839506'
-  twitch_number_of_view: 534345
+  twitch_number_of_view: 534348
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -220,7 +220,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRCQAj-vsEYL4TdfNpKgdhAnHOoeB1I7gXvnbe8Gg=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '294000'
   youtube_video_count: '462'
-  youtube_view_count: '29966432'
+  youtube_view_count: '29979019'
 - categories: ''
   global_name: Hardisk
   plateforms: youtube twitch
@@ -228,9 +228,9 @@
   twitch_channel_name: HardiskLive
   twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
     \ Tech !"
-  twitch_followers: 21932
+  twitch_followers: 21933
   twitch_id: '42405140'
-  twitch_number_of_view: 133592
+  twitch_number_of_view: 133593
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -257,7 +257,7 @@
   twitch_description: Developpeur Web | Freelance
   twitch_followers: 5986
   twitch_id: '32887598'
-  twitch_number_of_view: 103543
+  twitch_number_of_view: 103548
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -276,7 +276,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQTUKCd7fvyRbIUni52wocYLSD0BdItSCTbjru2=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '216000'
   youtube_video_count: '1275'
-  youtube_view_count: '34866953'
+  youtube_view_count: '34880458'
 - categories: ''
   global_name: GuillaumeSlash
   plateforms: youtube
@@ -575,7 +575,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTGQNZANkrf7WSpRnEetHSQ8gvum9tIN0398P7geg=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '54900'
   youtube_video_count: '191'
-  youtube_view_count: '2814781'
+  youtube_view_count: '2822375'
 - categories: ''
   global_name: Machine Learnia
   plateforms: youtube
@@ -662,7 +662,7 @@
     \ cloud, du devops et de linux en g\xE9n\xE9ral."
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbWUPHCQNas1r-EnckO3-dSGS4uqhL9hWWXXeKcw=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '43100'
+  youtube_subscriber_count: '43200'
   youtube_video_count: '76'
   youtube_view_count: '2003057'
 - categories: ''
@@ -828,7 +828,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSVDjUpeEL_hycVcm-f9NYuSSD4LsRzVdsSevb8xQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '27700'
   youtube_video_count: '82'
-  youtube_view_count: '1648913'
+  youtube_view_count: '1650681'
 - categories: ''
   global_name: CodeDesign_fr
   plateforms: youtube
@@ -867,9 +867,9 @@
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3312
+  twitch_followers: 3317
   twitch_id: '209525793'
-  twitch_number_of_view: 17624
+  twitch_number_of_view: 17678
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -955,7 +955,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRFxASJ03cyAkAJcDnDmfXiLBHov9DSAzfWPTDZ7A=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '20300'
   youtube_video_count: '74'
-  youtube_view_count: '897043'
+  youtube_view_count: '897858'
 - categories: ''
   global_name: FreresCodeurs
   plateforms: youtube
@@ -1122,7 +1122,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk5qATrN2w1qW_cPSh6iEDw75ioSJXcN7573xvTQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '1470'
   youtube_video_count: '25'
-  youtube_view_count: '82067'
+  youtube_view_count: '82123'
 - categories: ''
   global_name: Louistiti
   plateforms: youtube
@@ -1239,7 +1239,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTUDdyW3wEDNljW9Xduco1HuqUuKxEYgCJpy5Nh=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '9870'
   youtube_video_count: '289'
-  youtube_view_count: '1816486'
+  youtube_view_count: '1816641'
 - categories: ''
   global_name: codeconcept
   plateforms: youtube
@@ -1293,7 +1293,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQuWNbyBZi6klCwCzq3WCaqMv1g01C2GwU2WCjZtA=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '8240'
   youtube_video_count: '218'
-  youtube_view_count: '925236'
+  youtube_view_count: '927510'
 - categories: ''
   global_name: Docstring
   plateforms: youtube
@@ -1320,7 +1320,7 @@
     ral.\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '9360'
+  youtube_subscriber_count: '9370'
   youtube_video_count: '49'
   youtube_view_count: '206243'
 - categories: ''
@@ -1437,7 +1437,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSxL74IPzvD5oBELIUR4GkKwtqZsfhhHdkFjZq1Wg=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '4010'
   youtube_video_count: '111'
-  youtube_view_count: '337884'
+  youtube_view_count: '338302'
 - categories: ''
   global_name: Grimille - La Meute
   plateforms: youtube
@@ -1499,7 +1499,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/F_TzxI7HXoSXVyrtPRcSyROKqEKZHQLusI8Yo1ERIAfG_oreBGCufzRy4jONF9OTeS6Ovkb7=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '3820'
   youtube_video_count: '54'
-  youtube_view_count: '141350'
+  youtube_view_count: '141983'
 - categories: ''
   global_name: "S\xE9bastien Imbert"
   plateforms: youtube
@@ -1533,7 +1533,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLR7oMXzGdrv6EffCWGH7_wZJgnpNQv5PdHiK8tp=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '3450'
   youtube_video_count: '55'
-  youtube_view_count: '192288'
+  youtube_view_count: '192485'
 - categories: ''
   global_name: Thomas Boileau
   plateforms: youtube
@@ -1586,7 +1586,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQO9ugQ3tRn_YnZd_NI8i3eO61FtKCRIsoZugDE=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '2790'
   youtube_video_count: '7'
-  youtube_view_count: '28576'
+  youtube_view_count: '28610'
 - categories: ''
   global_name: Louis Nicolas - BELIEVEMY
   plateforms: youtube
@@ -1651,7 +1651,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRZAoYqPyLgIriaVBU4js1wwIPJ-0pTWvAW357fTw=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '1970'
   youtube_video_count: '14'
-  youtube_view_count: '64331'
+  youtube_view_count: '64350'
 - categories: ''
   global_name: "Seb Duval Cr\xE9ation de Sites Web"
   plateforms: youtube
@@ -1707,7 +1707,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbbtTIwF2vmCTvC13kj9OJh4njbVE4SyVoqd3z=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '1670'
   youtube_video_count: '37'
-  youtube_view_count: '41381'
+  youtube_view_count: '41772'
 - categories: ''
   global_name: Pierre Terrat
   plateforms: youtube
@@ -1763,7 +1763,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ4bI4IPt-l9OgF4NH1A0NL9YigewrQgK2wPasP=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '1430'
   youtube_video_count: '80'
-  youtube_view_count: '206042'
+  youtube_view_count: '206189'
 - categories: ''
   global_name: neolectron
   plateforms: youtube twitch
@@ -1773,7 +1773,7 @@
     \ plus que tout transmettre sa passion."
   twitch_followers: 2172
   twitch_id: '48965120'
-  twitch_number_of_view: 24257
+  twitch_number_of_view: 24258
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/99dce956-1b8c-4403-8409-fa0985f49430-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -1858,3 +1858,32 @@
   youtube_subscriber_count: '1710'
   youtube_video_count: '52'
   youtube_view_count: '41059'
+- categories: ''
+  global_name: Bonjour Monde
+  plateforms: youtube
+  twitch_broadcaster_type: ''
+  twitch_channel_name: ''
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: "Science, Tech & Design | Cr\xE9ateur de la cha\xEEne Bonjour\
+    \ Monde (media de vulgarisation scientifique et technologique) / Designer pour\
+    \ @jointotem_"
+  twitter_followers: 342
+  twitter_id: 963763045506912256
+  twitter_name: "Roy | Bonjour Monde \U0001F310"
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1369744456287739915/p_qU9Vbq_normal.jpg
+  twitter_screen_name: BonjourMondeTV
+  youtube_channel_id: UCFHgT4Q9TJC5Sfihb0Gb8Aw
+  youtube_channel_name: Bonjour Monde
+  youtube_channel_username: ''
+  youtube_custom_url: bonjourmonde
+  youtube_description: "Nouvelles technologies, science, \xE9thique... Vous \xEAtes\
+    \ sur Bonjour Monde"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRvWCVrkt0nO-6jUUpGZWX7RnNdqyeptnB1pztB_g=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '3360'
+  youtube_video_count: '42'
+  youtube_view_count: '106385'
