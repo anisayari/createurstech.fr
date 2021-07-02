@@ -7,9 +7,9 @@
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3317
+  twitch_followers: 3321
   twitch_id: '209525793'
-  twitch_number_of_view: 17678
+  twitch_number_of_view: 17703
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -30,7 +30,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '22300'
   youtube_video_count: '56'
-  youtube_view_count: '483519'
+  youtube_view_count: '492099'
 - categories: ''
   global_name: Yorzian
   plateforms: youtube twitch
@@ -41,7 +41,7 @@
     lectroniques, je ne pouvais que jouer un peu avec la radio d\xE8s mon adolescence."
   twitch_followers: 2464
   twitch_id: '136244267'
-  twitch_number_of_view: 26770
+  twitch_number_of_view: 26771
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/92a23201-5a4c-49b2-9525-5cff8bd20678-profile_image-300x300.png
   twitter_description: Vulgarisateur, formateur informatique. Twitch partner https://t.co/xq0818Euq9
     https://t.co/lcwC3iR7mm Dinosaure des Internet
@@ -124,7 +124,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQmDxTk5AD_PqY-tF5lwXlk4dxqfXLnhFI0kzVtXQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '2190000'
   youtube_video_count: '1516'
-  youtube_view_count: '416692068'
+  youtube_view_count: '416764797'
 - categories: ''
   global_name: Romainlanery
   plateforms: youtube
@@ -290,7 +290,7 @@
   twitch_description: Developpeur Web | Freelance
   twitch_followers: 5986
   twitch_id: '32887598'
-  twitch_number_of_view: 103548
+  twitch_number_of_view: 103549
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -421,7 +421,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRuim9nNTbsePTlKeaEuwwuRvuqbG_282eJLbqI0A=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '133000'
   youtube_video_count: '414'
-  youtube_view_count: '11766628'
+  youtube_view_count: '11775205'
 - categories: ''
   global_name: pierregird
   plateforms: youtube
@@ -452,7 +452,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQqAyN3fkupWMuxvWS20a5mmciTd40VhoiZrDQmmQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '103000'
   youtube_video_count: '252'
-  youtube_view_count: '14209281'
+  youtube_view_count: '14216604'
 - categories: ''
   global_name: Developpeur Libre
   plateforms: youtube
@@ -638,7 +638,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '51500'
   youtube_video_count: '57'
-  youtube_view_count: '2494465'
+  youtube_view_count: '2500798'
 - categories: ''
   global_name: MikeCodeur
   plateforms: youtube
@@ -669,7 +669,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSOYNmRd_NN4YOK3TuO9rVTMCN8YsNJ9NJtFt-zwQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '43100'
   youtube_video_count: '247'
-  youtube_view_count: '2413551'
+  youtube_view_count: '2415615'
 - categories: ''
   global_name: cocadmin
   plateforms: youtube
@@ -799,7 +799,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS4FYZIrLHGI4tREIIIftlDIxWEFTdeNKMv6zc8KA=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '33200'
   youtube_video_count: '49'
-  youtube_view_count: '1208506'
+  youtube_view_count: '1211518'
 - categories: ''
   global_name: BertrandBourgy
   plateforms: youtube
@@ -890,7 +890,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQg8N-RPXNkCZtjQGJmJ9aJu9p3WAgn_jC2zu8Bag=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '23400'
   youtube_video_count: '52'
-  youtube_view_count: '1274640'
+  youtube_view_count: '1275095'
 - categories: ''
   global_name: Go Digi
   plateforms: youtube
@@ -1320,7 +1320,7 @@
     ral.\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '9370'
+  youtube_subscriber_count: '9390'
   youtube_video_count: '49'
   youtube_view_count: '206243'
 - categories: ''
@@ -1437,7 +1437,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSxL74IPzvD5oBELIUR4GkKwtqZsfhhHdkFjZq1Wg=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '4010'
   youtube_video_count: '111'
-  youtube_view_count: '338302'
+  youtube_view_count: '337884'
 - categories: ''
   global_name: Grimille - La Meute
   plateforms: youtube
@@ -1466,7 +1466,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQVZcqEoRrPxtZFFabVKyAQ9_PxkkXtp5ursLL5gg=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '3920'
   youtube_video_count: '96'
-  youtube_view_count: '253070'
+  youtube_view_count: '253316'
 - categories: ''
   global_name: YoanDev
   plateforms: youtube
@@ -1887,3 +1887,199 @@
   youtube_subscriber_count: '3360'
   youtube_video_count: '42'
   youtube_view_count: '106385'
+- categories: ''
+  global_name: Monologix
+  plateforms: youtube
+  twitch_broadcaster_type: ''
+  twitch_channel_name: ''
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: "Com\xE9dien Voix-Off professionnel, Monteur-vid\xE9o professionnel,\
+    \ Vid\xE9aste. Fan du v\xE9ritable humour \U0001F643\n\U0001F399\uFE0F+ de 1000\
+    \ voix-off r\xE9alis\xE9es\n\U0001F3A5+ de 500 montages r\xE9alis\xE9s"
+  twitter_followers: 93
+  twitter_id: 1672230650
+  twitter_name: Monologix
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1290265081373171712/e5oRB0fp_normal.png
+  twitter_screen_name: MonologixFR
+  youtube_channel_id: UCHHdFjqSb9nH0GiPaDratnA
+  youtube_channel_name: Monologix
+  youtube_channel_username: ''
+  youtube_custom_url: monologix
+  youtube_description: "Apprendre enfin \xE0 comprendre l'incompr\xE9hensible !\n\n\
+    Mail : monologixfr@gmail.com\nDiscord : https://discord.gg/XEf2zUz\nTwitter :\
+    \ https://twitter.com/MonologixFR"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTt3BVoR7AbcZvSOFvyllo2TDHYsQigurNP-6s1aQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '25600'
+  youtube_video_count: '30'
+  youtube_view_count: '664232'
+- categories: ''
+  global_name: Rabbin des bois
+  plateforms: youtube
+  twitch_broadcaster_type: ''
+  twitch_channel_name: ''
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: "\xC9crivain. Hacker. \U0001F4DA \"Princesse Data\" \"L\xE8\
+    ve-toi et code\""
+  twitter_followers: 15704
+  twitter_id: 829641565907853312
+  twitter_name: RABBIN DES BOIS
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1312113975736311812/qDsNh2Jq_normal.jpg
+  twitter_screen_name: rabbindesbois
+  youtube_channel_id: UCYU8ljh_pDcwqDMWZoJWqwA
+  youtube_channel_name: RABBIN DES BOIS
+  youtube_channel_username: ''
+  youtube_custom_url: rabbindesbois
+  youtube_description: "oh tu sais on va pas tarder \xE0 se faire suicider de deux\
+    \ balles dans le dos mon fr\xE8re on est en Hail Mary plein phare ici"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS4vmtzGPpirG5x6ScYG6ccY5prHsdqEXBOq8Px=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '236000'
+  youtube_video_count: '19'
+  youtube_view_count: '3729066'
+- categories: ''
+  global_name: Hasheur
+  plateforms: youtube twitch
+  twitch_broadcaster_type: partner
+  twitch_channel_name: hasheur
+  twitch_description: Blockchain, crypto, Investissement et nouvelles technologies
+    ? En Live toutes les semaines, le Vendredi ou Samedi.
+  twitch_followers: 28584
+  twitch_id: '633079467'
+  twitch_number_of_view: 89289
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/0d39d098-bc3b-499c-9400-bdd0dbe88664-profile_image-300x300.png
+  twitter_description: "Owen Simonin | Vid\xE9aste \U0001F3A5 Entrepreneur \U0001F4BC\
+    \ #Bitcoin: Je vulgarise et d\xE9cortique \xE0 vos cot\xE9s les nouvelles technologies\
+    \ et investissements de notre \xE9poque."
+  twitter_followers: 137009
+  twitter_id: 780650911014105089
+  twitter_name: Hasheur
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1210882136892424198/wL7wzgL4_normal.jpg
+  twitter_screen_name: PowerHasheur
+  youtube_channel_id: UChlTcWDE8gd4tsl_L727NrQ
+  youtube_channel_name: Hasheur
+  youtube_channel_username: ''
+  youtube_custom_url: hasheur
+  youtube_description: "Bienvenue sur ma cha\xEEne ! Je me pr\xE9sente, Owen Simonin\
+    \ (alias Hasheur), je vulgarise sur Youtube diff\xE9rentes technologies, techniques\
+    \ et strat\xE9gies complexes du monde du Business. \n\n  Principalement \xE0 travers\
+    \ la Blockchain et les Cryptomonnaies (bitcoin), je d\xE9cortique m\xEAme les\
+    \ m\xE9thodes de paris en ligne, le trading et les autres types d'investissements\
+    \ ou rendements passifs. \n\n Mon objectif est de simplifier les sujets et les\
+    \ investissements les plus complexes du milieu afin de permettre \xE0 tous de\
+    \ ne rater aucune opportunit\xE9.\n\nFacebook\_: https://www.facebook.com/Hasheur\
+    \ \nTwitter\_: https://twitter.com/PowerHasheur\nSNAP\_: PowerHasheur\nInstagram\_\
+    : Hasheur"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLROJM7IETbaAH0vA0a7RmVA9W0mhy2GIChb2C1taw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '351000'
+  youtube_video_count: '103'
+  youtube_view_count: '10604974'
+- categories: ''
+  global_name: Tech2Tech
+  plateforms: youtube
+  twitch_broadcaster_type: ''
+  twitch_channel_name: ''
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: "Administrateur Syst\xE8mes, passionn\xE9 par toutes les nouvelles\
+    \ technologies. Je partage tout ce que je peux ! https://t.co/5w8f5GZ7Ih"
+  twitter_followers: 6351
+  twitter_id: 90604684
+  twitter_name: "Mika\xEBl - tech2tech.fr"
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/578479656220958720/AhgGAmXb_normal.jpeg
+  twitter_screen_name: Tech2TechFR
+  youtube_channel_id: UC4wj8LCLrOfgKrOVDLW4yOA
+  youtube_channel_name: "Tech2Tech - Mika\xEBl"
+  youtube_channel_username: ''
+  youtube_custom_url: tech2techfr
+  youtube_description: "Administrateur syst\xE8mes et technicien informatique en Freelance,\
+    \ vous trouverez ici astuces, tutoriaux et pr\xE9sentation de produits."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRJ-4BEK3qVBxI5SK9MqbO3FbOtqlQrw21QS315Bg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '105000'
+  youtube_video_count: '207'
+  youtube_view_count: '8425257'
+- categories: ''
+  global_name: Michel Kartner
+  plateforms: youtube
+  twitch_broadcaster_type: ''
+  twitch_channel_name: ''
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: "Le Blog Du Hacker vous aide \xE0 combattre les techniques\
+    \ de piratage qui vous visent tous les jours. \n#Anonymat - #Programmation - #S\xE9\
+    curit\xE9 #informatique"
+  twitter_followers: 4000
+  twitter_id: 1291986871
+  twitter_name: Le Blog Du Hacker
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/583983715099009024/4dIujtkb_normal.jpg
+  twitter_screen_name: LeBlogDuHacker
+  youtube_channel_id: UCZevW3w8UMya8M_ZqUaVlSw
+  youtube_channel_name: Michel Kartner
+  youtube_channel_username: ''
+  youtube_custom_url: michelkartner
+  youtube_description: "La cybers\xE9curit\xE9 est un domaine extr\xEAmement important\
+    \ de l'informatique. \n\nLe Hacking \xE9thique permet \xE0 tous d'apprendre en\
+    \ d\xE9tail le fonctionnement de l'informatique et surtout de la s\xE9curit\xE9\
+    \ informatique. \n\nMalheureusement, ce n'est pas quelque chose qu'on apprend\
+    \ naturellement \xE0 l'\xE9cole ou \xE0 la maison. Un peu comme si l'on prenait\
+    \ tous les jours le volant sans permis de conduire, dans une grande ville avec\
+    \ beaucoup d'autres usagers.\n\nLe but de ma cha\xEEne est donc d'enseigner le\
+    \ \"code de la route num\xE9rique\" pour naviguer sereinement sur Internet. Le\
+    \ tout avec des tutos pratiques, utiles, in\xE9dits, intriguants ou divertissants.\
+    \ Je ne pr\xE9tends pas \xEAtre un expert incontest\xE9 dans le domaine, mais\
+    \ si je peux vous aider, c'est avec plaisir !\n\nMerci d'\xEAtre pass\xE9 par\
+    \ l\xE0, n'h\xE9sitez pas \xE0 vous abonner si ce n'est pas fait !\n\n**Cha\xEE\
+    ne \xE9ducative et divertissante sur la s\xE9curit\xE9 informatique, et l'informatique\
+    \ de mani\xE8re g\xE9n\xE9rale associ\xE9e \xE0 https://www.leblogduhacker.fr\
+    \ et https://cyberini.com**"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSCGOlYrh2PC6aAcG9QKULjdVhU_AWZu2T18vUSUw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '38900'
+  youtube_video_count: '75'
+  youtube_view_count: '1493248'
+- categories: ''
+  global_name: Hafnium
+  plateforms: youtube
+  twitch_broadcaster_type: ''
+  twitch_channel_name: ''
+  twitch_description: ''
+  twitch_followers: ''
+  twitch_id: ''
+  twitch_number_of_view: ''
+  twitch_profil_image_url: ''
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
+  youtube_channel_id: UC_grjqug_eF6bRS_fVezK-A
+  youtube_channel_name: "Hafnium - S\xE9curit\xE9 informatique"
+  youtube_channel_username: ''
+  youtube_custom_url: ''
+  youtube_description: "Salut,\nC'est Hafnium et ma passion c'est la cybers\xE9curit\xE9\
+    \ !\nJe partage chaque semaine une vid\xE9o sur ces sujets l\xE0 :\n- exploitation\
+    \ web\n- r\xE9seau\n- astuces & conseils sur le hacking\n- cryptographie\n- ing\xE9\
+    nierie sociale \n- codage de logiciels\n- et plus beaucoup plus !\n\nPour ne pas\
+    \ rater les vid\xE9os, n'h\xE9site pas a t'abonner.\n\n\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRS-tde-nPkqKbtFU5t7kzIRqkZ99fJE9lETGQtPg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '21900'
+  youtube_video_count: '31'
+  youtube_view_count: '399945'
