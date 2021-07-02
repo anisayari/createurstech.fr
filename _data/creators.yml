@@ -1,6 +1,6 @@
 - categories: ''
   global_name: TEACHERSDUNET
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel: def
   twitch_channel_name: ''
@@ -31,7 +31,7 @@
   youtube_view_count: '15436734'
 - categories: ''
   global_name: jojol67
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -65,7 +65,7 @@
   youtube_view_count: '416692068'
 - categories: ''
   global_name: Romainlanery
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -101,7 +101,7 @@
   youtube_view_count: '152581647'
 - categories: ''
   global_name: micode
-  plateforms: ''
+  plateforms: youtube twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
@@ -132,7 +132,7 @@
   youtube_view_count: '46753958'
 - categories: ''
   global_name: TheiCollection
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -160,7 +160,7 @@
   youtube_view_count: '136657111'
 - categories: ''
   global_name: NowTechTV
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -194,7 +194,7 @@
   youtube_view_count: '29966432'
 - categories: ''
   global_name: Hardisk
-  plateforms: ''
+  plateforms: youtube twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: HardiskLive
   twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
@@ -222,7 +222,7 @@
   youtube_view_count: '32965678'
 - categories: ''
   global_name: grafikart_fr
-  plateforms: ''
+  plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: grafikart
   twitch_description: Developpeur Web | Freelance
@@ -250,7 +250,7 @@
   youtube_view_count: '34866953'
 - categories: ''
   global_name: GuillaumeSlash
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -286,7 +286,7 @@
   youtube_view_count: '17839895'
 - categories: ''
   global_name: Gravenilvec
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -324,7 +324,7 @@
   youtube_view_count: '13302569'
 - categories: ''
   global_name: Formation Video
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -362,7 +362,7 @@
   youtube_view_count: '11766628'
 - categories: ''
   global_name: pierregird
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -393,7 +393,7 @@
   youtube_view_count: '14209281'
 - categories: ''
   global_name: Developpeur Libre
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -424,7 +424,7 @@
   youtube_view_count: '3525405'
 - categories: ''
   global_name: Wakedxy1
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -459,7 +459,7 @@
   youtube_view_count: '2669930'
 - categories: ''
   global_name: PrimFX
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -489,7 +489,7 @@
   youtube_view_count: '5444672'
 - categories: ''
   global_name: Iciamyplant
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -514,7 +514,7 @@
   youtube_view_count: '1755053'
 - categories: ''
   global_name: Benjamin Code
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -549,7 +549,7 @@
   youtube_view_count: '2814781'
 - categories: ''
   global_name: Machine Learnia
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -579,7 +579,7 @@
   youtube_view_count: '2494465'
 - categories: ''
   global_name: MikeCodeur
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -610,7 +610,7 @@
   youtube_view_count: '2413551'
 - categories: ''
   global_name: cocadmin
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -638,7 +638,7 @@
   youtube_view_count: '1995549'
 - categories: ''
   global_name: AnthoWelc
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -670,7 +670,7 @@
   youtube_view_count: '1840636'
 - categories: ''
   global_name: BastiUi
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -710,7 +710,7 @@
   youtube_view_count: '884756'
 - categories: ''
   global_name: Abrege
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -740,7 +740,7 @@
   youtube_view_count: '1208506'
 - categories: ''
   global_name: BertrandBourgy
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -771,7 +771,7 @@
   youtube_view_count: '2098597'
 - categories: ''
   global_name: LiiorC
-  plateforms: ''
+  plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: liior
   twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
@@ -802,7 +802,7 @@
   youtube_view_count: '1648913'
 - categories: ''
   global_name: CodeDesign_fr
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -831,14 +831,14 @@
   youtube_view_count: '1274640'
 - categories: ''
   global_name: Defend Intelligence
-  plateforms: ''
+  plateforms: youtube twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: DefendIntelligence
   twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3307
+  twitch_followers: 3308
   twitch_id: '209525793'
   twitch_number_of_view: 17564
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
@@ -864,7 +864,7 @@
   youtube_view_count: '483519'
 - categories: ''
   global_name: Go Digi
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -902,7 +902,7 @@
   youtube_view_count: '1354580'
 - categories: ''
   global_name: Ackanir
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -929,7 +929,7 @@
   youtube_view_count: '897043'
 - categories: ''
   global_name: FreresCodeurs
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -971,7 +971,7 @@
   youtube_view_count: '728316'
 - categories: ''
   global_name: getCodingKnowledge
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1004,7 +1004,7 @@
   youtube_view_count: '1914991'
 - categories: ''
   global_name: CaptainDev404
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1037,7 +1037,7 @@
   youtube_view_count: '545468'
 - categories: ''
   global_name: Le Designer du Web
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1064,7 +1064,7 @@
   youtube_view_count: '1012750'
 - categories: ''
   global_name: Smaine Milianni
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1096,7 +1096,7 @@
   youtube_view_count: '82067'
 - categories: ''
   global_name: Louistiti
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1126,7 +1126,7 @@
   youtube_view_count: '547150'
 - categories: ''
   global_name: DevTheory
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1157,7 +1157,7 @@
   youtube_view_count: '445515'
 - categories: ''
   global_name: "From Scratch - D\xE9veloppement Web"
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1187,7 +1187,7 @@
   youtube_view_count: '546479'
 - categories: ''
   global_name: GodOfMacro
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1213,7 +1213,7 @@
   youtube_view_count: '1816486'
 - categories: ''
   global_name: codeconcept
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1241,7 +1241,7 @@
   youtube_view_count: '718282'
 - categories: ''
   global_name: YvesRougyFR
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1267,7 +1267,7 @@
   youtube_view_count: '347451'
 - categories: ''
   global_name: Nord Coders
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1293,7 +1293,7 @@
   youtube_view_count: '925236'
 - categories: ''
   global_name: Docstring
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1322,7 +1322,7 @@
   youtube_view_count: '206243'
 - categories: ''
   global_name: JavaScript de Zero
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1353,7 +1353,7 @@
   youtube_view_count: '220760'
 - categories: ''
   global_name: Donkey Geek
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1380,7 +1380,7 @@
   youtube_view_count: '532712'
 - categories: ''
   global_name: Thibaud Dauce
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1411,7 +1411,7 @@
   youtube_view_count: '549427'
 - categories: ''
   global_name: Sitedudev
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1437,7 +1437,7 @@
   youtube_view_count: '337884'
 - categories: ''
   global_name: Grimille - La Meute
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1466,7 +1466,7 @@
   youtube_view_count: '253070'
 - categories: ''
   global_name: YoanDev
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1499,7 +1499,7 @@
   youtube_view_count: '141350'
 - categories: ''
   global_name: "S\xE9bastien Imbert"
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1533,7 +1533,7 @@
   youtube_view_count: '192288'
 - categories: ''
   global_name: Thomas Boileau
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1559,7 +1559,7 @@
   youtube_view_count: '95883'
 - categories: ''
   global_name: Je suis un dev
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1586,7 +1586,7 @@
   youtube_view_count: '28576'
 - categories: ''
   global_name: Louis Nicolas - BELIEVEMY
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1614,7 +1614,7 @@
   youtube_view_count: '84877'
 - categories: ''
   global_name: David Dias
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1651,7 +1651,7 @@
   youtube_view_count: '64331'
 - categories: ''
   global_name: "Seb Duval Cr\xE9ation de Sites Web"
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1679,7 +1679,7 @@
   youtube_view_count: '78329'
 - categories: ''
   global_name: Wawa Sensei
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1702,12 +1702,12 @@
     \ le monde du dev et de la formation\n\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbbtTIwF2vmCTvC13kj9OJh4njbVE4SyVoqd3z=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '1680'
+  youtube_subscriber_count: '1670'
   youtube_video_count: '37'
   youtube_view_count: '41381'
 - categories: ''
   global_name: Pierre Terrat
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1737,7 +1737,7 @@
   youtube_view_count: '71531'
 - categories: ''
   global_name: Road To Dev
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1763,7 +1763,7 @@
   youtube_view_count: '206042'
 - categories: ''
   global_name: neolectron
-  plateforms: ''
+  plateforms: youtube twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: neolectron
   twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
@@ -1790,7 +1790,7 @@
   youtube_view_count: '206042'
 - categories: ''
   global_name: Pierre Miniggio
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel: ''
   twitch_channel_name: ''
@@ -1821,7 +1821,7 @@
   youtube_view_count: '268535'
 - categories: ''
   global_name: Sofiyan Productiv'IT
-  plateforms: ''
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel: https://www.twitch.tv/sofiyan_productivit
   twitch_channel_name: ''
