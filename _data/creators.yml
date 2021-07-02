@@ -373,3 +373,25 @@
   youtube_channel: null
   followers_youtube: null
   number_of_youtube_video: null
+- global_name : Pierre Miniggio
+  twitter_account: PierreMiniggio
+  followers_twitter: 230
+  youtube_channel: Pierre Miniggio
+  followers_youtube: '2660'
+  number_of_youtube_videos: 351
+  profil_picture : https://yt3.ggpht.com/ytc/AKedOLSrI52EDzpsV2fpNtrIyViCJIFKkmc9x48ogoB9AQ=s88-c-k-c0x00ffffff-no-rj
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. I
+  twitch_channel : ''
+  categories: 'Dev Web'
+  plateformes : 'youtube'
+- global_name : Sofiyan Productiv'IT
+  twitter_account: sofiyan_ifren
+  followers_twitter: 164
+  youtube_channel: Sofiyan Productiv'IT
+  followers_youtube: '1710'
+  number_of_youtube_videos: 52
+  profil_picture : https://yt3.ggpht.com/ytc/AKedOLTKPmvkGGAmqthtKuPn0z2gi3DV21toSixQ0ThFFA=s88-c-k-c0x00ffffff-no-rj
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. I
+  twitch_channel : 'https://www.twitch.tv/sofiyan_productivit'
+  categories: 'Dev Web'
+  plateformes : 'youtube'
