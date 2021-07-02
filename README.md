@@ -12,7 +12,7 @@ A creator have to respect the following requirements :
  - For Youtube : minimum of 1000 subscribers
  - For Twitch : minimum of 1000 followers
  
- To add a creator you have to ask for a Pull Request. Your pull Request have to modify ONLY the file : `_data/creators.yml` and add ALL the followings fiels at the current time for the creator you are asking for proposal
+ To add a creator you have to ask for a Pull Request. Your pull Request have to modify ONLY the file : `_data/creators-short.json` and add ALL the followings fiels at the current time for the creator you are asking for proposal
 
 ```
 {
@@ -23,34 +23,6 @@ A creator have to respect the following requirements :
     "twitch_channel_name": #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN TWITCH.TV/CHANNEL_NAME_HERE,
     "twitter_screen_name": #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN twitter.com/TWITTER_USERNAME,
   }
-  
-- categories: #SPECIFY THE CATEGORIES (2 MAX)
-  global_name: 
-  plateforms: ''
-  twitch_broadcaster_type: 
-  twitch_channel_name: 
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
-  youtube_channel_id:  
-  youtube_channel_name: ''
-  youtube_channel_username: 
-  youtube_custom_url: ''
-  youtube_description: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: ''
-  youtube_video_count: ''
-  youtube_view_count: ''
-
 ```
 
 ### How to contribute to the projects :
