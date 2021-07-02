@@ -16,7 +16,7 @@
   twitter_screen_name: yrougy
   youtube_channel_id: UCfsEmSD8oVD147HCz5aCOUg
   youtube_channel_name: ''
-  youtube_channel_username: #SPECIFY THE CHANNEL USERNAME , YOU CAN FIND IT IN youtube.com/user/CHANNEL_USERNAME OR IF youtube.com/channel/CHANNEL_ID_HERE PLEASE CHECK youtube_channel_id AND LEAVE THIS ONE = ''
+  youtube_channel_username: ''
   youtube_custom_url: ''
   youtube_description: ''
   youtube_hidden_subscriber_count: ''
@@ -1265,32 +1265,6 @@
   youtube_subscriber_count: '9110'
   youtube_video_count: '318'
   youtube_view_count: '718282'
-- categories: ''
-  global_name: YvesRougyFR
-  plateforms: ''
-  twitch_broadcaster_type: ''
-  twitch_channel_name: ''
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
-  youtube_channel_id: UCfsEmSD8oVD147HCz5aCOUg
-  youtube_channel_name: YvesRougyFR
-  youtube_channel_username: yrougy
-  youtube_custom_url: yrougy
-  youtube_description: ''
-  youtube_hidden_subscriber_count: false
-  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSzfMARAJZvh4xRfNU-BTP2cTWqpiCG3ALaA38J=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '8480'
-  youtube_video_count: '144'
-  youtube_view_count: '347451'
 - categories: ''
   global_name: Nord Coders
   plateforms: ''
