@@ -221,10 +221,11 @@
   youtube_video_count: '471'
   youtube_view_count: '32965678'
 - categories: ''
-  global_name: grafikart_fr
+  global_name: 
+  t_fr
   plateforms: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: ''
+  twitch_channel_name: grafikart
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
