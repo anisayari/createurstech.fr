@@ -3,7 +3,13 @@
 @import "main";
 
 body{
-  #background-color: #222222;
+  background-color: #222222;
+  color: white;
+}
+
+a.site-title{
+  background-color: #222222;
+  color: white !important;
 }
 
 $card-spacer-x:            1.25rem;
@@ -17,6 +23,8 @@ $card-padding: .7rem;
   display: inline;
 }
 .card {
+  width: 100%;
+  color: black;
   position: relative;
   border: $card-border-width solid $card-border-color;
   border-radius : .5rem;
@@ -40,31 +48,36 @@ $card-padding: .7rem;
 }
 .button:active,
 .button.is-checked {
-  background: #f6b93b;
-  border-color: #f6b93b !important;
+  background: linear-gradient(#B848AC,#DE3765);
+  border-color: #DE3765 !important;
   color: #fff !important;
 }
 
 .button_tags:hover {
   color: #ffffff !important;
-  background: #f6b93b;
-  border-color: #f6b93b !important;
+  background: linear-gradient(#B848AC,#DE3765);
+  border-color: #DE3765 !important;
   transition: all 0.4s ease 0s;
 }
 
 .button_tags {
+  color:white !important;
   margin:2px;
-  color: #494949 !important;
   text-transform: uppercase;
   text-decoration: none;
-  background: #ffffff;
+  background: transparent;
   padding: 5px;
-  border: 1px solid #494949 !important;
+  border: 1px solid #ffffff !important;
+  border-radius: 5px;
   display: inline-block;
   transition: all 0.4s ease 0s;
 }
 
-
 .button-group{
   margin-bottom: 10px;
+}
+
+.global_name{
+  font-weight: bold;
+  font-size: large;
 }

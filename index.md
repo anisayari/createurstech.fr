@@ -1,10 +1,10 @@
 ---
-title: Le site qui référence les créateurs de contenus tech francophone.
 ---
 
 <link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
+<img src="banner.png">
 <div class='filters'>
 	<h2> Plateforme </h2>
   <div class="button-group filter-button-group" data-filter-group='plateform'>
@@ -35,7 +35,7 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 											                        <img src='{{creators.twitch_profil_image_url}}' width="50" height="50" class="rounded" />
 											{% endif %}
                     </div>
-                    <h4>  {{ creators.global_name }} </h4>
+                    <p class='global_name'>  {{ creators.global_name }} </p>
 
 									  {% if  creators.twitter_account_name   != '' %}
                     <a href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
@@ -83,6 +83,7 @@ $('.filters').on( 'click', '.button', function( event ) {
   var filterGroup = $buttonGroup.attr('data-filter-group');
 	console.log(filterGroup )
   filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
+	console.log( $button.attr('data-filter').replace(/ /g,"_").toLowerCase())
   var filterValue = concatValues( filters );
   $grid.isotope({ filter: filterValue });
 });
