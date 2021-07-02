@@ -52,4 +52,5 @@ You can contribute by forking the project and asking for a pull request (please 
 - [ ] Responsive adaptation
 - [ ] Create Data flow from Twitch  / Youtube / Twitter @anisayari
 - [ ] Enhancement on README
+- [ ] Logo createurs tech
 - [ ] Others task are coming..stay tuned
