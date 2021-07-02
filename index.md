@@ -5,23 +5,25 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 <link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
-<h2> Plateforme </h2>
-<div class="button-group-group-plateforme filter-button-group-plateforme">
+<div class='filters'>
+	<h2> Plateforme </h2>
+<div class="button-group filter-button-group" data-filter-group='plateforme'>
 
     {% for plateforme in site.data.plateformes %}
-    <a class='button button_tags' data-filter-plateforme=".{{plateforme}}">>{{plateforme}}</a>
+    <button class='button button_tags' data-filter=".{{plateforme}}">>{{plateforme}}</button >
     {%endfor%}
-    <a class='button button_tags'  data-filter-plateforme="">Tout</a>
+    <button  class='button button_tags button_plateforme'  data-filter="">Tout</button >
 </div>
 
 <h2> Sujet </h2>
-<div class="button-group filter-button-group">
+<div class="button-group filter-button-group"  data-filter-group='categories'>
     {% for categories in site.data.categories %}
 
-    <a class='button button_tags' data-filter=".{{categories}}">>{{categories}}</a>
+    <button  class='button button_tags' data-filter=".{{categories}}">>{{categories}}</button >
     {%endfor%}
-    <a class='button button_tags'  data-filter="*">Tout</a>
+    <button  class='button button_tags button_categories'  data-filter="*">Tout</button >
 </div>
+	</div>
 
 <div class="grid ">
         {% for creators in site.data.creators %}
@@ -52,28 +54,40 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script>
   console.log('bj')
-  var $grid = $('.grid').isotope({
-    itemSelector: '.card',
-  });
-	 
-var filterValuePlateforme = ' youtube twitch'
-var filterValue = ''
 	
-  $('.filter-button-group').on( 'click', 'a', function() {
-    filterValue = $(this).attr('data-filter').replace(/ /g,"_").toLowerCase();
-    console.log(filterValue )
-    $grid.isotope({ filter: filterValue});
-  });
+var $grid = $('.grid').isotope({
+  itemSelector: '.card'
+});
 
+var filters = {};
 
-  $('.filter-button-group-plateforme').on( 'click', 'a', function() {
-    filterValuePlateforme = $(this).attr('data-filter-plateforme').replace(/ /g,"_").toLowerCase();
-     $grid.isotope({ filter: filterValuePlateforme  });
-	    console.log(filterValuePlateforme)
+$('.filters').on( 'click', '.button', function( event ) {
+   var $button = $( event.currentTarget );
+  var $buttonGroup = $button.parents('.button-group');
+  var filterGroup = $buttonGroup.attr('data-filter-group');
+	console.log(filterGroup )
+  filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
+  var filterValue = concatValues( filters );
+  $grid.isotope({ filter: filterValue });
+});
+	
+$('.button-group').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', 'button', function( event ) {
+		console.log('test')
+    $buttonGroup.find('.is-checked').removeClass('is-checked');
+    var $button = $( event.currentTarget );
+    $button.addClass('is-checked');
   });
+});
 
-  $('.button-group-plateforme a.button').on('click', function(){
-    $('.button-group-plateforme a.button').removeClass('active');
-    $(this).addClass('active');
-  });
+// flatten object by concatting values
+function concatValues( obj ) {
+  var value = '';
+  for ( var prop in obj ) {
+    value += obj[ prop ];
+  }
+  return value;
+}
+	
 </script>
