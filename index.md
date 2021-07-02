@@ -39,12 +39,13 @@ title: Le site qui référence les créateurs de contenus tech francophone.
                     <h4>  {{ creators.global_name }} </h4>
 
 									  {% if  creators.twitter_account_name   != '' %}
-                    <a href='https://twitter.com/@{{ creators.twitter_account_name| markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
                     <p>{{ creators.followers_twitter }}</p>
 										{% endif %}
 
 									{% if creators.youtube_channel_name  != '' %}
-                    <a class='button-youtube' href='https://youtube.com/c/{{ youtube_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+									https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}
+                    <a class='button-youtube' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
                     <p>{{ creators.youtube_subscriber_count}} followers, {{ creators.youtube_video_count}} videos</p>
 									{% endif %}
 									
