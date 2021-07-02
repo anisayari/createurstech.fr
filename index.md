@@ -18,7 +18,6 @@ title: Le site qui référence les créateurs de contenus tech francophone.
   <h2> Sujet </h2>
   <div class="button-group filter-button-group"  data-filter-group='categories'>
       {% for categories in site.data.categories %}
-
       <button class='button button_tags' data-filter=".{{categories}}">{{categories}}</button>
       {%endfor%}
       <button class='button button_tags button_categories'  data-filter="*">Tout</button>
@@ -79,8 +78,10 @@ var filters = {};
 
 $('.filters').on( 'click', '.button', function( event ) {
    var $button = $( event.currentTarget );
+	console.log($button)
   var $buttonGroup = $button.parents('.button-group');
   var filterGroup = $buttonGroup.attr('data-filter-group');
+	console.log(filterGroup )
   filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
   var filterValue = concatValues( filters );
   $grid.isotope({ filter: filterValue });
