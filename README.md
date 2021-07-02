@@ -45,6 +45,7 @@ data structuring in progress
 
 ### Contribution
 You can contribute by forking the project and asking for a pull request (please respect commit messages and pull request comments)
+
 ###Todo
 - [x] Init project on jekyll
 - [x] Setup custom domain

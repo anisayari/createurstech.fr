@@ -36,7 +36,7 @@ title: Le site qui référence les créateurs de contenus tech francophone.
                     <a href='https://twitter.com/@{{ creators.twitter_account }}' target="_blank"><i class="fab fa-twitter"></i></a>
                     {{ creators.followers_twitter }}
                     <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel}}' target="_blank"><i class="fab fa-youtube"></i></a>
-                    {{ creators.followers_youtube}} followers, {{ creators.number_of_youtube_videos}} videos
+                    {{ creators.followers_youtube }} followers, {{ creators.number_of_youtube_videos}} videos
                     {% if  creator.twitch_channel%}
                     <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel}}' target="_blank"><i class="fab fa-twitch"></i></a> {{ creators.followers_twitch}} followers
                     {%endif%}
@@ -66,9 +66,17 @@ $('.filters').on( 'click', '.button', function( event ) {
   var $buttonGroup = $button.parents('.button-group');
   var filterGroup = $buttonGroup.attr('data-filter-group');
 	console.log(filterGroup )
-  filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
-  var filterValue = concatValues( filters );
-  $grid.isotope({ filter: filterValue });
+	console.log($button.attr('data-filter'))
+	
+  filters[ filterGroup ] = $button.attr('data-filter').replaceAll(" ","_").toLowerCase().replace(/[!"#$%&'()+,\/:;<=>?@[\\\]^`{|}~]/g, "\\\$&");
+	console.log(filters)
+  var filterValue = concatValues( filters) ;
+	filterValue = filterValue;
+	
+	console.log( typeof filterValue);
+	console.log( filterValue);
+	
+  $grid.isotope({ filter: filterValue});
 });
 	
 $('.button-group').each( function( i, buttonGroup ) {
@@ -87,7 +95,7 @@ function concatValues( obj ) {
   for ( var prop in obj ) {
     value += obj[ prop ];
   }
-  return value;
+  return value.replaceAll('  ',"_").toLowerCase();
 }
 	
 </script>

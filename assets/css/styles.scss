@@ -2,10 +2,6 @@
 ---
 @import "main";
 
-body{
-  #background-color: #222222;
-}
-
 $card-spacer-x:            1.25rem;
 $card-spacer-y:            .75rem;
 $card-border-width:        .0625rem;
@@ -25,6 +21,11 @@ $card-padding: .7rem;
   margin-left : 1rem;
   margin-right : 1rem;
   padding : $card-padding;
+
+}
+.card > p {
+  max-height : 75px;
+  overflow: auto;
 }
 
 .button-youtube{

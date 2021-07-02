@@ -5,7 +5,7 @@
   followers_youtube: ''
   number_of_youtube_videos: 1456
   profil_picture : https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s88-c-k-c0x00ffffff-no-rj
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. I
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
   twitch_channel : 'def'
   categories: 'dev_web actu_tech'
   followers_twitch: 150
@@ -143,6 +143,7 @@
   youtube_channel: Defend Intelligence
   followers_youtube: 21000
   number_of_youtube_video: 54
+  categories: 'ia_&_machine_learning'
 - twitter: null
   followers_ twitter: null
   youtube_channel: Go Digi
