@@ -44,13 +44,13 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 										{% endif %}
 
 									  {% if creators.youtube_channel_name  != '' %}
-                    {% if creators.youtube_custom_url != '' %}
-                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_custom_url | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
-                    {% elsif creators.youtube_custom_url != '' %}
-                    <a class='button-youtube' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
-                    {% else %}
-                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
-                    {% endif %}
+                      {% if creators.youtube_custom_url != null %}
+                        <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_custom_url | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                        {% elsif creators.youtube_channel_id != null %}
+                        <a class='button-youtube' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                        {% else %}
+                        <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                      {% endif %}
 
                     <p>{{ creators.youtube_subscriber_count}} followers, {{ creators.youtube_video_count}} videos</p>
 									  {% endif %}
