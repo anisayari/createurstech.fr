@@ -9,12 +9,14 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
+  twitter_description: "D\xE9couvrez des tutoriels de cat\xE9gories diverses (informatique,\
+    \ physique, t\xE9l\xE9communications...) expliqu\xE9s de mani\xE8re simple et\
+    \ chirurgicale !!"
+  twitter_followers: 2554
+  twitter_id: 2213983291
+  twitter_name: LES TEACHERS DU NET
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/484386252083298304/aaZDnb8c_normal.png
+  twitter_screen_name: TEACHERSDUNET
   youtube_channel_id: UCzuaB4F2znrMggxcwUuVhAw
   youtube_channel_name: LES TEACHERS DU NET
   youtube_channel_username: hounwanou1993
@@ -104,9 +106,9 @@
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
     \ mercredis \xE0 20h"
-  twitch_followers: 47953
+  twitch_followers: 47954
   twitch_id: '273839506'
-  twitch_number_of_view: 534343
+  twitch_number_of_view: 534345
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -199,7 +201,7 @@
     \ Tech !"
   twitch_followers: 21932
   twitch_id: '42405140'
-  twitch_number_of_view: 133587
+  twitch_number_of_view: 133589
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -226,7 +228,7 @@
   twitch_description: Developpeur Web | Freelance
   twitch_followers: 5986
   twitch_id: '32887598'
-  twitch_number_of_view: 103540
+  twitch_number_of_view: 103542
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -319,7 +321,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQFoCgRQlcgfJ-7MI7Cg8htvesAlySSokz7NRbgDQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '207000'
   youtube_video_count: '160'
-  youtube_view_count: '13291764'
+  youtube_view_count: '13302569'
 - categories: ''
   global_name: Formation Video
   plateforms: ''
@@ -776,7 +778,7 @@
     \ "
   twitch_followers: 950
   twitch_id: '86914720'
-  twitch_number_of_view: 5027
+  twitch_number_of_view: 5029
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/liior-profile_image-58aeb8355fe3384e-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -836,9 +838,9 @@
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3303
+  twitch_followers: 3307
   twitch_id: '209525793'
-  twitch_number_of_view: 17497
+  twitch_number_of_view: 17564
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -1315,7 +1317,7 @@
     ral.\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '9340'
+  youtube_subscriber_count: '9350'
   youtube_video_count: '49'
   youtube_view_count: '206243'
 - categories: ''
@@ -1430,7 +1432,7 @@
     \ ! \U0001F600"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSxL74IPzvD5oBELIUR4GkKwtqZsfhhHdkFjZq1Wg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '4020'
+  youtube_subscriber_count: '4010'
   youtube_video_count: '111'
   youtube_view_count: '337884'
 - categories: ''
@@ -1768,7 +1770,7 @@
     \ plus que tout transmettre sa passion."
   twitch_followers: 2172
   twitch_id: '48965120'
-  twitch_number_of_view: 24256
+  twitch_number_of_view: 24257
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/99dce956-1b8c-4403-8409-fa0985f49430-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -1797,12 +1799,14 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
+  twitter_description: "\U0001F5FF\nD\xE9veloppeur @agencesafti | @Github pierreminiggio\
+    \ | Guitare, Basse, Piano & MAO | @Facebook pminiggio | @Instagram @tiktok_us\
+    \ @Youtube pierreminiggio"
+  twitter_followers: 230
+  twitter_id: 1451795576
+  twitter_name: "\u03C0r \u1D33\u1D33\u1D35\u1D3C"
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1273522615244722182/iEKTLbLk_normal.jpg
+  twitter_screen_name: PierreMiniggio
   youtube_channel_id: UCKbunxMnqxM8UFMEYF79CUQ
   youtube_channel_name: Pierre Miniggio
   youtube_channel_username: CatoonTheCat
@@ -1826,12 +1830,13 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
+  twitter_description: "Web Scrapper \U0001F468\u200D\U0001F4BB Bot Maker \U0001F916\
+    \ Indie Maker \U0001F680\nhttps://t.co/dBQMUEp7D0\n (RT || Likes) != endorsement"
+  twitter_followers: 164
+  twitter_id: 875092569251827713
+  twitter_name: Sofiyan Productiv'IT
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1347568373962571776/GZ44-VPN_normal.jpg
+  twitter_screen_name: sofiyan_ifren
   youtube_channel_id: UC6hw-vlN2TqmgMcJ_QLlZ5A
   youtube_channel_name: Sofiyan Productiv'IT
   youtube_channel_username: ''
