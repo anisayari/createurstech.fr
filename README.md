@@ -9,8 +9,8 @@ Le site est en construction est disponible ici : https://createurstech.fr
 A creator have to respect the following requirements :
  - Have a Youtube or Twitch active channels
  - French language
- - For Youtube : minimum og 1000 subscribers
- - For Twitch : minimum of 500 followers
+ - For Youtube : minimum of 1000 subscribers
+ - For Twitch : minimum of 1000 followers
  
  To add a creator you have to ask for a Pull Request. Your pull Request have to modify ONLY the file : `_data/creators.yml` and add ALL the followings fiels at the current time for the creator you are asking for proposal
 
