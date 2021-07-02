@@ -15,12 +15,20 @@ A creator have to respect the following requirements :
  To add a creator you have to ask for a Pull Request. Your pull Request have to modify ONLY the file : `_data/creators.yml` and add ALL the followings fiels at the current time for the creator you are asking for proposal
 
 ```
-
+{
+  "#SPECIFY USERNAME OF THE CREATOR": {
+    "youtube_channel_id": #SPECIFY THE CHANNEL ID , YOU CAN FIND IT IN youtube.com/channel/CHANNEL_ID_HERE OR IF youtube.com/user/CHANNEL_USERNAME_HERE PLEASE CHECK youtube_channel_username AND LEAVE THIS ONE = '',
+    "youtube_channel_username": #SPECIFY THE CHANNEL USERNAME , YOU CAN FIND IT IN youtube.com/user/CHANNEL_USERNAME OR IF youtube.com/channel/CHANNEL_ID_HERE PLEASE CHECK youtube_channel_id AND LEAVE THIS ONE = '',
+    "categories": "",
+    "twitch_channel_name": #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN TWITCH.TV/CHANNEL_NAME_HERE,
+    "twitter_screen_name": #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN twitter.com/TWITTER_USERNAME,
+  }
+  
 - categories: #SPECIFY THE CATEGORIES (2 MAX)
-  global_name: #SPECIFY USERNAME OF THE CREATOR
+  global_name: 
   plateforms: ''
   twitch_broadcaster_type: 
-  twitch_channel_name: #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN TWITCH.TV/CHANNEL_NAME_HERE
+  twitch_channel_name: 
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
@@ -32,9 +40,9 @@ A creator have to respect the following requirements :
   twitter_name: ''
   twitter_profile_picture: ''
   twitter_screen_name: ''
-  youtube_channel_id:  #SPECIFY THE CHANNEL ID , YOU CAN FIND IT IN youtube.com/channel/CHANNEL_ID_HERE OR IF youtube.com/user/CHANNEL_USERNAME_HERE PLEASE CHECK youtube_channel_username AND LEAVE THIS ONE = ''
+  youtube_channel_id:  
   youtube_channel_name: ''
-  youtube_channel_username: #SPECIFY THE CHANNEL USERNAME , YOU CAN FIND IT IN youtube.com/user/CHANNEL_USERNAME OR IF youtube.com/channel/CHANNEL_ID_HERE PLEASE CHECK youtube_channel_id AND LEAVE THIS ONE = ''
+  youtube_channel_username: 
   youtube_custom_url: ''
   youtube_description: ''
   youtube_hidden_subscriber_count: ''
