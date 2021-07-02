@@ -106,9 +106,9 @@
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
     \ mercredis \xE0 20h"
-  twitch_followers: 47942
+  twitch_followers: 47952
   twitch_id: '273839506'
-  twitch_number_of_view: 534326
+  twitch_number_of_view: 534343
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -199,9 +199,9 @@
   twitch_channel_name: HardiskLive
   twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
     \ Tech !"
-  twitch_followers: 21914
+  twitch_followers: 21932
   twitch_id: '42405140'
-  twitch_number_of_view: 133229
+  twitch_number_of_view: 133587
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -772,13 +772,14 @@
 - categories: ''
   global_name: LiiorC
   plateforms: ''
-  twitch_broadcaster_type: ''
+  twitch_broadcaster_type: affiliate
   twitch_channel_name: liior
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
+    \ "
+  twitch_followers: 950
+  twitch_id: '86914720'
+  twitch_number_of_view: 5027
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/liior-profile_image-58aeb8355fe3384e-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
   twitter_id: ''
@@ -837,9 +838,9 @@
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3286
+  twitch_followers: 3298
   twitch_id: '209525793'
-  twitch_number_of_view: 17373
+  twitch_number_of_view: 17497
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -1763,13 +1764,14 @@
 - categories: ''
   global_name: neolectron
   plateforms: ''
-  twitch_broadcaster_type: ''
+  twitch_broadcaster_type: partner
   twitch_channel_name: neolectron
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
+    \ plus que tout transmettre sa passion."
+  twitch_followers: 2172
+  twitch_id: '48965120'
+  twitch_number_of_view: 24256
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/99dce956-1b8c-4403-8409-fa0985f49430-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
   twitter_id: ''
