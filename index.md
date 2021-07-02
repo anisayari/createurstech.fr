@@ -43,13 +43,20 @@ title: Le site qui référence les créateurs de contenus tech francophone.
                     <p>{{ creators.followers_twitter }}</p>
 										{% endif %}
 
-									{% if creators.youtube_channel_name  != '' %}
-                    <a class='button-youtube' href='https://youtube.com/c/{{ youtube_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+									  {% if creators.youtube_channel_name  != '' %}
+                    {% if creators.youtube_custom_url != '' %}
+                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_custom_url | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                    {% elsif creators.youtube_custom_url != '' %}
+                    <a class='button-youtube' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                    {% else %}
+                    <a class='button-youtube' href='https://youtube.com/c/{{ creators.youtube_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
+                    {% endif %}
+
                     <p>{{ creators.youtube_subscriber_count}} followers, {{ creators.youtube_video_count}} videos</p>
-									{% endif %}
+									  {% endif %}
 									
                     {%  if   creators.twitch_channel_name  != '' %}
-																			                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-twitch"></i></a>
+                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-twitch"></i></a>
                     <p> {{ creators.twitch_followers}} followers</p>
 
                     {% endif  %}
