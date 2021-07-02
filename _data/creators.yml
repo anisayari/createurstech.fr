@@ -1,8 +1,4 @@
-- categories: dev_web actu_tech
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type
-    specimen book. I
+- categories: ''
   followers_twitch: 150
   global_name: TEACHERSDUNET
   plateformes: ''
@@ -17,9 +13,13 @@
   twitter_account_name: TEACHERSDUNET
   twitter_followers: 2538
   youtube_channel_name: Les teachers du net
+  youtube_description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book. I
   youtube_followers: ''
   youtube_number_of_videos: 1456
-- categories: dev_web
+- categories: ''
   global_name: jojol67
   plateformes: ''
   twitch_broadcaster_type: ''
@@ -32,7 +32,8 @@
   youtube_channel_name: jojol
   youtube_followers: 2190000
   youtube_number_of_videos: 1510
-- global_name: Romainlanery
+- categories: ''
+  global_name: Romainlanery
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -44,7 +45,8 @@
   youtube_channel_name: Romain Lanery
   youtube_followers: 1010000
   youtube_number_of_videos: 834
-- global_name: micode
+- categories: ''
+  global_name: micode
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -56,7 +58,8 @@
   youtube_channel_name: micode
   youtube_followers: 850000
   youtube_number_of_videos: 90
-- global_name: TheiCollection
+- categories: ''
+  global_name: TheiCollection
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -68,7 +71,8 @@
   youtube_channel_name: TheiCollection
   youtube_followers: 776000
   youtube_number_of_videos: 856
-- global_name: NowTechTV
+- categories: ''
+  global_name: NowTechTV
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -80,7 +84,8 @@
   youtube_channel_name: Nowtech
   youtube_followers: 293000
   youtube_number_of_videos: 460
-- global_name: Hardisk
+- categories: ''
+  global_name: Hardisk
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -92,7 +97,8 @@
   youtube_channel_name: hardisk
   youtube_followers: 275000
   youtube_number_of_videos: 469
-- global_name: grafikart_fr
+- categories: ''
+  global_name: grafikart_fr
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -104,7 +110,8 @@
   youtube_channel_name: Grafikart.fr
   youtube_followers: 215000
   youtube_number_of_videos: 1272
-- global_name: GuillaumeSlash
+- categories: ''
+  global_name: GuillaumeSlash
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -116,7 +123,8 @@
   youtube_channel_name: Guillaume Slash
   youtube_followers: 209000
   youtube_number_of_videos: 198
-- global_name: Gravenilvec
+- categories: ''
+  global_name: Gravenilvec
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -128,7 +136,8 @@
   youtube_channel_name: Graven - Developpement
   youtube_followers: 205000
   youtube_number_of_videos: 169
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -140,7 +149,8 @@
   youtube_channel_name: FormationVideo
   youtube_followers: 133000
   youtube_number_of_videos: 441
-- global_name: pierregird
+- categories: ''
+  global_name: pierregird
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -152,7 +162,8 @@
   youtube_channel_name: Pierre Giraud
   youtube_followers: 103000
   youtube_number_of_videos: 252
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -164,7 +175,8 @@
   youtube_channel_name: Developpeur Libre
   youtube_followers: 88700
   youtube_number_of_videos: 148
-- global_name: Wakedxy1
+- categories: ''
+  global_name: Wakedxy1
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -176,7 +188,8 @@
   youtube_channel_name: waked XY
   youtube_followers: 75800
   youtube_number_of_videos: 75
-- global_name: BorisFlesch
+- categories: ''
+  global_name: BorisFlesch
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -188,7 +201,8 @@
   youtube_channel_name: PrimFX
   youtube_followers: 61600
   youtube_number_of_videos: 198
-- global_name: Iciamyplant
+- categories: ''
+  global_name: Iciamyplant
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -200,7 +214,8 @@
   youtube_channel_name: Ici Amy Plant
   youtube_followers: 60700
   youtube_number_of_videos: 15
-- global_name: BenjamincodeYT
+- categories: ''
+  global_name: BenjamincodeYT
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -212,7 +227,8 @@
   youtube_channel_name: Benjamin Code
   youtube_followers: 54000
   youtube_number_of_videos: 189
-- global_name: Mlearnia
+- categories: ''
+  global_name: Mlearnia
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -224,7 +240,8 @@
   youtube_channel_name: machine learnia
   youtube_followers: 49900
   youtube_number_of_videos: 57
-- global_name: MikeCodeur
+- categories: ''
+  global_name: MikeCodeur
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -236,7 +253,8 @@
   youtube_channel_name: Mike Codeur
   youtube_followers: 42700
   youtube_number_of_videos: 246
-- global_name: cocadmin
+- categories: ''
+  global_name: cocadmin
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -248,7 +266,8 @@
   youtube_channel_name: cocadmin
   youtube_followers: 41200
   youtube_number_of_videos: 75
-- global_name: AnthoWelc
+- categories: ''
+  global_name: AnthoWelc
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -260,7 +279,8 @@
   youtube_channel_name: Hardcoders by Antho Wel
   youtube_followers: 39400
   youtube_number_of_videos: 169
-- global_name: BastiUi
+- categories: ''
+  global_name: BastiUi
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -272,7 +292,8 @@
   youtube_channel_name: Basti Ui
   youtube_followers: 34200
   youtube_number_of_videos: 83
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -284,7 +305,8 @@
   youtube_channel_name: Abrege
   youtube_followers: 31700
   youtube_number_of_videos: 48
-- global_name: BertrandBourgy
+- categories: ''
+  global_name: BertrandBourgy
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -296,7 +318,8 @@
   youtube_channel_name: La Tech avec Bertrand
   youtube_followers: 30600
   youtube_number_of_videos: 76
-- global_name: LiiorC
+- categories: ''
+  global_name: LiiorC
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -308,7 +331,8 @@
   youtube_channel_name: Lior Chamla
   youtube_followers: 27400
   youtube_number_of_videos: 82
-- global_name: CodeDesign_fr
+- categories: ''
+  global_name: CodeDesign_fr
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -320,7 +344,8 @@
   youtube_channel_name: Code & Design
   youtube_followers: 23300
   youtube_number_of_videos: 52
-- global_name: Dfintelligence
+- categories: ''
+  global_name: Dfintelligence
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -332,7 +357,8 @@
   youtube_channel_name: Defend Intelligence
   youtube_followers: 21000
   youtube_number_of_videos: 54
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -344,7 +370,8 @@
   youtube_channel_name: Go Digi
   youtube_followers: 20700
   youtube_number_of_videos: 32
-- global_name: Ackanir
+- categories: ''
+  global_name: Ackanir
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -356,7 +383,8 @@
   youtube_channel_name: Ackanir
   youtube_followers: 20100
   youtube_number_of_videos: 74
-- global_name: FreresCodeurs
+- categories: ''
+  global_name: FreresCodeurs
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -368,7 +396,8 @@
   youtube_channel_name: Les Freres Codeurs
   youtube_followers: 18700
   youtube_number_of_videos: 138
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -380,7 +409,8 @@
   youtube_channel_name: getCodingKnowledge
   youtube_followers: 18000
   youtube_number_of_videos: 654
-- global_name: CaptainDev404
+- categories: ''
+  global_name: CaptainDev404
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -392,7 +422,8 @@
   youtube_channel_name: Captain Dev
   youtube_followers: 16400
   youtube_number_of_videos: 94
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -404,7 +435,8 @@
   youtube_channel_name: Le Designer du Web
   youtube_followers: 14700
   youtube_number_of_videos: 424
-- global_name: Eniams_Dev
+- categories: ''
+  global_name: Eniams_Dev
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -416,7 +448,8 @@
   youtube_channel_name: Smaine Milianni
   youtube_followers: 14600
   youtube_number_of_videos: 25
-- global_name: HumanTalksParis
+- categories: ''
+  global_name: HumanTalksParis
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -428,7 +461,8 @@
   youtube_channel_name: Human Talks Paris
   youtube_followers: 14500
   youtube_number_of_videos: 153
-- global_name: louistiti_fr
+- categories: ''
+  global_name: louistiti_fr
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -440,7 +474,8 @@
   youtube_channel_name: Louistiti
   youtube_followers: 11100
   youtube_number_of_videos: 57
-- global_name: devtheory_
+- categories: ''
+  global_name: devtheory_
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -452,7 +487,8 @@
   youtube_channel_name: DevTheory
   youtube_followers: 11000
   youtube_number_of_videos: 140
-- global_name: KobeKenjo
+- categories: ''
+  global_name: KobeKenjo
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -464,7 +500,8 @@
   youtube_channel_name: From Scratch - Developpement Web
   youtube_followers: 10700
   youtube_number_of_videos: 81
-- global_name: GodOfMacro
+- categories: ''
+  global_name: GodOfMacro
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -476,7 +513,8 @@
   youtube_channel_name: GodOfMacro
   youtube_followers: 9850
   youtube_number_of_videos: 289
-- global_name: codeconcept2
+- categories: ''
+  global_name: codeconcept2
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -488,7 +526,8 @@
   youtube_channel_name: Codeconcept
   youtube_followers: 9040
   youtube_number_of_videos: 314
-- global_name: yrougy
+- categories: ''
+  global_name: yrougy
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -500,7 +539,8 @@
   youtube_channel_name: YvesRougyFR
   youtube_followers: 8370
   youtube_number_of_videos: 144
-- global_name: NordCoders
+- categories: ''
+  global_name: NordCoders
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -512,7 +552,8 @@
   youtube_channel_name: Nord Coders
   youtube_followers: 8070
   youtube_number_of_videos: 213
-- global_name: DocstringFr
+- categories: ''
+  global_name: DocstringFr
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -524,7 +565,8 @@
   youtube_channel_name: Docstring
   youtube_followers: 6900
   youtube_number_of_videos: 45
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -536,7 +578,8 @@
   youtube_channel_name: AFUP PHP
   youtube_followers: 6770
   youtube_number_of_videos: 550
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -548,7 +591,8 @@
   youtube_channel_name: JavaScript de Zero
   youtube_followers: 6630
   youtube_number_of_videos: 55
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -560,7 +604,8 @@
   youtube_channel_name: Donkey Geek
   youtube_followers: 5560
   youtube_number_of_videos: 139
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -572,7 +617,8 @@
   youtube_channel_name: Thibaud Dauce
   youtube_followers: 4490
   youtube_number_of_videos: 387
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -584,7 +630,8 @@
   youtube_channel_name: Sitedudev
   youtube_followers: 3960
   youtube_number_of_videos: 110
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -596,7 +643,8 @@
   youtube_channel_name: Grimille - La Meute
   youtube_followers: 3900
   youtube_number_of_videos: 96
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -608,7 +656,8 @@
   youtube_channel_name: YoanDev
   youtube_followers: 3660
   youtube_number_of_videos: 51
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -620,7 +669,8 @@
   youtube_channel_name: Sebastien Imbert (Raton Codeur)
   youtube_followers: 3400
   youtube_number_of_videos: 55
-- global_name: boileau_thomas
+- categories: ''
+  global_name: boileau_thomas
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -632,7 +682,8 @@
   youtube_channel_name: Thomas Boileau
   youtube_followers: 2750
   youtube_number_of_videos: 53
-- global_name: jesuisundev
+- categories: ''
+  global_name: jesuisundev
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -644,7 +695,8 @@
   youtube_channel_name: Je suis un dev
   youtube_followers: 2740
   youtube_number_of_videos: 7
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -656,7 +708,8 @@
   youtube_channel_name: Louis Nicolas - BELIEVEMY
   youtube_followers: 2000
   youtube_number_of_videos: 104
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -668,7 +721,8 @@
   youtube_channel_name: David Dias
   youtube_followers: 1970
   youtube_number_of_videos: 14
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -680,7 +734,8 @@
   youtube_channel_name: Seb Duval - Creation de sites web
   youtube_followers: 1920
   youtube_number_of_videos: 16
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -692,7 +747,8 @@
   youtube_channel_name: Wawa Sensei
   youtube_followers: 1550
   youtube_number_of_videos: 35
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -704,7 +760,8 @@
   youtube_channel_name: Pierre Terrat
   youtube_followers: 1460
   youtube_number_of_videos: 35
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -716,7 +773,8 @@
   youtube_channel_name: Road To Dev
   youtube_followers: 1420
   youtube_number_of_videos: 80
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -728,7 +786,8 @@
   youtube_channel_name: SDN
   youtube_followers: 1210
   youtube_number_of_videos: 98
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -740,7 +799,8 @@
   youtube_channel_name: Ben Open
   youtube_followers: 976
   youtube_number_of_videos: 30
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -752,7 +812,8 @@
   youtube_channel_name: Cyberastuces
   youtube_followers: 825
   youtube_number_of_videos: 17
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -764,7 +825,8 @@
   youtube_channel_name: NadfriJS
   youtube_followers: 561
   youtube_number_of_videos: 53
-- global_name: sebi2706
+- categories: ''
+  global_name: sebi2706
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -776,7 +838,8 @@
   youtube_channel_name: Sebastien Blanc
   youtube_followers: 547
   youtube_number_of_videos: 81
-- global_name: alorsondev
+- categories: ''
+  global_name: alorsondev
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -788,7 +851,8 @@
   youtube_channel_name: Alors on dev
   youtube_followers: 532
   youtube_number_of_videos: 2
-- global_name: lokiledev
+- categories: ''
+  global_name: lokiledev
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -800,7 +864,8 @@
   youtube_channel_name: Loki le dev
   youtube_followers: 512
   youtube_number_of_videos: 38
-- global_name: neolectron
+- categories: ''
+  global_name: neolectron
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -812,7 +877,8 @@
   youtube_channel_name: neolectron
   youtube_followers: 475
   youtube_number_of_videos: 3
-- global_name: AtaxyaNetwork
+- categories: ''
+  global_name: AtaxyaNetwork
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -824,7 +890,8 @@
   youtube_channel_name: Ataxya Network
   youtube_followers: 346
   youtube_number_of_videos: 3
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -836,7 +903,8 @@
   youtube_channel_name: training dev
   youtube_followers: 171
   youtube_number_of_videos: 21
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -848,7 +916,8 @@
   youtube_channel_name: HappyToDev
   youtube_followers: 167
   youtube_number_of_videos: 25
-- global_name: null
+- categories: ''
+  global_name: null
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -860,7 +929,8 @@
   youtube_channel_name: Benjamin Bohec
   youtube_followers: 55
   youtube_number_of_videos: 215
-- global_name: quota_atypique
+- categories: ''
+  global_name: quota_atypique
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -872,7 +942,8 @@
   youtube_channel_name: null
   youtube_followers: null
   youtube_number_of_videos: null
-- global_name: sebsauvage_net
+- categories: ''
+  global_name: sebsauvage_net
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -884,11 +955,7 @@
   youtube_channel_name: null
   youtube_followers: null
   youtube_number_of_videos: null
-- categories: Dev Web
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type
-    specimen book. I
+- categories: ''
   global_name: Pierre Miniggio
   plateformes: ''
   profil_picture: https://yt3.ggpht.com/ytc/AKedOLSrI52EDzpsV2fpNtrIyViCJIFKkmc9x48ogoB9AQ=s88-c-k-c0x00ffffff-no-rj
@@ -902,13 +969,13 @@
   twitter_account_name: PierreMiniggio
   twitter_followers: 230
   youtube_channel_name: Pierre Miniggio
+  youtube_description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book. I
   youtube_followers: '2660'
   youtube_number_of_videos: 351
-- categories: Dev Web
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type
-    specimen book. I
+- categories: ''
   global_name: Sofiyan Productiv'IT
   plateformes: ''
   profil_picture: https://yt3.ggpht.com/ytc/AKedOLTKPmvkGGAmqthtKuPn0z2gi3DV21toSixQ0ThFFA=s88-c-k-c0x00ffffff-no-rj
@@ -922,5 +989,9 @@
   twitter_account_name: sofiyan_ifren
   twitter_followers: 164
   youtube_channel_name: Sofiyan Productiv'IT
+  youtube_description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book. I
   youtube_followers: '1710'
   youtube_number_of_videos: 52
