@@ -26,8 +26,17 @@ plateformes : #
 data structuring in progress
 '''
 
-###How to contribute to the projects :
-First of all you have to [Install gem](https://jekyllrb.com/docs/installation/)
+### How to contribute to the projects :
+
+-First of all you have to [Install gem](https://jekyllrb.com/docs/installation/)
+-Fork the project
+-Clone the project
+- run 'bundle install' on the root directory
+- run 'bundle exec jekyll serve' on the root directory
+- You can access the website from 'http://localhost:4000'
+- You can access admin panel with a nice-looking interface to modify code to 'http://localhost:4000/admin'
+-Modify code
+-As for a Pull Request on this repo
 
 
 ### Contribution
