@@ -7,12 +7,12 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 
 <div class='filters'>
 	<h2> Plateforme </h2>
-  <div class="button-group filter-button-group" data-filter-group='plateforme'>
+  <div class="button-group filter-button-group" data-filter-group='plateform'>
 
-      {% for plateforme in site.data.plateformes %}
-      <button class='button button_tags' data-filter=".{{plateforme}}">{{plateforme}}</button>
+      {% for plateform in site.data.plateforms %}
+      <button class='button button_tags' data-filter=".{{plateform}}">{{plateform}}</button>
       {%endfor%}
-      <button class='button button_tags button_plateforme'  data-filter="">Tout</button>
+      <button class='button button_tags button_plateform'  data-filter="">Tout</button>
   </div>
 
   <h2> Sujet </h2>
@@ -27,7 +27,7 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 
 <div class="grid ">
         {% for creators in site.data.creators %}
-            <div class="card {{creators.categories}}  {{creators.plateformes}}">
+            <div class="card {{creators.categories}}  {{creators.plateforms}}">
                 <div class='title'>
                     <div class="image-cropper">
 											{% if creators.youtube_profil_image_url != '' %}
