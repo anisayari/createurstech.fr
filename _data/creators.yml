@@ -2,7 +2,7 @@
   global_name: TEACHERSDUNET
   plateformes: ''
   twitch_broadcaster_type: ''
-  twitch_channel: def
+  twitch_channel: ''
   twitch_channel_name: ''
   twitch_description: ''
   twitch_followers: ''
@@ -51,7 +51,7 @@
   global_name: micode
   plateformes: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: ''
+  twitch_channel_name: Micode
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
@@ -93,7 +93,7 @@
   global_name: Hardisk
   plateformes: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: ''
+  twitch_channel_name: HardiskLive
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
@@ -107,7 +107,7 @@
   global_name: grafikart_fr
   plateformes: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: ''
+  twitch_channel_name: Grafikart
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
@@ -373,7 +373,7 @@
   global_name: Dfintelligence
   plateformes: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: ''
+  twitch_channel_name: defendintelligence
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
@@ -933,7 +933,7 @@
   global_name: neolectron
   plateformes: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: ''
+  twitch_channel_name: neolectron
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
