@@ -1,7 +1,6 @@
 - categories: ''
-  customUrl: ''
   global_name: TEACHERSDUNET
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel: def
   twitch_channel_name: ''
@@ -10,8 +9,14 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_account_name: TEACHERSDUNET
-  twitter_followers: 2538
+  twitter_description: "D\xE9couvrez des tutoriels de cat\xE9gories diverses (informatique,\
+    \ physique, t\xE9l\xE9communications...) expliqu\xE9s de mani\xE8re simple et\
+    \ chirurgicale !!"
+  twitter_followers: 2554
+  twitter_id: 2213983291
+  twitter_name: LES TEACHERS DU NET
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/484386252083298304/aaZDnb8c_normal.png
+  twitter_screen_name: TEACHERSDUNET
   youtube_channel_id: UCzuaB4F2znrMggxcwUuVhAw
   youtube_channel_name: LES TEACHERS DU NET
   youtube_channel_username: hounwanou1993
@@ -25,9 +30,8 @@
   youtube_video_count: '1457'
   youtube_view_count: '15436734'
 - categories: ''
-  customUrl: ''
   global_name: jojol67
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -35,7 +39,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 276200
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCJy0lX8ThZ7lCtst7JnegWQ
   youtube_channel_name: Jojol
   youtube_channel_username: jojol67
@@ -55,9 +64,8 @@
   youtube_video_count: '1516'
   youtube_view_count: '416692068'
 - categories: ''
-  customUrl: ''
   global_name: Romainlanery
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -65,7 +73,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 192200
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCchpwieM3DswmDEnJ0MRq1A
   youtube_channel_name: "Romain Lan\xE9ry"
   youtube_channel_username: TechNewsTests
@@ -87,18 +100,22 @@
   youtube_video_count: '837'
   youtube_view_count: '152581647'
 - categories: ''
-  customUrl: ''
   global_name: micode
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: partner
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
     \ mercredis \xE0 20h"
-  twitch_followers: 47942
+  twitch_followers: 47952
   twitch_id: '273839506'
-  twitch_number_of_view: 534326
+  twitch_number_of_view: 534343
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
-  twitter_followers: 73300
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCYnvxJ-PKiGXo_tYXpWAC-w
   youtube_channel_name: Micode
   youtube_channel_username: ''
@@ -114,9 +131,8 @@
   youtube_video_count: '90'
   youtube_view_count: '46753958'
 - categories: ''
-  customUrl: ''
   global_name: TheiCollection
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -124,7 +140,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 123700
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCaybrunQi8xWgPMgv1AYBHw
   youtube_channel_name: TheiCollection
   youtube_channel_username: Thehpcollection
@@ -138,9 +159,8 @@
   youtube_video_count: '858'
   youtube_view_count: '136657111'
 - categories: ''
-  customUrl: ''
   global_name: NowTechTV
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -148,7 +168,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 15800
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCVwG9JHqGLfEO-4TkF-lf2g
   youtube_channel_name: Nowtech
   youtube_channel_username: NowTechTVfr
@@ -168,18 +193,22 @@
   youtube_video_count: '462'
   youtube_view_count: '29966432'
 - categories: ''
-  customUrl: ''
   global_name: Hardisk
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: partner
   twitch_channel_name: HardiskLive
   twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
     \ Tech !"
-  twitch_followers: 21914
+  twitch_followers: 21932
   twitch_id: '42405140'
-  twitch_number_of_view: 133229
+  twitch_number_of_view: 133587
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
-  twitter_followers: 35900
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCA6rJQnIFgQOcjO-xtNV7lg
   youtube_channel_name: Hardisk
   youtube_channel_username: Hardiskblog
@@ -192,17 +221,21 @@
   youtube_video_count: '471'
   youtube_view_count: '32965678'
 - categories: ''
-  customUrl: ''
   global_name: grafikart_fr
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
-  twitch_channel_name: grafikart
+  twitch_channel_name: ''
   twitch_description: ''
   twitch_followers: ''
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 26800
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCj_iGliGCkLcHSZ8eqVNPDQ
   youtube_channel_name: Grafikart.fr
   youtube_channel_username: grafikarttv
@@ -216,9 +249,8 @@
   youtube_video_count: '1275'
   youtube_view_count: '34866953'
 - categories: ''
-  customUrl: ''
   global_name: GuillaumeSlash
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -226,7 +258,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 19200
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCOLNDRtP8tUK5i-6jLO0r4Q
   youtube_channel_name: Guillaume Slash
   youtube_channel_username: ''
@@ -248,9 +285,8 @@
   youtube_video_count: '198'
   youtube_view_count: '17839895'
 - categories: ''
-  customUrl: ''
   global_name: Gravenilvec
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -258,7 +294,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 9184
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCIHVyohXw6j2T-83-uLngEg
   youtube_channel_name: "Graven - D\xE9veloppement"
   youtube_channel_username: Gravenilvectuto
@@ -282,9 +323,8 @@
   youtube_video_count: '160'
   youtube_view_count: '13291764'
 - categories: ''
-  customUrl: ''
   global_name: Formation Video
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -292,7 +332,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCS2e0hEJMhwd6bNscS60xTg
   youtube_channel_name: "FormationVid\xE9o"
   youtube_channel_username: ''
@@ -313,12 +358,11 @@
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRuim9nNTbsePTlKeaEuwwuRvuqbG_282eJLbqI0A=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '133000'
-  youtube_video_count: '413'
+  youtube_video_count: '414'
   youtube_view_count: '11766628'
 - categories: ''
-  customUrl: ''
   global_name: pierregird
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -326,7 +370,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1689
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCsFoQ4A9CZbF3qag317uZZQ
   youtube_channel_name: Pierre Giraud
   youtube_channel_username: ''
@@ -343,9 +392,8 @@
   youtube_video_count: '252'
   youtube_view_count: '14209281'
 - categories: ''
-  customUrl: ''
   global_name: Developpeur Libre
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -353,7 +401,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCjDg7LaaMzmuhj6I1jTzb1Q
   youtube_channel_name: "D\xE9veloppeur Libre"
   youtube_channel_username: ''
@@ -366,13 +419,12 @@
     \ moi !"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRSL7w3mfHjST1Cf19FANB-nqwxVlSkZz4QxDd0Jg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '89300'
+  youtube_subscriber_count: '89400'
   youtube_video_count: '149'
   youtube_view_count: '3525405'
 - categories: ''
-  customUrl: ''
   global_name: Wakedxy1
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -380,7 +432,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 747
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UChQjbzNlo8xD154bJS3yb8A
   youtube_channel_name: Waked XY
   youtube_channel_username: MegaWaked
@@ -401,9 +458,8 @@
   youtube_video_count: '75'
   youtube_view_count: '2669930'
 - categories: ''
-  customUrl: ''
   global_name: PrimFX
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -411,7 +467,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1338
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCUSRY5EcZAhSbz1Q1QuQw0w
   youtube_channel_name: PrimFX
   youtube_channel_username: primfxdesign
@@ -427,9 +488,8 @@
   youtube_video_count: '198'
   youtube_view_count: '5444672'
 - categories: ''
-  customUrl: ''
   global_name: Iciamyplant
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -437,7 +497,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 4398
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC9wzC5mFFcIdguoyveTo6Ng
   youtube_channel_name: ici Amy Plant
   youtube_channel_username: ''
@@ -448,9 +513,8 @@
   youtube_video_count: '15'
   youtube_view_count: '1755053'
 - categories: ''
-  customUrl: ''
   global_name: Benjamin Code
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -458,7 +522,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 12600
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCLOAPb7ATQUs_nDs9ViLcMw
   youtube_channel_name: Benjamin Code
   youtube_channel_username: ''
@@ -475,13 +544,12 @@
     \ cr\xE9er un contenu encore plus int\xE9ressant !"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTGQNZANkrf7WSpRnEetHSQ8gvum9tIN0398P7geg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '54800'
+  youtube_subscriber_count: '54900'
   youtube_video_count: '191'
   youtube_view_count: '2814781'
 - categories: ''
-  customUrl: ''
   global_name: Machine Learnia
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -489,7 +557,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1025
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCmpptkXu8iIFe6kfDK5o7VQ
   youtube_channel_name: Machine Learnia
   youtube_channel_username: ''
@@ -501,13 +574,12 @@
     \n\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '51400'
+  youtube_subscriber_count: '51500'
   youtube_video_count: '57'
   youtube_view_count: '2494465'
 - categories: ''
-  customUrl: ''
   global_name: MikeCodeur
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -515,7 +587,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 2179
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC7BNBNLwMF8GjgXLDP8PWQw
   youtube_channel_name: Mike Codeur
   youtube_channel_username: ''
@@ -532,9 +609,8 @@
   youtube_video_count: '247'
   youtube_view_count: '2413551'
 - categories: ''
-  customUrl: ''
   global_name: cocadmin
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -542,7 +618,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 2102
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCVRJ6D343dX-x730MRP8tNw
   youtube_channel_name: cocadmin
   youtube_channel_username: ''
@@ -556,9 +637,8 @@
   youtube_video_count: '76'
   youtube_view_count: '1995549'
 - categories: ''
-  customUrl: ''
   global_name: AnthoWelc
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -566,7 +646,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 4499
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UChhPkjgG1-iLUOmURGdgQrw
   youtube_channel_name: Hardcoders by Antho Welc
   youtube_channel_username: ucisko
@@ -584,9 +669,8 @@
   youtube_video_count: '169'
   youtube_view_count: '1840636'
 - categories: ''
-  customUrl: ''
   global_name: BastiUi
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -594,7 +678,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 5226
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCnnIP34CpT7nIBZS5KuuhbA
   youtube_channel_name: Basti Ui
   youtube_channel_username: ''
@@ -620,9 +709,8 @@
   youtube_video_count: '84'
   youtube_view_count: '884756'
 - categories: ''
-  customUrl: ''
   global_name: Abrege
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -630,7 +718,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCWimnuBF27nwOxgUBJ4qNeg
   youtube_channel_name: "Abr\xE8ge"
   youtube_channel_username: thomasaliasdydime
@@ -646,9 +739,8 @@
   youtube_video_count: '49'
   youtube_view_count: '1208506'
 - categories: ''
-  customUrl: ''
   global_name: BertrandBourgy
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -656,7 +748,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 24
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCtIGSt6iI8UzmM66dNWICjw
   youtube_channel_name: La Tech avec Bertrand
   youtube_channel_username: ''
@@ -673,17 +770,22 @@
   youtube_video_count: '78'
   youtube_view_count: '2098597'
 - categories: ''
-  customUrl: ''
   global_name: LiiorC
-  plateformes: ''
-  twitch_broadcaster_type: ''
-  twitch_channel_name: ''
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
-  twitter_followers: 4900
+  plateforms: ''
+  twitch_broadcaster_type: affiliate
+  twitch_channel_name: liior
+  twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
+    \ "
+  twitch_followers: 950
+  twitch_id: '86914720'
+  twitch_number_of_view: 5027
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/liior-profile_image-58aeb8355fe3384e-300x300.jpeg
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCS71mal_TkTW_PpZR9YLpIA
   youtube_channel_name: Lior CHAMLA
   youtube_channel_username: ''
@@ -699,9 +801,8 @@
   youtube_video_count: '82'
   youtube_view_count: '1648913'
 - categories: ''
-  customUrl: ''
   global_name: CodeDesign_fr
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -709,7 +810,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 274
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC9zdcXq2z3GY3UVhlADNijg
   youtube_channel_name: Code & Design
   youtube_channel_username: ''
@@ -724,20 +830,24 @@
   youtube_video_count: '52'
   youtube_view_count: '1274640'
 - categories: ''
-  customUrl: ''
   global_name: Defend Intelligence
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: partner
   twitch_channel_name: DefendIntelligence
   twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3286
+  twitch_followers: 3303
   twitch_id: '209525793'
-  twitch_number_of_view: 17373
+  twitch_number_of_view: 17497
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
-  twitter_followers: 3787
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCnEHCrot2HkySxMTmDPhZyg
   youtube_channel_name: Defend Intelligence
   youtube_channel_username: ''
@@ -749,13 +859,12 @@
     \ ce voyage.\n\nBienvenue dans la matrice."
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '22200'
+  youtube_subscriber_count: '22300'
   youtube_video_count: '56'
   youtube_view_count: '483519'
 - categories: ''
-  customUrl: ''
   global_name: Go Digi
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -763,7 +872,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC24tiAt2fssTBgJKeWTwASQ
   youtube_channel_name: Go Digi
   youtube_channel_username: ''
@@ -787,9 +901,8 @@
   youtube_video_count: '32'
   youtube_view_count: '1354580'
 - categories: ''
-  customUrl: ''
   global_name: Ackanir
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -797,7 +910,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 360
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCdnsoYtDOKW05cn8ORwA1Fw
   youtube_channel_name: "Ackanir - La cha\xEEne Tech"
   youtube_channel_username: ''
@@ -806,13 +924,12 @@
     Abonne-toi pour en profiter \U0001F525"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRFxASJ03cyAkAJcDnDmfXiLBHov9DSAzfWPTDZ7A=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '20200'
+  youtube_subscriber_count: '20300'
   youtube_video_count: '74'
   youtube_view_count: '897043'
 - categories: ''
-  customUrl: ''
   global_name: FreresCodeurs
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -820,7 +937,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1789
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCWKyakTmFf38Sv0cD8MNzzg
   youtube_channel_name: "Les Fr\xE8res Codeurs"
   youtube_channel_username: ''
@@ -848,9 +970,8 @@
   youtube_video_count: '141'
   youtube_view_count: '728316'
 - categories: ''
-  customUrl: ''
   global_name: getCodingKnowledge
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -858,7 +979,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCUjo_IKa9Cqkx_x-rMly8MA
   youtube_channel_name: getCodingKnowledge
   youtube_channel_username: ''
@@ -877,9 +1003,8 @@
   youtube_video_count: '654'
   youtube_view_count: '1914991'
 - categories: ''
-  customUrl: ''
   global_name: CaptainDev404
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -887,7 +1012,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 2985
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCuWaYcB0E0WyFjbvu7dalVw
   youtube_channel_name: Captain Dev
   youtube_channel_username: ''
@@ -906,9 +1036,8 @@
   youtube_video_count: '94'
   youtube_view_count: '545468'
 - categories: ''
-  customUrl: ''
   global_name: Le Designer du Web
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -916,7 +1045,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCMFbNXUkjSUJ6WC20tGTzJg
   youtube_channel_name: Le Designer du Web
   youtube_channel_username: ''
@@ -929,9 +1063,8 @@
   youtube_video_count: '427'
   youtube_view_count: '1012750'
 - categories: ''
-  customUrl: ''
   global_name: Smaine Milianni
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -939,7 +1072,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1085
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCAY4O2TgmAy6-9gDx9Gn2wQ
   youtube_channel_name: Smaine Milianni
   youtube_channel_username: ''
@@ -957,9 +1095,8 @@
   youtube_video_count: '25'
   youtube_view_count: '82067'
 - categories: ''
-  customUrl: ''
   global_name: Louistiti
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -967,7 +1104,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 4701
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC7AVPVO21rPjgC8W9dPYEvw
   youtube_channel_name: Louistiti
   youtube_channel_username: LouistitiTutos
@@ -983,9 +1125,8 @@
   youtube_video_count: '57'
   youtube_view_count: '547150'
 - categories: ''
-  customUrl: ''
   global_name: DevTheory
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -993,7 +1134,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 3140
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCgJERWtcvu-JiPq5wBkYF1g
   youtube_channel_name: DevTheory
   youtube_channel_username: ''
@@ -1010,9 +1156,8 @@
   youtube_video_count: '141'
   youtube_view_count: '445515'
 - categories: ''
-  customUrl: ''
   global_name: "From Scratch - D\xE9veloppement Web"
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1020,7 +1165,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 583
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCHGLV13U7YRbjrKpqfbtyYg
   youtube_channel_name: "From Scratch - D\xE9veloppement Web"
   youtube_channel_username: ''
@@ -1036,9 +1186,8 @@
   youtube_video_count: '83'
   youtube_view_count: '546479'
 - categories: ''
-  customUrl: ''
   global_name: GodOfMacro
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1046,7 +1195,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 360
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCftI9Qw4HJXKVNzhuqZM_2w
   youtube_channel_name: GodOfMacro
   youtube_channel_username: GodOfMacro
@@ -1058,9 +1212,8 @@
   youtube_video_count: '289'
   youtube_view_count: '1816486'
 - categories: ''
-  customUrl: ''
   global_name: codeconcept
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1068,7 +1221,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 190
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCY_guo_AYBs0cIkeMVc16iw
   youtube_channel_name: codeconcept
   youtube_channel_username: ''
@@ -1082,9 +1240,8 @@
   youtube_video_count: '318'
   youtube_view_count: '718282'
 - categories: ''
-  customUrl: ''
   global_name: YvesRougyFR
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1092,7 +1249,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1957
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCfsEmSD8oVD147HCz5aCOUg
   youtube_channel_name: YvesRougyFR
   youtube_channel_username: yrougy
@@ -1104,9 +1266,8 @@
   youtube_video_count: '144'
   youtube_view_count: '347451'
 - categories: ''
-  customUrl: ''
   global_name: Nord Coders
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1114,7 +1275,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 73
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC36hi0WMeiR8HpUy-A2s4vQ
   youtube_channel_name: Nord Coders
   youtube_channel_username: ''
@@ -1126,9 +1292,8 @@
   youtube_video_count: '218'
   youtube_view_count: '925236'
 - categories: ''
-  customUrl: ''
   global_name: Docstring
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1136,7 +1301,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 256
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCo2zkK2d_frGSXctIkftALw
   youtube_channel_name: Docstring
   youtube_channel_username: ''
@@ -1147,13 +1317,12 @@
     ral.\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '9270'
+  youtube_subscriber_count: '9340'
   youtube_video_count: '49'
   youtube_view_count: '206243'
 - categories: ''
-  customUrl: ''
   global_name: JavaScript de Zero
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1161,7 +1330,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCMzJVrWeaKUotLPWTdx6HuQ
   youtube_channel_name: "JavaScript de Z\xE9ro"
   youtube_channel_username: ''
@@ -1178,9 +1352,8 @@
   youtube_video_count: '55'
   youtube_view_count: '220760'
 - categories: ''
-  customUrl: ''
   global_name: Donkey Geek
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1188,7 +1361,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCen4kPGBciimcvFUQjjZCtg
   youtube_channel_name: Donkey Geek
   youtube_channel_username: ''
@@ -1201,9 +1379,8 @@
   youtube_video_count: '139'
   youtube_view_count: '532712'
 - categories: ''
-  customUrl: ''
   global_name: Thibaud Dauce
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1211,7 +1388,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UChyW1pwcQT2RA4Q2onfNfpg
   youtube_channel_name: Thibaud Dauce
   youtube_channel_username: tdauce
@@ -1228,9 +1410,8 @@
   youtube_video_count: '387'
   youtube_view_count: '549427'
 - categories: ''
-  customUrl: ''
   global_name: Sitedudev
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1238,7 +1419,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCmJ6Z6gXjjylSVbPoBvj-ow
   youtube_channel_name: Sitedudev
   youtube_channel_username: ''
@@ -1246,13 +1432,12 @@
     \ ! \U0001F600"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSxL74IPzvD5oBELIUR4GkKwtqZsfhhHdkFjZq1Wg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '4010'
+  youtube_subscriber_count: '4020'
   youtube_video_count: '111'
   youtube_view_count: '337884'
 - categories: ''
-  customUrl: ''
   global_name: Grimille - La Meute
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1260,7 +1445,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCFfJNxWTuD8UCnG5JNSiqkw
   youtube_channel_name: Grimille - La Meute
   youtube_channel_username: ''
@@ -1275,9 +1465,8 @@
   youtube_video_count: '96'
   youtube_view_count: '253070'
 - categories: ''
-  customUrl: ''
   global_name: YoanDev
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1285,7 +1474,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCRlsJWh1XwmNGxZPFgJ0Zlw
   youtube_channel_name: YoanDev
   youtube_channel_username: ''
@@ -1304,9 +1498,8 @@
   youtube_video_count: '54'
   youtube_view_count: '141350'
 - categories: ''
-  customUrl: ''
   global_name: "S\xE9bastien Imbert"
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1314,7 +1507,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC18RbwcHN3cP8Q-K53PF-JQ
   youtube_channel_name: "S\xE9bastien Imbert"
   youtube_channel_username: ''
@@ -1334,9 +1532,8 @@
   youtube_video_count: '55'
   youtube_view_count: '192288'
 - categories: ''
-  customUrl: ''
   global_name: Thomas Boileau
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1344,7 +1541,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 1031
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCpMntmV07jvZMK3fqR196QQ
   youtube_channel_name: Thomas Boileau
   youtube_channel_username: SqAE28
@@ -1356,9 +1558,8 @@
   youtube_video_count: '53'
   youtube_view_count: '95883'
 - categories: ''
-  customUrl: ''
   global_name: Je suis un dev
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1366,7 +1567,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_followers: 9944
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCo0zOE8DcrRGbwvr4Q_eMsQ
   youtube_channel_name: Je suis un dev
   youtube_channel_username: ''
@@ -1379,9 +1585,8 @@
   youtube_video_count: '7'
   youtube_view_count: '28576'
 - categories: ''
-  customUrl: ''
   global_name: Louis Nicolas - BELIEVEMY
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1389,7 +1594,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC9RqnWGripL5L3lxH-fEZjg
   youtube_channel_name: Louis Nicolas - BELIEVEMY
   youtube_channel_username: ''
@@ -1403,9 +1613,8 @@
   youtube_video_count: '104'
   youtube_view_count: '84877'
 - categories: ''
-  customUrl: ''
   global_name: David Dias
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1413,7 +1622,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCXYs_tVa-VFm5f6bWrPybhA
   youtube_channel_name: David Dias
   youtube_channel_username: ''
@@ -1436,9 +1650,8 @@
   youtube_video_count: '14'
   youtube_view_count: '64331'
 - categories: ''
-  customUrl: ''
   global_name: "Seb Duval Cr\xE9ation de Sites Web"
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1446,7 +1659,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UC_n2nsURL8YxaLeRLAWzsMQ
   youtube_channel_name: "S\xE9b Duval - Cr\xE9ation de Sites Web"
   youtube_channel_username: ''
@@ -1460,9 +1678,8 @@
   youtube_video_count: '16'
   youtube_view_count: '78329'
 - categories: ''
-  customUrl: ''
   global_name: Wawa Sensei
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1470,7 +1687,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCBH-5ctALmmOrm4kczL3urQ
   youtube_channel_name: Wawa Sensei
   youtube_channel_username: ''
@@ -1480,13 +1702,12 @@
     \ le monde du dev et de la formation\n\n"
   youtube_hidden_subscriber_count: false
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbbtTIwF2vmCTvC13kj9OJh4njbVE4SyVoqd3z=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: '1670'
+  youtube_subscriber_count: '1680'
   youtube_video_count: '37'
   youtube_view_count: '41381'
 - categories: ''
-  customUrl: ''
   global_name: Pierre Terrat
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1494,7 +1715,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCeZIdBQiLoH3zi-VCHwi5VQ
   youtube_channel_name: Pierre Terrat
   youtube_channel_username: ''
@@ -1510,9 +1736,8 @@
   youtube_video_count: '35'
   youtube_view_count: '71531'
 - categories: ''
-  customUrl: ''
   global_name: Road To Dev
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1520,7 +1745,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
+  twitter_description: ''
   twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCJFSN6epvy4HGjujPhuhGvg
   youtube_channel_name: Road To Dev
   youtube_channel_username: ''
@@ -1532,17 +1762,22 @@
   youtube_video_count: '80'
   youtube_view_count: '206042'
 - categories: ''
-  customUrl: ''
   global_name: neolectron
-  plateformes: ''
-  twitch_broadcaster_type: ''
-  twitch_channel_name: ''
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
-  twitter_followers: 2112
+  plateforms: ''
+  twitch_broadcaster_type: partner
+  twitch_channel_name: neolectron
+  twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
+    \ plus que tout transmettre sa passion."
+  twitch_followers: 2172
+  twitch_id: '48965120'
+  twitch_number_of_view: 24256
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/99dce956-1b8c-4403-8409-fa0985f49430-profile_image-300x300.png
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
   youtube_channel_id: UCJFSN6epvy4HGjujPhuhGvg
   youtube_channel_name: Road To Dev
   youtube_channel_username: ''
@@ -1554,9 +1789,8 @@
   youtube_video_count: '80'
   youtube_view_count: '206042'
 - categories: ''
-  customUrl: ''
   global_name: Pierre Miniggio
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel: ''
   twitch_channel_name: ''
@@ -1565,8 +1799,14 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_account_name: PierreMiniggio
+  twitter_description: "\U0001F5FF\nD\xE9veloppeur @agencesafti | @Github pierreminiggio\
+    \ | Guitare, Basse, Piano & MAO | @Facebook pminiggio | @Instagram @tiktok_us\
+    \ @Youtube pierreminiggio"
   twitter_followers: 230
+  twitter_id: 1451795576
+  twitter_name: "\u03C0r \u1D33\u1D33\u1D35\u1D3C"
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1273522615244722182/iEKTLbLk_normal.jpg
+  twitter_screen_name: PierreMiniggio
   youtube_channel_id: UCKbunxMnqxM8UFMEYF79CUQ
   youtube_channel_name: Pierre Miniggio
   youtube_channel_username: CatoonTheCat
@@ -1580,9 +1820,8 @@
   youtube_video_count: '351'
   youtube_view_count: '268535'
 - categories: ''
-  customUrl: ''
   global_name: Sofiyan Productiv'IT
-  plateformes: ''
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel: https://www.twitch.tv/sofiyan_productivit
   twitch_channel_name: ''
@@ -1591,8 +1830,13 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_account_name: sofiyan_ifren
+  twitter_description: "Web Scrapper \U0001F468\u200D\U0001F4BB Bot Maker \U0001F916\
+    \ Indie Maker \U0001F680\nhttps://t.co/dBQMUEp7D0\n (RT || Likes) != endorsement"
   twitter_followers: 164
+  twitter_id: 875092569251827713
+  twitter_name: Sofiyan Productiv'IT
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1347568373962571776/GZ44-VPN_normal.jpg
+  twitter_screen_name: sofiyan_ifren
   youtube_channel_id: UC6hw-vlN2TqmgMcJ_QLlZ5A
   youtube_channel_name: Sofiyan Productiv'IT
   youtube_channel_username: ''
