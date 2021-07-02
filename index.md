@@ -7,23 +7,23 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 
 <div class='filters'>
 	<h2> Plateforme </h2>
-<div class="button-group filter-button-group" data-filter-group='plateforme'>
+  <div class="button-group filter-button-group" data-filter-group='plateforme'>
 
-    {% for plateforme in site.data.plateformes %}
-    <button class='button button_tags' data-filter=".{{plateforme}}">>{{plateforme}}</button >
-    {%endfor%}
-    <button  class='button button_tags button_plateforme'  data-filter="">Tout</button >
+      {% for plateforme in site.data.plateformes %}
+      <button class='button button_tags' data-filter=".{{plateforme}}">{{plateforme}}</button>
+      {%endfor%}
+      <button class='button button_tags button_plateforme'  data-filter="">Tout</button>
+  </div>
+
+  <h2> Sujet </h2>
+  <div class="button-group filter-button-group"  data-filter-group='categories'>
+      {% for categories in site.data.categories %}
+
+      <button class='button button_tags' data-filter=".{{categories}}">{{categories}}</button>
+      {%endfor%}
+      <button class='button button_tags button_categories'  data-filter="*">Tout</button>
+  </div>
 </div>
-
-<h2> Sujet </h2>
-<div class="button-group filter-button-group"  data-filter-group='categories'>
-    {% for categories in site.data.categories %}
-
-    <button  class='button button_tags' data-filter=".{{categories}}">>{{categories}}</button >
-    {%endfor%}
-    <button  class='button button_tags button_categories'  data-filter="*">Tout</button >
-</div>
-	</div>
 
 <div class="grid ">
         {% for creators in site.data.creators %}
