@@ -12,18 +12,18 @@
   twitch_profil_image_url: ''
   twitter_account_name: TEACHERSDUNET
   twitter_followers: 2538
-  youtube_channel_id: ''
-  youtube_channel_name: Les teachers du net
+  youtube_channel_id: UCzuaB4F2znrMggxcwUuVhAw
+  youtube_channel_name: LES TEACHERS DU NET
   youtube_channel_username: hounwanou1993
-  youtube_description: Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-    1500s, when an unknown printer took a galley of type and scrambled it to make
-    a type specimen book. I
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
+  youtube_custom_url: teachersdunet
+  youtube_description: "D\xE9couvrez des tutoriels de cat\xE9gories diverses (informatique,\
+    \ physique, t\xE9l\xE9communications...) expliqu\xE9s de mani\xE8re simple et\
+    \ chirurgicale !!"
+  youtube_hidden_subscriber_count: true
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQsybJpYLRCUbm0mBUsEUvwHqZBQ7YpApqEPqBL=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: ''
-  youtube_video_count: 1456
-  youtube_view_count: ''
+  youtube_video_count: '1457'
+  youtube_view_count: '15436734'
 - categories: ''
   customUrl: ''
   global_name: jojol67
@@ -36,14 +36,24 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 276200
-  youtube_channel_id: ''
-  youtube_channel_name: jojol
+  youtube_channel_id: UCJy0lX8ThZ7lCtst7JnegWQ
+  youtube_channel_name: Jojol
   youtube_channel_username: jojol67
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 2190000
-  youtube_video_count: 1510
-  youtube_view_count: ''
+  youtube_custom_url: jojol67
+  youtube_description: "Jeune homme de 28 ans et passionn\xE9 par l'high-tech, je\
+    \ me suis lanc\xE9 sur Youtube en 2010 pour partager ma passion. Aujourd'hui vous\
+    \ \xEAtes plus de 2 millions de JOLOWERS sur la cha\xEEne Youtube , un gros GROS\
+    \ MERCI!!! :) N'h\xE9sitez pas \xE0 vous abonner pour rentrer dans la famille\
+    \ des JOLOWERS  \u2764 \n\nJe suis aussi sur Facebook, Twitter, Instagram et Tiktok,\
+    \ donc si vous \xEAtes sur ces r\xE9seaux sociaux, n'oubliez pas de m'y suivre.\
+    \ Je partage des informations que je ne donne pas forc\xE9ment sur Youtube ;)\n\
+    \nJ'essaye de faire au minimum 2 vid\xE9os par semaine : le mercredi et samedi\
+    \ vers 17h00 :D\n\n\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQmDxTk5AD_PqY-tF5lwXlk4dxqfXLnhFI0kzVtXQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '2190000'
+  youtube_video_count: '1516'
+  youtube_view_count: '416692068'
 - categories: ''
   customUrl: ''
   global_name: Romainlanery
@@ -56,14 +66,26 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 192200
-  youtube_channel_id: ''
-  youtube_channel_name: Romain Lanery
+  youtube_channel_id: UCchpwieM3DswmDEnJ0MRq1A
+  youtube_channel_name: "Romain Lan\xE9ry"
   youtube_channel_username: TechNewsTests
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 1010000
-  youtube_video_count: 834
-  youtube_view_count: ''
+  youtube_custom_url: romainlanery
+  youtube_description: "Romain Lan\xE9ry, passionn\xE9 par les nouvelles technologies.\n\
+    \nJ'ai d\xE9but\xE9 par la photographie en 2012. Apr\xE8s avoir re\xE7u un appareil\
+    \ photo pour mon anniversaire j'ai tout de suite plong\xE9 dans l'univers de YouTube\
+    \ pour apprendre de nouvelles choses avec les tutoriels qui \xE9taient mis en\
+    \ ligne par des passionn\xE9s. C'est ainsi que je suis arriv\xE9 dans le monde\
+    \ de la vid\xE9o puis des nouvelles technologies.\n\nMusiques libres de droits\
+    \ que j'utilise : http://share.epidemicsound.com/pMHtZ (Un mois gratuit et tu\
+    \ peux te d\xE9sabonner juste avant si jamais).\n\nQuestions personnelles ou besoin\
+    \ de conseils sur du mat\xE9riel High-Tech ? - http://www.m.me/TechNewsTests\n\
+    Demandes professionnelles (UNIQUEMENT): contact@technewsandtests.com\n\n\xA9 2021\
+    \ TECHNEWS&TESTS | Tous droits r\xE9serv\xE9s."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS9bGGUPid3aKZbn9af772JmLkiZ8qCMmj7Nlbi3g=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1010000'
+  youtube_video_count: '837'
+  youtube_view_count: '152581647'
 - categories: ''
   customUrl: ''
   global_name: micode
@@ -78,13 +100,19 @@
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_followers: 73300
   youtube_channel_id: UCYnvxJ-PKiGXo_tYXpWAC-w
-  youtube_channel_name: micode
+  youtube_channel_name: Micode
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 850000
-  youtube_video_count: 90
-  youtube_view_count: ''
+  youtube_custom_url: micode
+  youtube_description: "Vous n'avez pas beaucoup de temps \xE0 consacrer \xE0 l'Informatique\
+    \ ? Moi si.\nAutant vous faire profiter des petites choses que peu de gens savent\
+    \ !\n\nJe n'ai pas la pr\xE9tention de vouloir vous former, \nmais si j'ai \xE9\
+    veill\xE9 votre curiosit\xE9 en vous apprenant quelque chose,\nalors j'ai atteint\
+    \ mon objectif !"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSamt0f8i631W2eC_p5cfRjYjUP26UhRWpkGJ-EBA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '851000'
+  youtube_video_count: '90'
+  youtube_view_count: '46753958'
 - categories: ''
   customUrl: ''
   global_name: TheiCollection
@@ -97,14 +125,18 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 123700
-  youtube_channel_id: ''
+  youtube_channel_id: UCaybrunQi8xWgPMgv1AYBHw
   youtube_channel_name: TheiCollection
   youtube_channel_username: Thehpcollection
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 776000
-  youtube_video_count: 856
-  youtube_view_count: ''
+  youtube_custom_url: theicollection
+  youtube_description: "Hello !\n\nJe suis passionn\xE9 par les nouvelles technologies,\
+    \ et \xE0 travers cette cha\xEEne YouTube j'essaie de les rendre plus fun et accessibles.\n\
+    \nEnjoy!"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ4H7z7f8YU07HhdJyYfzR_PoB-xSPaLjr9GCXMtg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '778000'
+  youtube_video_count: '858'
+  youtube_view_count: '136657111'
 - categories: ''
   customUrl: ''
   global_name: NowTechTV
@@ -117,14 +149,24 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 15800
-  youtube_channel_id: ''
+  youtube_channel_id: UCVwG9JHqGLfEO-4TkF-lf2g
   youtube_channel_name: Nowtech
   youtube_channel_username: NowTechTVfr
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 293000
-  youtube_video_count: 460
-  youtube_view_count: ''
+  youtube_custom_url: nowtech
+  youtube_description: "Nowtech, cha\xEEne ind\xE9pendante de tests d'applications\
+    \ mobile et de Tech, est pr\xE9sent\xE9e par des passionn\xE9s qui partagent leurs\
+    \ avis, astuces et conseils.\n\nL'id\xE9e derri\xE8re nowtech.tv c'est de vous\
+    \ offrir des tests soign\xE9s et divertissants, pas forcement li\xE9s \xE0 l'actualit\xE9\
+    \ et aux nouveaut\xE9s, mais avec un vrai ton \xAB homemade \xBB. Nous pensons\
+    \ fondamentalement qu'il est important, en tant que consommateurs, qu'un maximum\
+    \ de personnes s'expriment sur les produits et nous avons voulu apporter notre\
+    \ pierre \xE0 l'\xE9difice.\n\nBon visionnage !\n\n\u2022 Notre materiel de tournage\
+    \ : https://www.amazon.fr/shop/nowtech"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRCQAj-vsEYL4TdfNpKgdhAnHOoeB1I7gXvnbe8Gg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '294000'
+  youtube_video_count: '462'
+  youtube_view_count: '29966432'
 - categories: ''
   customUrl: ''
   global_name: Hardisk
@@ -138,14 +180,17 @@
   twitch_number_of_view: 133229
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_followers: 35900
-  youtube_channel_id: ''
+  youtube_channel_id: UCA6rJQnIFgQOcjO-xtNV7lg
   youtube_channel_name: Hardisk
   youtube_channel_username: Hardiskblog
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 275000
-  youtube_video_count: 469
-  youtube_view_count: ''
+  youtube_custom_url: hardiskme
+  youtube_description: "Tu aimes l'audiovisuel ? \nAbonne-toi , tu vas adorer !\n\n\
+    Pour toutes propositions commerciales : sales@hardisk.me"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRFr2dh9qtCJlUavanbjzlUxWU9jpHFFetf50FnDA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '276000'
+  youtube_video_count: '471'
+  youtube_view_count: '32965678'
 - categories: ''
   customUrl: ''
   global_name: grafikart_fr
@@ -158,14 +203,18 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 26800
-  youtube_channel_id: ''
+  youtube_channel_id: UCj_iGliGCkLcHSZ8eqVNPDQ
   youtube_channel_name: Grafikart.fr
   youtube_channel_username: grafikarttv
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 215000
-  youtube_video_count: 1272
-  youtube_view_count: ''
+  youtube_custom_url: grafikart
+  youtube_description: "Retrouvez un concentr\xE9 du web autour du monde du d\xE9\
+    veloppement web et du graphisme...\nFormez vous et am\xE9liorez vos comp\xE9tences\
+    \ \xE0 travers pr\xE8s de 161 heures de formation vid\xE9o..."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQTUKCd7fvyRbIUni52wocYLSD0BdItSCTbjru2=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '216000'
+  youtube_video_count: '1275'
+  youtube_view_count: '34866953'
 - categories: ''
   customUrl: ''
   global_name: GuillaumeSlash
@@ -181,11 +230,23 @@
   youtube_channel_id: UCOLNDRtP8tUK5i-6jLO0r4Q
   youtube_channel_name: Guillaume Slash
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 209000
-  youtube_video_count: 198
-  youtube_view_count: ''
+  youtube_custom_url: guillaumeslash
+  youtube_description: "\U0001F4F1 Applis sur Smartphone \u25AC \u2615 Test des produits\
+    \ High-Tech  \u25AC \U0001F4BB Vulgarisation Informatique \n\nPlop ! Guillaume\
+    \ Slash, 26 ans, ex-D\xE9veloppeur Web, passionn\xE9 depuis toujours par la High-Tech\
+    \ et l'Informatique. \U0001F44C\n\nUn peu d\xE9\xE7u par mon ancien boulot en\
+    \ SS2I, je me suis lanc\xE9 \xE0 plein temps dans YouTube ! Je partage ici tout\
+    \ ce qui me plait : Vulgarisation informatique, applis sur smartphones, produits\
+    \ high-tech originaux, et tout \xE7a\u2026 sans prise de tech ! \U0001F60A\n\n\
+    Abonne toi l'ami !\n\n-----------------------------------------------\n\nIMPORTANT\
+    \ : Si une vid\xE9o est sponsoris\xE9e, ce sera annonc\xE9 CLAIREMENT en d\xE9\
+    but de vid\xE9o ! Pas de pubs d\xE9guis\xE9es sur ma cha\xEEne.\n\nCONTACT PRO\
+    \ \U0001F449 contact[AT]guillaumeslash.fr  \U0001F448 (Demandes pro UNIQUEMENT)"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTBDkEAoZ1CJvVqhjScdgvPHTfyGWciC9r-udVrTA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '209000'
+  youtube_video_count: '198'
+  youtube_view_count: '17839895'
 - categories: ''
   customUrl: ''
   global_name: Gravenilvec
@@ -198,14 +259,28 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 9184
-  youtube_channel_id: ''
-  youtube_channel_name: Graven - Developpement
+  youtube_channel_id: UCIHVyohXw6j2T-83-uLngEg
+  youtube_channel_name: "Graven - D\xE9veloppement"
   youtube_channel_username: Gravenilvectuto
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 205000
-  youtube_video_count: 169
-  youtube_view_count: ''
+  youtube_custom_url: gravenilvectuto
+  youtube_description: "Bonjour, Bonsoir, \nJe me pr\xE9sente je suis Graven, j'ai\
+    \ 22 ans et je suis d\xE9veloppeur et animateur chez TechKidsAcademy\nPassionn\xE9\
+    \ par la programmation informatique depuis 6ans+, vous trouverez sur ma chaine\
+    \ des vid\xE9os en lien avec ce sujet. \nVoici mes s\xE9ries :\n\n- Apprendre\
+    \ le Python : Une s\xE9rie pour apprendre les diff\xE9rentes notions essentiel\
+    \ de ce langage\n- Apprendre le Java  : Une s\xE9rie pour vous apprendre les diff\xE9\
+    rentes notions essentiel de ce langage.\n- Raspberry PI : des vid\xE9os sur un\
+    \ objet tr\xE8s pratique pour cr\xE9er un tas de choses (ordinateur, serveur,\
+    \ ...)\n- Cr\xE9er un jeu avec Pygame : Une s\xE9rie ou nous developpons un jeu\
+    \ en 2D avec python\n- Cr\xE9er une application android : La s\xE9rie pour apprendre\
+    \ \xE0 d\xE9velopper vos propres applications Android\n\nLogo de la chaine inspir\xE9\
+    \ de Matthew Wiard\n\nMon Discord : https://graven.yt/discord\nMon Twitter : https://twitter.com/Gravenilvec\n\
+    \nA bient\xF4t sur ma chaine !"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQFoCgRQlcgfJ-7MI7Cg8htvesAlySSokz7NRbgDQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '207000'
+  youtube_video_count: '160'
+  youtube_view_count: '13291764'
 - categories: ''
   customUrl: ''
   global_name: Formation Video
@@ -219,13 +294,27 @@
   twitch_profil_image_url: ''
   twitter_followers: ''
   youtube_channel_id: UCS2e0hEJMhwd6bNscS60xTg
-  youtube_channel_name: FormationVideo
+  youtube_channel_name: "FormationVid\xE9o"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 133000
-  youtube_video_count: 441
-  youtube_view_count: ''
+  youtube_custom_url: formationvideo8
+  youtube_description: "\U0001F517 SITE PERSONNEL : jasonchampagne.fr\n\nFormationVid\xE9\
+    o est la cha\xEEne YouTube de celles et ceux qui sont curieux, aiment apprendre\
+    \ et veulent r\xE9aliser leurs r\xEAves d'enfants.\n\n\xC0 travers plusieurs vid\xE9\
+    os, j'essaie de vous donner mon savoir et de partager mes comp\xE9tences pour\
+    \ apprendre tous ensemble sur divers th\xE8mes : informatique, langues vivantes,\
+    \ dessin, musique, etc.\n\nJ'esp\xE8re que vous serez de plus en plus nombreux\
+    \ \xE0 rejoindre la communaut\xE9, \xE0 partager avec les internautes et \xE0\
+    \ \xE9prouver un r\xE9el plaisir \xE0 d\xE9couvrir de nouveaux horizons. Cette\
+    \ cha\xEEne, c'est aussi un combat contre les pr\xE9jug\xE9s et les jugements\
+    \ pessimistes d'une \u201C\xE9lite\u201D : \xEAtre talentueux dans ce que l'on\
+    \ fait n'est pas inn\xE9. Le v\xE9ritable talent, c'est celui que l'on acquiert\
+    \ par passion, que l'on nourrie chaque jour, et que l'on transmet \xE0 son prochain.\n\
+    \nAlors vous aussi, soyez acteur du partage pour tous - abonnez-vous ! \U0001F642"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRuim9nNTbsePTlKeaEuwwuRvuqbG_282eJLbqI0A=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '133000'
+  youtube_video_count: '413'
+  youtube_view_count: '11766628'
 - categories: ''
   customUrl: ''
   global_name: pierregird
@@ -241,11 +330,18 @@
   youtube_channel_id: UCsFoQ4A9CZbF3qag317uZZQ
   youtube_channel_name: Pierre Giraud
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 103000
-  youtube_video_count: 252
-  youtube_view_count: ''
+  youtube_custom_url: pierregiraudcom
+  youtube_description: "Bonjour \xE0 tous et bienvenue sur ma cha\xEEne YouTube !\
+    \ \n\nSur cette cha\xEEne, vous trouverez principalement des tutoriels vid\xE9\
+    os complets de programmation (HTML, CSS, JavaScript, PhP, MySQL, etc.). Ces tutoriels\
+    \ vous apprendront \xE0 coder \xE9tape par \xE9tape et sont compl\xE8tements gratuits.\n\
+    \nN'h\xE9sitez pas \xE0 visiter mon site pour avoir les supports \xE9crits de\
+    \ mes cours et d'autres tutoriels : http://pierre-giraud.com"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQqAyN3fkupWMuxvWS20a5mmciTd40VhoiZrDQmmQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '103000'
+  youtube_video_count: '252'
+  youtube_view_count: '14209281'
 - categories: ''
   customUrl: ''
   global_name: Developpeur Libre
@@ -259,13 +355,20 @@
   twitch_profil_image_url: ''
   twitter_followers: ''
   youtube_channel_id: UCjDg7LaaMzmuhj6I1jTzb1Q
-  youtube_channel_name: Developpeur Libre
+  youtube_channel_name: "D\xE9veloppeur Libre"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 88700
-  youtube_video_count: 148
-  youtube_view_count: ''
+  youtube_custom_url: developpeurlibre
+  youtube_description: "Hello, moi c'est Quentin !\nEntrepreneur et d\xE9veloppeur\
+    \ depuis plusieurs ann\xE9es, je n'avais jamais \xE9cris une seule ligne de code\
+    \ avant de sortir du lyc\xE9e. Depuis que je suis tomb\xE9 dans ce monde formidable,\
+    \ j'ai envie de partager mes connaissances avec vous et de vous transmettre mon\
+    \ savoir. \nAlors n'attendez plus, lancez-vous dans cette aventure et rejoignez\
+    \ moi !"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRSL7w3mfHjST1Cf19FANB-nqwxVlSkZz4QxDd0Jg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '89300'
+  youtube_video_count: '149'
+  youtube_view_count: '3525405'
 - categories: ''
   customUrl: ''
   global_name: Wakedxy1
@@ -278,14 +381,25 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 747
-  youtube_channel_id: ''
-  youtube_channel_name: waked XY
+  youtube_channel_id: UChQjbzNlo8xD154bJS3yb8A
+  youtube_channel_name: Waked XY
   youtube_channel_username: MegaWaked
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 75800
-  youtube_video_count: 75
-  youtube_view_count: ''
+  youtube_custom_url: wakedxy
+  youtube_description: "Hello moi c'est Waked , IT analyst de profession je suis passionn\xE9\
+    \ par l'ethical hacking et essaye d'acqu\xE9rir le maximum de connaissance dans\
+    \ ce domaine.\nA travers cette cha\xEEne je partage mes connaissances et casse\
+    \ les id\xE9es re\xE7ues sur ce merveilleux monde qui est celui du Hacking.\n\
+    \ \nAbonne toi \xE0 ma cha\xEEne et rejoins moi dans cette magnifique aventure\
+    \  \U0001F468\u200D\U0001F4BB \n\n\U0001F449\U0001F3FB Facebook: https://www.facebook.com/wakedxy/\n\
+    \U0001F449\U0001F3FB Instagram:  https://www.instagram.com/wakedxy/\n\U0001F449\
+    \U0001F3FB Twitter : https://twitter.com/Wakedxy1\n\U0001F449\U0001F3FB Discord:\
+    \ https://discord.gg/ad5pTng\n\U0001F449\U0001F3FB Github: https://github.com/wakedxy\n\
+    \n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQUHtRJS6-gDvJYW2VFJprOXxmA0ubsvSQnPhtwTw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '76100'
+  youtube_video_count: '75'
+  youtube_view_count: '2669930'
 - categories: ''
   customUrl: ''
   global_name: PrimFX
@@ -298,14 +412,20 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 1338
-  youtube_channel_id: ''
+  youtube_channel_id: UCUSRY5EcZAhSbz1Q1QuQw0w
   youtube_channel_name: PrimFX
   youtube_channel_username: primfxdesign
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 61600
-  youtube_video_count: 198
-  youtube_view_count: ''
+  youtube_custom_url: primfxdesign
+  youtube_description: "Salut tout le monde, c'est PrimFX !\nPassionn\xE9 d'informatique\
+    \ depuis tout petit, je partage ma passion \xE0 travers des tutoriels sur diff\xE9\
+    rentes technologies. N'h\xE9site pas \xE0 jeter un coup d'oeil \xE0 mes derni\xE8\
+    res vid\xE9os et \xE0 mes playlists. Tu peux \xE9galement t'abonner si mes vid\xE9\
+    os te plaisent ;-)\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLToMLjzTcbM12uj8y1exKee9qu_0DvrwYuISQvi=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '61800'
+  youtube_video_count: '198'
+  youtube_view_count: '5444672'
 - categories: ''
   customUrl: ''
   global_name: Iciamyplant
@@ -319,13 +439,14 @@
   twitch_profil_image_url: ''
   twitter_followers: 4398
   youtube_channel_id: UC9wzC5mFFcIdguoyveTo6Ng
-  youtube_channel_name: Ici Amy Plant
+  youtube_channel_name: ici Amy Plant
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 60700
-  youtube_video_count: 15
-  youtube_view_count: ''
+  youtube_description: "Contente davoir un endroit o\xF9 m'exprimer hehe"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRfe0KFFnuByRCZWSdTtlQb0TBoP4om60t5DSgsBQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '61800'
+  youtube_video_count: '15'
+  youtube_view_count: '1755053'
 - categories: ''
   customUrl: ''
   global_name: Benjamin Code
@@ -341,11 +462,22 @@
   youtube_channel_id: UCLOAPb7ATQUs_nDs9ViLcMw
   youtube_channel_name: Benjamin Code
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 54000
-  youtube_video_count: 189
-  youtube_view_count: ''
+  youtube_custom_url: benjamincode
+  youtube_description: "Benjamin Code est une chaine dans laquelle je tente de vous\
+    \ montrer les bons cot\xE9s de la vie d'un d\xE9veloppeur freelance.\nJ'essaie\
+    \ de ne montrer que peu de code et de privil\xE9gier une approche grand public\
+    \ pour faire d\xE9couvrir \xE0 plus de monde cet univers pas si inaccessible qu'on\
+    \ ne le cro\xEEt. \n\nAbonnez-vous \xE0 la chaine pour ne rien louper et si vous\
+    \ voulez me suivre ailleurs, vous pouvez le faire ici :\nTwitter : https://twitter.com/benjamincodeYT\n\
+    Twitch : https://www.twitch.tv/benjamincode\nInstagram : https://www.instagram.com/benjamincode/\n\
+    Mail : b1jam1code@gmail.com\n\nN'h\xE9sitez pas \xE0 participer dans les commentaires\
+    \ : sugg\xE9rer des choses, poser des questions...  c'est comme \xE7a qu'on pourra\
+    \ cr\xE9er un contenu encore plus int\xE9ressant !"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTGQNZANkrf7WSpRnEetHSQ8gvum9tIN0398P7geg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '54800'
+  youtube_video_count: '191'
+  youtube_view_count: '2814781'
 - categories: ''
   customUrl: ''
   global_name: Machine Learnia
@@ -359,13 +491,19 @@
   twitch_profil_image_url: ''
   twitter_followers: 1025
   youtube_channel_id: UCmpptkXu8iIFe6kfDK5o7VQ
-  youtube_channel_name: machine learnia
+  youtube_channel_name: Machine Learnia
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 49900
-  youtube_video_count: 57
-  youtube_view_count: ''
+  youtube_custom_url: machinelearnia
+  youtube_description: "Je m\u2019appelle Guillaume Saint-Cirgue et je suis d\xE9\
+    veloppeur Machine Learning au Royaume Uni.\n\nJe suis passionn\xE9 par le Machine\
+    \ Learning et le Deep Learning et c'est pourquoi j'ai ouvert cette cha\xEEne YouTube\
+    \ pour partager sans aucune pr\xE9tention mes connaissances dans ces domaines.\n\
+    \n\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '51400'
+  youtube_video_count: '57'
+  youtube_view_count: '2494465'
 - categories: ''
   customUrl: ''
   global_name: MikeCodeur
@@ -381,11 +519,18 @@
   youtube_channel_id: UC7BNBNLwMF8GjgXLDP8PWQw
   youtube_channel_name: Mike Codeur
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 42700
-  youtube_video_count: 246
-  youtube_view_count: ''
+  youtube_custom_url: mikecodeurnomade
+  youtube_description: "Je m'appelle Mike, je suis codeur, j'ai quitt\xE9 mon CDI\
+    \ pour devenir Freelance. \nJ'ai ensuite quitt\xE9 Paris pour devenir digital\
+    \ nomade. Je vis actuellement \xE0 Bali.\nJe parle de programmation, de Freelance,\
+    \ de libert\xE9, d\u2019ind\xE9pendance, de voyage,  lifestyle\n\n@MikeCodeur\n\
+    Instagram : https://www.instagram.com/MikeCodeur\nYoutube : https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw/?sub_confirmation=1\n\
+    \nPodcast : https://www.youtube.com/c/hackerslepodcastdemikecodeur/?sub_confirmation=1\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSOYNmRd_NN4YOK3TuO9rVTMCN8YsNJ9NJtFt-zwQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '43100'
+  youtube_video_count: '247'
+  youtube_view_count: '2413551'
 - categories: ''
   customUrl: ''
   global_name: cocadmin
@@ -401,11 +546,15 @@
   youtube_channel_id: UCVRJ6D343dX-x730MRP8tNw
   youtube_channel_name: cocadmin
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 41200
-  youtube_video_count: 75
-  youtube_view_count: ''
+  youtube_custom_url: cocadmin
+  youtube_description: "Salut \xE0 tous, je m'appelle Thomas et j'ai cr\xE9\xE9 cette\
+    \ chaine pour partager mes exp\xE9riences et connaissances dans les domaines du\
+    \ cloud, du devops et de linux en g\xE9n\xE9ral."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbWUPHCQNas1r-EnckO3-dSGS4uqhL9hWWXXeKcw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '43100'
+  youtube_video_count: '76'
+  youtube_view_count: '1995549'
 - categories: ''
   customUrl: ''
   global_name: AnthoWelc
@@ -418,14 +567,22 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 4499
-  youtube_channel_id: ''
-  youtube_channel_name: Hardcoders by Antho Wel
+  youtube_channel_id: UChhPkjgG1-iLUOmURGdgQrw
+  youtube_channel_name: Hardcoders by Antho Welc
   youtube_channel_username: ucisko
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 39400
-  youtube_video_count: 169
-  youtube_view_count: ''
+  youtube_description: "Nous accompagnons les d\xE9veloppeurs de leur premi\xE8re\
+    \ ligne de code, jusqu'\xE0 la fin de leur carri\xE8re.\n\nTu peux recevoir le\
+    \ Journal Du Code, avec des astuces, des liens ou des tutos :\n\U0001F4BB https://hardcode.rs\n\
+    \nDepuis des ann\xE9es nous aidons des \xE9l\xE8ves de bootcamps, formations universitaires\
+    \ ou autodidactes.\n\nL'id\xE9e est \xE0 la fois de structurer l'apprentissage\
+    \ et d'approfondir et consolider les acquis.\n\nLa formation ne s'arr\xEAte pas\
+    \ apr\xE8s l'\xE9cole. Nous continuons de former de nombreux professionnels en\
+    \ poste pour leur permettre de rester \xE0 jour.\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRCriqugloi3eu-ZLsmB9lhoM9j48UGf03Gol_w=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '39500'
+  youtube_video_count: '169'
+  youtube_view_count: '1840636'
 - categories: ''
   customUrl: ''
   global_name: BastiUi
@@ -441,11 +598,27 @@
   youtube_channel_id: UCnnIP34CpT7nIBZS5KuuhbA
   youtube_channel_name: Basti Ui
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 34200
-  youtube_video_count: 83
-  youtube_view_count: ''
+  youtube_custom_url: bastiui
+  youtube_description: "Ux Ui Design \u2022 Motion \u2022 Tuto \u2022 Vulgarisation\n\
+    Ici on parle de Design d'interface sur un ton l\xE9ger.\nL'id\xE9e de Basti Ui\
+    \ est de regrouper des passionn\xE9s autour des sujets du Web de l'Ux et de L'Ui.\n\
+    N'h\xE9sitez-pas \xE0 commenter et \xE0 d\xE9battre, toujours dans la bienveillance\
+    \ bien s\xFBre \U0001F618 \n\n\u25CF BESOIN UX UI ?\nVous avez un projet UX UI\
+    \ ? Un besoin de formation ?\n\U0001F48C Contactez moi \u2192 http://bit.ly/SalutBastiUi\n\
+    \n\U0001F440 ABONNEZ-VOUS \u2192 http://bit.ly/YoutubeBastiUi\n\U0001F455 MA BOUTIQUE\
+    \ \u2192 https://shop.spreadshirt.fr/bastiui/\n\n\u25CF SOUTENEZ-MOI\n\U0001F4FA\
+    \ UTIP \u2192 https://utip.io/bastiui\n\U0001F4B0 PAYPAL \u2192 https://www.paypal.me/bastirelire\n\
+    \n\u25CF SUIVEZ-MOI\n\U0001F4FC  Replay des Lives \u2192 https://www.youtube.com/channel/UC9SSoVdNjg2A3X4J-2RUP_Q\n\
+    \U0001F4FA Twitch \u2192 http://www.twitch.tv/bastiUi\n\U0001F47E Discord \u2192\
+    \ https://bit.ly/BastiUiDiscord\n\U0001F4F8 Instagram \u2192 http://www.instagram.com/bastiii\n\
+    \U0001F426 Twitter \u2192 https://twitter.com/bastiUi\n\U0001F464 Facebook \u2192\
+    \ http://fb.me/bastiui\n\U0001F3C0 Dribbble \u2192 https://dribbble.com/Basti\n\
+    \n\u25CF MATOS \u2192https://youtu.be/o_RksK9gzos\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTpNr8HR0i9d9c24YGVwl2GRdq4NQ76o6dCYmd0zw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '34900'
+  youtube_video_count: '84'
+  youtube_view_count: '884756'
 - categories: ''
   customUrl: ''
   global_name: Abrege
@@ -458,14 +631,20 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: ''
-  youtube_channel_id: ''
-  youtube_channel_name: Abrege
+  youtube_channel_id: UCWimnuBF27nwOxgUBJ4qNeg
+  youtube_channel_name: "Abr\xE8ge"
   youtube_channel_username: thomasaliasdydime
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 31700
-  youtube_video_count: 48
-  youtube_view_count: ''
+  youtube_custom_url: abrege
+  youtube_description: "Bienvenue sur Abr\xE8ge \U0001F60A\nJ'aime cr\xE9er des choses\
+    \ qui me parle visuellement. \nLe monde moderne, les technologies sont mes sources\
+    \ d'inspirations. Et ces choses, j'aime les partager, les enseigner\net les faire\
+    \ d\xE9couvrir dans un environnent passionnant, agr\xE9able et ludique !\n\nBon\
+    \ visionnage \u270C\n\nMon Instagram: abrege_lab\nMon mail: abrege.contact@gmail.com"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS4FYZIrLHGI4tREIIIftlDIxWEFTdeNKMv6zc8KA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '33200'
+  youtube_video_count: '49'
+  youtube_view_count: '1208506'
 - categories: ''
   customUrl: ''
   global_name: BertrandBourgy
@@ -481,11 +660,18 @@
   youtube_channel_id: UCtIGSt6iI8UzmM66dNWICjw
   youtube_channel_name: La Tech avec Bertrand
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 30600
-  youtube_video_count: 76
-  youtube_view_count: ''
+  youtube_custom_url: latechavecbertrand
+  youtube_description: "La technologie nous offre de grandes possibilit\xE9s, mais\
+    \ elle peut \xEAtre complexe \xE0 ma\xEEtriser ! Sur cette cha\xEEne, je t'accompagne\
+    \ pas \xE0 pas pour exploiter les possibilit\xE9s de ton ordinateur, de ton smartphone,\
+    \ de ton appareil photo ou encore de ta tablette !  \n\nMes sujets : programmation,\
+    \ d\xE9veloppement web, Gimp, Informatique, Animate, After Effects, Illustrator,\
+    \ Informatique, InDesign, Photographie, Vid\xE9o, Ux, Bureautique,...\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRbEWbSkY4tIU-Iy1alFR7iyzL4rqPE2EMl8_s0Qg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '31600'
+  youtube_video_count: '78'
+  youtube_view_count: '2098597'
 - categories: ''
   customUrl: ''
   global_name: LiiorC
@@ -499,13 +685,19 @@
   twitch_profil_image_url: ''
   twitter_followers: 4900
   youtube_channel_id: UCS71mal_TkTW_PpZR9YLpIA
-  youtube_channel_name: Lior Chamla
+  youtube_channel_name: Lior CHAMLA
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 27400
-  youtube_video_count: 82
-  youtube_view_count: ''
+  youtube_custom_url: liorchamla
+  youtube_description: "Passionn\xE9 de d\xE9veloppement web, je publie ici des tutoriels,\
+    \ des formations. \n\nJe suis d\xE9veloppeur web depuis 10 ans et formateur dans\
+    \ diff\xE9rentes \xE9coles et groupes de formation (CESI Alternances, eXia,, 3WAcademy,\
+    \ WebForce3, ...), si vous aimez le d\xE9veloppement web, n'h\xE9sitez pas \xE0\
+    \ vous abonner ;-)"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSVDjUpeEL_hycVcm-f9NYuSSD4LsRzVdsSevb8xQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '27700'
+  youtube_video_count: '82'
+  youtube_view_count: '1648913'
 - categories: ''
   customUrl: ''
   global_name: CodeDesign_fr
@@ -521,11 +713,16 @@
   youtube_channel_id: UC9zdcXq2z3GY3UVhlADNijg
   youtube_channel_name: Code & Design
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 23300
-  youtube_video_count: 52
-  youtube_view_count: ''
+  youtube_description: "Tutoriels HTML CSS, Javascript (et ses framework : jQuery,\
+    \ AngularJS, React, Node etc..) et Ruby on Rails. Nous aborderons des sujets dans\
+    \ la th\xE9orie mais \xE9galement dans la pratique avec des TP simples.\nRetrouvez-moi\
+    \ sur twitter : https://twitter.com/CodeaAndDesignT pour avoir toutes les actualit\xE9\
+    s de la cha\xEEne."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQg8N-RPXNkCZtjQGJmJ9aJu9p3WAgn_jC2zu8Bag=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '23400'
+  youtube_video_count: '52'
+  youtube_view_count: '1274640'
 - categories: ''
   customUrl: ''
   global_name: Defend Intelligence
@@ -544,11 +741,17 @@
   youtube_channel_id: UCnEHCrot2HkySxMTmDPhZyg
   youtube_channel_name: Defend Intelligence
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 21000
-  youtube_video_count: 54
-  youtube_view_count: ''
+  youtube_custom_url: defendintelligencetech
+  youtube_description: "Une chaine pour savoir quoi affronter si Skynet prend le contr\xF4\
+    le, on y parle d'Intelligence Artificielle par des vid\xE9os de vulgarisations\
+    \ mais aussi des tutos pour les d\xE9butants et experts.\nJe suis Anis Ayari,\
+    \ Senior Ing\xE9nieur en Intelligence Artificielle et je suis votre h\xF4te dans\
+    \ ce voyage.\n\nBienvenue dans la matrice."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '22200'
+  youtube_video_count: '56'
+  youtube_view_count: '483519'
 - categories: ''
   customUrl: ''
   global_name: Go Digi
@@ -564,11 +767,25 @@
   youtube_channel_id: UC24tiAt2fssTBgJKeWTwASQ
   youtube_channel_name: Go Digi
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 20700
-  youtube_video_count: 32
-  youtube_view_count: ''
+  youtube_custom_url: godigi
+  youtube_description: "Chez Go Digi, la m\xE9diocratie n'est pas une option. Nous\
+    \ proposons des cours de marketing digital haut de gamme qui peuvent litt\xE9\
+    ralement et radicalement changer votre vie pour le mieux. \n\nNous sommes partis\
+    \ de rien, comme la plupart des gens avec qui nous parlons tous les jours. Nous\
+    \ savons donc \xE0 quel point il est difficile et accablant de trouver son propre\
+    \ chemin vers le succ\xE8s. Nous avons des ann\xE9es d'exp\xE9rience et aujourd'hui,\
+    \ quel que soit votre parcours ou votre secteur d'activit\xE9, soyez assur\xE9\
+    \ que nous avons le bon plan pour votre r\xE9ussite.\n\nNous nous assurons \xE9\
+    galement de vous fournir les nouvelles technologiques les plus r\xE9centes qui\
+    \ sont non seulement abordables mais qui vous aident \xE0 \xEAtre une meilleure\
+    \ version de vous-m\xEAme de toutes les mani\xE8res possibles. Prenez soin de\
+    \ votre technologie, et votre technologie prendra soin de vous et de vos objectifs\
+    \ de r\xE9ussite.\n\n\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTJxxuz6_Jr2300E8XZx4qZsVoU5QEPlnfwIEIDCg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '20800'
+  youtube_video_count: '32'
+  youtube_view_count: '1354580'
 - categories: ''
   customUrl: ''
   global_name: Ackanir
@@ -582,13 +799,16 @@
   twitch_profil_image_url: ''
   twitter_followers: 360
   youtube_channel_id: UCdnsoYtDOKW05cn8ORwA1Fw
-  youtube_channel_name: Ackanir
+  youtube_channel_name: "Ackanir - La cha\xEEne Tech"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 20100
-  youtube_video_count: 74
-  youtube_view_count: ''
+  youtube_custom_url: ackanir
+  youtube_description: "J'essaie de vous faire d\xE9couvrir un maximum de choses\n\
+    Abonne-toi pour en profiter \U0001F525"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRFxASJ03cyAkAJcDnDmfXiLBHov9DSAzfWPTDZ7A=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '20200'
+  youtube_video_count: '74'
+  youtube_view_count: '897043'
 - categories: ''
   customUrl: ''
   global_name: FreresCodeurs
@@ -602,13 +822,31 @@
   twitch_profil_image_url: ''
   twitter_followers: 1789
   youtube_channel_id: UCWKyakTmFf38Sv0cD8MNzzg
-  youtube_channel_name: Les Freres Codeurs
+  youtube_channel_name: "Les Fr\xE8res Codeurs"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 18700
-  youtube_video_count: 138
-  youtube_view_count: ''
+  youtube_custom_url: lesfrerescodeurs
+  youtube_description: "On est l\xE0 pour rigoler.\nEt coder \xE9ventuellement.\n\n\
+    \n\u25AC\u25AC\u25AC\u25AC\u25AC\u25AC\u25AC \U0001F9E1 SUIS-NOUS \u25AC\u25AC\
+    \u25AC\u25AC\u25AC\u25AC\u25AC\nRetrouve-nous sur ton r\xE9seau pr\xE9f\xE9r\xE9\
+    \ :\n\u25BA TIKTOK : https://vm.tiktok.com/ZMesMYG8Y/\n\u25BA TWITTER : https://twitter.com/FreresCodeurs\n\
+    \u25BA INSTAGRAM : https://www.instagram.com/frerescodeurs\n\u25BA FACEBOOK :\
+    \ https://www.facebook.com/FreresCodeurs\n\n\u25AC\u25AC\u25AC\u25AC\u25AC\u25AC\
+    \u25AC \u26A1\uFE0F NOTRE MISSION \u25AC\u25AC\u25AC\u25AC\u25AC\u25AC\u25AC\n\
+    Notre objectif sur cette cha\xEEne est de d\xE9mocratiser la programmation de\
+    \ fa\xE7on divertissante, d\xE9montrer au plus grand nombre que c'est un domaine\
+    \ passionnant et surtout accessible !\nAu programme : des discussions chill, des\
+    \ r\xE9actions sur l'actualit\xE9 du code, des entretiens avec des d\xE9veloppeurs\
+    \ pros, des challenges de programmation, des astuces pour les d\xE9butants, etc.\n\
+    \nSi ces th\xE9matiques t'int\xE9ressent et que tu souhaites partager tout \xE7\
+    a avec nous, abonne-toi \xE0 la cha\xEEne \U0001F44A\U0001F3FC\n\n\u25AC\u25AC\
+    \u25AC\u25AC\u25AC\u25AC\u25AC \u2709\uFE0F CONTACT  \u25AC\u25AC\u25AC\u25AC\u25AC\
+    \u25AC\u25AC\ncontact@freres-codeurs.com\n\U0001F4BC Nous sommes disponibles en\
+    \ freelance :  https://freres-codeurs.com/freelance\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/SiR8ONU9S-CxDKKd47U4Jhwpm3FFQecwIuLAPl4_zZT-G69Fd0xR2x0uIZ1FfPTcipE4TU62RzI=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '19300'
+  youtube_video_count: '141'
+  youtube_view_count: '728316'
 - categories: ''
   customUrl: ''
   global_name: getCodingKnowledge
@@ -624,11 +862,20 @@
   youtube_channel_id: UCUjo_IKa9Cqkx_x-rMly8MA
   youtube_channel_name: getCodingKnowledge
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 18000
-  youtube_video_count: 654
-  youtube_view_count: ''
+  youtube_custom_url: getcodingknowledge
+  youtube_description: "Bonjour \xE0 tous !\n\nPour ceux qui ne me connaissent pas,\
+    \ je suis getCodingKnowledge, je dirige un site d'\xE9ducation sur le d\xE9veloppement\
+    \ web. Pour cela, j'upload des vid\xE9os gratuites sur Youtube mais aussi des\
+    \ cours complet sur Udemy. \n\nMon but ultime est de cr\xE9er une plateforme poss\xE9\
+    dant un contenu accessible au plus de gens possible avec le plus de tutoriel possible.\n\
+    \nPour tous ceux qui envisagent de rejoindre cette communaut\xE9 et d'y participer\
+    \ activement tous les mois. Je vous remercie d'avance de votre soutien et j'esp\xE8\
+    re vous rencontrer sur mes autres r\xE9seaux sociaux !"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQOFQLuStVLWefideIWiZBGFhQNjAsdINa7pqmk=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '18100'
+  youtube_video_count: '654'
+  youtube_view_count: '1914991'
 - categories: ''
   customUrl: ''
   global_name: CaptainDev404
@@ -644,11 +891,20 @@
   youtube_channel_id: UCuWaYcB0E0WyFjbvu7dalVw
   youtube_channel_name: Captain Dev
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 16400
-  youtube_video_count: 94
-  youtube_view_count: ''
+  youtube_description: "\U0001F914D'OU JE VIENS?\nD\xE9veloppeur Web depuis 10 ans,\
+    \ j'ai toujours eu l'envie de partager mes connaissances. \nJe fais partie de\
+    \ ceux qui pensent que l'on ne cesse jamais d'apprendre !\nAujourd'hui, je suis\
+    \ d\xE9veloppeur Web ind\xE9pendant et formateur.\n\n\U0001F4AASi tu es un d\xE9\
+    veloppeur Web et que tu as envie d'aller plus loin, cette chaine est faite pour\
+    \ toi ! \n___\n\n\U0001F596ENVIE DE ME SUIVRE ?\n\nTu peux aussi me retrouver\
+    \ sur les reseaux sociaux, chaque jour je documente mon parcours...\n\n\n\u25BA\
+    \ INSTAGRAM : https://www.instagram.com/captaindev404\n\u25BA FACEBOOK : http://bit.ly/2UMDhZF\n\
+    \u25BA TWITTER : https://twitter.com/captaindev404"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRz3_NETMAVPFI7qdzuo5M7wWsBE1QiYuPKgcwB=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '16500'
+  youtube_video_count: '94'
+  youtube_view_count: '545468'
 - categories: ''
   customUrl: ''
   global_name: Le Designer du Web
@@ -664,11 +920,14 @@
   youtube_channel_id: UCMFbNXUkjSUJ6WC20tGTzJg
   youtube_channel_name: Le Designer du Web
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 14700
-  youtube_video_count: 424
-  youtube_view_count: ''
+  youtube_custom_url: ledesignerduweb
+  youtube_description: "Retrouve ici ta dose de d\xE9veloppement Web, entrepreneuriat,\
+    \ UX/UI, r\xE9f\xE9rencement et bien d'autres choses !\n\n\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQjd-CXcr9BL909l3fEqLx-tBmbV9I63dFQPjRZnQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '15200'
+  youtube_video_count: '427'
+  youtube_view_count: '1012750'
 - categories: ''
   customUrl: ''
   global_name: Smaine Milianni
@@ -684,11 +943,19 @@
   youtube_channel_id: UCAY4O2TgmAy6-9gDx9Gn2wQ
   youtube_channel_name: Smaine Milianni
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 14600
-  youtube_video_count: 25
-  youtube_view_count: ''
+  youtube_custom_url: smainemilianni
+  youtube_description: "Je suis Sma\xEFne, coach, d\xE9veloppeur et formateur certifi\xE9\
+    \ Symfony 4,5 \u2764\uFE0F et Amazon Web Service Solution Architect Associate\
+    \ \u2601\uFE0F.\nJ'ai travaill\xE9 chez SensioLabs (cr\xE9ateur du framework)\
+    \ j'ai form\xE9 des centaines d'\xE9tudiants pour OpenClassrooms, je donne des\
+    \ formation en entreprise et j'accompagne des d\xE9veloppeurs professionnel ainsi\
+    \ que des devs d\xE9butants dans\nleur ma\xEEtrise du framework.\n\nSi votre objectif\
+    \ est de monter en comp\xE9tences vous \xEAtes au bon endroit \U0001F680\n\nhttps://www.smaine.me"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk5qATrN2w1qW_cPSh6iEDw75ioSJXcN7573xvTQ=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1470'
+  youtube_video_count: '25'
+  youtube_view_count: '82067'
 - categories: ''
   customUrl: ''
   global_name: Louistiti
@@ -701,14 +968,20 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 4701
-  youtube_channel_id: ''
+  youtube_channel_id: UC7AVPVO21rPjgC8W9dPYEvw
   youtube_channel_name: Louistiti
   youtube_channel_username: LouistitiTutos
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 11100
-  youtube_video_count: 57
-  youtube_view_count: ''
+  youtube_custom_url: louistitifr
+  youtube_description: "Hello world, passionn\xE9 et adorateur de projets, je partage\
+    \ mes exp\xE9riences et tips autour du d\xE9veloppement web. Mais aussi :\n\n\
+    - Tutoriels\n- Veille technologique, actualit\xE9s\n- Vlogs\n- Montages pour le\
+    \ fun\n\n\U0001F48C REJOINS L'AVENTURE \u27A4 https://emails.louistiti.fr\n\n\
+    Contact \u27A4 contact@louistiti.fr"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSFcQp93Sh7OueqkJUdTRmdzpN1FqZgGtPK_B4RpA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '11200'
+  youtube_video_count: '57'
+  youtube_view_count: '547150'
 - categories: ''
   customUrl: ''
   global_name: DevTheory
@@ -724,14 +997,21 @@
   youtube_channel_id: UCgJERWtcvu-JiPq5wBkYF1g
   youtube_channel_name: DevTheory
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 11000
-  youtube_video_count: 140
-  youtube_view_count: ''
+  youtube_custom_url: devtheory
+  youtube_description: "Devenir et rester un bon d\xE9veloppeur JS.\n\nLe nombre de\
+    \ d\xE9veloppeurs JS explosent, et \xE7a en m\xEAme temps que le nombre de technologies,\
+    \ frameworks et librairies.\n\nSe retrouver dans cette jungle d'informations est\
+    \ complexe, pourtant c'est pr\xE9cis\xE9ment ce qui peut nous diff\xE9rencier\
+    \ des autres.\n\n\xCAtre un bon d\xE9veloppeur n'est pas inn\xE9, c'est pourquoi\
+    \ DevTheory existe.\n\n\nhttps://devtheory.fr/"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/vZZYsxvAjOIxpKpJH4bGGgiLAeN4HXCd3BJCkGE_IXubJI35isM66UHX8cQdKTJK3820jY0ZyA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '11200'
+  youtube_video_count: '141'
+  youtube_view_count: '445515'
 - categories: ''
   customUrl: ''
-  global_name: From Scratch - Développement Web
+  global_name: "From Scratch - D\xE9veloppement Web"
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -742,13 +1022,19 @@
   twitch_profil_image_url: ''
   twitter_followers: 583
   youtube_channel_id: UCHGLV13U7YRbjrKpqfbtyYg
-  youtube_channel_name: From Scratch - Developpement Web
+  youtube_channel_name: "From Scratch - D\xE9veloppement Web"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 10700
-  youtube_video_count: 81
-  youtube_view_count: ''
+  youtube_description: "\U0001F4A5 D\xE9veloppeur autodidacte \n\U0001F680 Depuis\
+    \ F\xE9vrier 2020 j'explique ce que j'apprends via des tutos.\n\u270F\uFE0F Depuis\
+    \ F\xE9vrier 2021 j'enseigne le code.\n\U0001F340 Il n'y a rien \xE0 vendre ici,\
+    \ tout est gratuit et libre de droit.\n\nAllez un petit tips pour la route : si\
+    \ ton code ne marche pas, 99% du temps c'est qu'il y a une erreur de syntaxe \U0001F60E\
+    \n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRKEAc36IU22W3TSC9EkAJjWUI4Nejf8kwrxn1V=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '11400'
+  youtube_video_count: '83'
+  youtube_view_count: '546479'
 - categories: ''
   customUrl: ''
   global_name: GodOfMacro
@@ -761,14 +1047,16 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 360
-  youtube_channel_id: ''
+  youtube_channel_id: UCftI9Qw4HJXKVNzhuqZM_2w
   youtube_channel_name: GodOfMacro
   youtube_channel_username: GodOfMacro
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 9850
-  youtube_video_count: 289
-  youtube_view_count: ''
+  youtube_custom_url: godofmacro
+  youtube_description: Ma vie, de la programation et parfois des jeux.
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTUDdyW3wEDNljW9Xduco1HuqUuKxEYgCJpy5Nh=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '9870'
+  youtube_video_count: '289'
+  youtube_view_count: '1816486'
 - categories: ''
   customUrl: ''
   global_name: codeconcept
@@ -782,13 +1070,17 @@
   twitch_profil_image_url: ''
   twitter_followers: 190
   youtube_channel_id: UCY_guo_AYBs0cIkeMVc16iw
-  youtube_channel_name: Codeconcept
+  youtube_channel_name: codeconcept
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 9040
-  youtube_video_count: 314
-  youtube_view_count: ''
+  youtube_custom_url: codeconcept
+  youtube_description: "Cette cha\xEEne va vous permettre de passer de nouveaux paliers\
+    \ en JavaScript Front, Back ou Full Stack plus rapidement. Elle vous permettra\
+    \ \xE9galement de faire votre veille techno JavaScript."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQOYpnJ-zG4GsRzWi34WhHuWPy60974UeZ7_dhUFg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '9110'
+  youtube_video_count: '318'
+  youtube_view_count: '718282'
 - categories: ''
   customUrl: ''
   global_name: YvesRougyFR
@@ -801,14 +1093,16 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 1957
-  youtube_channel_id: ''
+  youtube_channel_id: UCfsEmSD8oVD147HCz5aCOUg
   youtube_channel_name: YvesRougyFR
   youtube_channel_username: yrougy
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 8370
-  youtube_video_count: 144
-  youtube_view_count: ''
+  youtube_custom_url: yrougy
+  youtube_description: ''
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSzfMARAJZvh4xRfNU-BTP2cTWqpiCG3ALaA38J=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '8480'
+  youtube_video_count: '144'
+  youtube_view_count: '347451'
 - categories: ''
   customUrl: ''
   global_name: Nord Coders
@@ -824,11 +1118,13 @@
   youtube_channel_id: UC36hi0WMeiR8HpUy-A2s4vQ
   youtube_channel_name: Nord Coders
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 8070
-  youtube_video_count: 213
-  youtube_view_count: ''
+  youtube_custom_url: nordcoders
+  youtube_description: Les screencasts du web en mode berzerk.
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQuWNbyBZi6klCwCzq3WCaqMv1g01C2GwU2WCjZtA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '8240'
+  youtube_video_count: '218'
+  youtube_view_count: '925236'
 - categories: ''
   customUrl: ''
   global_name: Docstring
@@ -844,11 +1140,16 @@
   youtube_channel_id: UCo2zkK2d_frGSXctIkftALw
   youtube_channel_name: Docstring
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 6900
-  youtube_video_count: 45
-  youtube_view_count: ''
+  youtube_custom_url: docstring
+  youtube_description: "Cha\xEEne YouTube officielle de https://www.docstring.fr.\n\
+    \nTutoriels, trucs & astuces, bonnes pratiques autour du langage Python, de diff\xE9\
+    rents framework (Django, Qt for Python...) et du d\xE9veloppement en g\xE9n\xE9\
+    ral.\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '9270'
+  youtube_video_count: '49'
+  youtube_view_count: '206243'
 - categories: ''
   customUrl: ''
   global_name: JavaScript de Zero
@@ -862,13 +1163,20 @@
   twitch_profil_image_url: ''
   twitter_followers: ''
   youtube_channel_id: UCMzJVrWeaKUotLPWTdx6HuQ
-  youtube_channel_name: JavaScript de Zero
+  youtube_channel_name: "JavaScript de Z\xE9ro"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 6630
-  youtube_video_count: 55
-  youtube_view_count: ''
+  youtube_custom_url: javascriptdezero
+  youtube_description: "Apprenez en vid\xE9o les bases de la programmation avec le\
+    \ langage JavaScript (ES6+). Si vous n'avez jamais programm\xE9 de votre vie et\
+    \ que vous voulez apprendre le JavaScript pour d\xE9crocher un job rapidement,\
+    \ cette formation est con\xE7ue pour vous !\n\nInscrivez-vous d\xE8s maintenant\
+    \ sur : https://www.javascriptdezero.com.\n\nAbonnez-vous \xE0 ma cha\xEEne pour\
+    \ apprendre \xE0 programmer avec des vid\xE9os en fran\xE7ais de qualit\xE9."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTA56fvB1UZ3ok_fOOHTv-6BSHx0cGPc_dpFcJREw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '6660'
+  youtube_video_count: '55'
+  youtube_view_count: '220760'
 - categories: ''
   customUrl: ''
   global_name: Donkey Geek
@@ -884,11 +1192,14 @@
   youtube_channel_id: UCen4kPGBciimcvFUQjjZCtg
   youtube_channel_name: Donkey Geek
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 5560
-  youtube_video_count: 139
-  youtube_view_count: ''
+  youtube_custom_url: donkeygeek
+  youtube_description: "DonkeyGeek est la cha\xEEne Youtube qui peut faire de vous\
+    \ un PRO. Ici, pas de bla-bla, vous apprenez vraiment et surtout facilement !"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLR2Bz3rSTPjCRQ4Frx_RFoaWWtrJwcjG9KjI8y89w=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '5690'
+  youtube_video_count: '139'
+  youtube_view_count: '532712'
 - categories: ''
   customUrl: ''
   global_name: Thibaud Dauce
@@ -901,14 +1212,21 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: ''
-  youtube_channel_id: ''
+  youtube_channel_id: UChyW1pwcQT2RA4Q2onfNfpg
   youtube_channel_name: Thibaud Dauce
   youtube_channel_username: tdauce
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 4490
-  youtube_video_count: 387
-  youtube_view_count: ''
+  youtube_custom_url: thibauddauce
+  youtube_description: "Apprenez \xE0 d\xE9velopper dans diff\xE9rents langages\_\
+    : PHP / Laravel, JavaScript, VueJS, Rust, Elm\u2026 Des vid\xE9os pour tous les\
+    \ niveaux\_!\n\nN'h\xE9sitez pas \xE0 me poser vos questions en commentaire, par\
+    \ mail (thibaud@formation-laravel.fr) ou via \U0001F426 Twitter @ThibaudDauce\
+    \ !\n\nVous pouvez \xE9galement rejoindre mon Discord si vous avez des questions\_\
+    : https://discordapp.com/invite/tPtVM9V"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSfLOET-O1duzIAjyGS-96zJQj12vbRekUGhwWodA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '4530'
+  youtube_video_count: '387'
+  youtube_view_count: '549427'
 - categories: ''
   customUrl: ''
   global_name: Sitedudev
@@ -924,11 +1242,13 @@
   youtube_channel_id: UCmJ6Z6gXjjylSVbPoBvj-ow
   youtube_channel_name: Sitedudev
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 3960
-  youtube_video_count: 110
-  youtube_view_count: ''
+  youtube_description: "Cha\xEEne YouTube sur le d\xE9veloppement web et sur la technologie\
+    \ ! \U0001F600"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSxL74IPzvD5oBELIUR4GkKwtqZsfhhHdkFjZq1Wg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '4010'
+  youtube_video_count: '111'
+  youtube_view_count: '337884'
 - categories: ''
   customUrl: ''
   global_name: Grimille - La Meute
@@ -944,11 +1264,16 @@
   youtube_channel_id: UCFfJNxWTuD8UCnG5JNSiqkw
   youtube_channel_name: Grimille - La Meute
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 3900
-  youtube_video_count: 96
-  youtube_view_count: ''
+  youtube_custom_url: grimille
+  youtube_description: "Rejoins la meute qui a soif d'apprendre en cliquant sur le\
+    \ bouton \"S'abonner\". \nReprends le contr\xF4le de tes journ\xE9es en t'inscrivant\
+    \ sur mon site ! (Site \xE0 venir : https://la-meute.gg)\n\xC9change avec les\
+    \ autres loups de la communaut\xE9 en rejoignant mon Discord ! https://la-meute.gg/discord"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQVZcqEoRrPxtZFFabVKyAQ9_PxkkXtp5ursLL5gg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '3920'
+  youtube_video_count: '96'
+  youtube_view_count: '253070'
 - categories: ''
   customUrl: ''
   global_name: YoanDev
@@ -964,14 +1289,23 @@
   youtube_channel_id: UCRlsJWh1XwmNGxZPFgJ0Zlw
   youtube_channel_name: YoanDev
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 3660
-  youtube_video_count: 51
-  youtube_view_count: ''
+  youtube_custom_url: yoandevco
+  youtube_description: "Symfony, Docker, DevOps ou encore GitLab sont des sujets qui\
+    \ vous int\xE9resse ? Vous \xEAtes au bon endroit !\nOn aborde pleins de sujets\
+    \ sur le monde du PHP, du d\xE9veloppement WEB, mais aussi de l'int\xE9gration\
+    \ continue, du DevOps ou de l'utilisation de Docker !\n\nJe propose des tutoriels\
+    \ simple et accessible, en fran\xE7ais !\n\xC9tant moi-m\xEAme un perp\xE9tuel\
+    \ d\xE9butant et en perp\xE9tuel apprentissage, j'essaye d'\xEAtre le plus p\xE9\
+    dagogue possible afin que les tutoriels soient facile \xE0 comprendre ;-)\n\n\
+    Vos commentaires sont source d'inspiration, alors n'h\xE9sitez pas !\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/F_TzxI7HXoSXVyrtPRcSyROKqEKZHQLusI8Yo1ERIAfG_oreBGCufzRy4jONF9OTeS6Ovkb7=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '3820'
+  youtube_video_count: '54'
+  youtube_view_count: '141350'
 - categories: ''
   customUrl: ''
-  global_name: Sébastien Imbert
+  global_name: "S\xE9bastien Imbert"
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -982,13 +1316,23 @@
   twitch_profil_image_url: ''
   twitter_followers: ''
   youtube_channel_id: UC18RbwcHN3cP8Q-K53PF-JQ
-  youtube_channel_name: Sebastien Imbert (Raton Codeur)
+  youtube_channel_name: "S\xE9bastien Imbert"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 3400
-  youtube_video_count: 55
-  youtube_view_count: ''
+  youtube_description: "Je m'appelle S\xE9bastien, je suis d\xE9veloppeur front-end\
+    \ et formateur ind\xE9pendant depuis 2016 sur la plateforme de e-learning tuto.com\
+    \ sur laquelle je publie r\xE9guli\xE8rement des formations gratuites et payantes\
+    \ sur le d\xE9veloppement front-end, j'accompagne \xE9galement les apprenants\
+    \ de la plateforme dans leur parcours professionnels depuis fin 2017.\n\nC'est\
+    \ en d\xE9but 2018 que j'ai d\xE9cid\xE9 de me consacrer un peu plus au partage\
+    \ sur YouTube,  vous trouverez sur cette cha\xEEne une vid\xE9o sur le d\xE9veloppement\
+    \ front-end (HTML5, CSS3, JavaScript...) tous les lundis et jeudis.\n\nVous trouverez\
+    \ un peu plus bas des liens vers mes r\xE9seaux sociaux et mon catalogue de formations\
+    \ sur tuto.com.\n\n\xC0 bient\xF4t !\n\nS\xE9bastien"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLR7oMXzGdrv6EffCWGH7_wZJgnpNQv5PdHiK8tp=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '3450'
+  youtube_video_count: '55'
+  youtube_view_count: '192288'
 - categories: ''
   customUrl: ''
   global_name: Thomas Boileau
@@ -1001,14 +1345,16 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 1031
-  youtube_channel_id: ''
+  youtube_channel_id: UCpMntmV07jvZMK3fqR196QQ
   youtube_channel_name: Thomas Boileau
   youtube_channel_username: SqAE28
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 2750
-  youtube_video_count: 53
-  youtube_view_count: ''
+  youtube_custom_url: thomasboileau
+  youtube_description: ''
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLT0wSMLRnLSheYjXInR91SC-D-W8GgwbZ7CULexlg=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '2790'
+  youtube_video_count: '53'
+  youtube_view_count: '95883'
 - categories: ''
   customUrl: ''
   global_name: Je suis un dev
@@ -1024,11 +1370,14 @@
   youtube_channel_id: UCo0zOE8DcrRGbwvr4Q_eMsQ
   youtube_channel_name: Je suis un dev
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 2740
-  youtube_video_count: 7
-  youtube_view_count: ''
+  youtube_description: "Ton rendez-vous hebdomadaire (blog ou YouTube) pour devenir\
+    \ et rester un meilleur d\xE9veloppeur !\n\nLa boutique : https://www.jesuisundev.com/boutique/\n\
+    Le blog : https://www.jesuisundev.com/\nTwitter : https://www.twitter.com/jesuisundev\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQO9ugQ3tRn_YnZd_NI8i3eO61FtKCRIsoZugDE=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '2790'
+  youtube_video_count: '7'
+  youtube_view_count: '28576'
 - categories: ''
   customUrl: ''
   global_name: Louis Nicolas - BELIEVEMY
@@ -1044,11 +1393,15 @@
   youtube_channel_id: UC9RqnWGripL5L3lxH-fEZjg
   youtube_channel_name: Louis Nicolas - BELIEVEMY
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 2000
-  youtube_video_count: 104
-  youtube_view_count: ''
+  youtube_description: "Cr\xE9ateur de vid\xE9os \xE0 grignoter sur l'informatique.\
+    \ Coder, c'est bien. Comprendre ce qu'on fait, c'est mieux.\nCette cha\xEEne a\
+    \ pour but d'aider les \xE9tudiants en recherche de contenus sur l'apprentissage\
+    \ du code."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRa-cYgATe091NRtiR578Y6qzADLSZIgmYazQJKFA=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '2060'
+  youtube_video_count: '104'
+  youtube_view_count: '84877'
 - categories: ''
   customUrl: ''
   global_name: David Dias
@@ -1064,14 +1417,27 @@
   youtube_channel_id: UCXYs_tVa-VFm5f6bWrPybhA
   youtube_channel_name: David Dias
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 1970
-  youtube_video_count: 14
-  youtube_view_count: ''
+  youtube_custom_url: thedaviddias
+  youtube_description: "\"David Dias, Le Dev Expat\" est la cha\xEEne qui parle de\
+    \ d\xE9veloppement web mais aussi d'expatriation et de technologies. Je te partage\
+    \ des conseils et astuces pour les personnes voulant devenir d\xE9veloppeur web\
+    \ ou cherchant \xE0 s'expatrier \xE0 l'\xE9tranger. Si tu es dans l'une de ces\
+    \ situations (ou m\xEAme les deux), n'h\xE9sites pas \xE0 t'abonner \xE0 la cha\xEE\
+    ne !\n\nDepuis plusieurs ann\xE9es, je forme et conseille de nombreuses personnes\
+    \ un peu partout dans le monde au d\xE9veloppement Front-End. Ayant commenc\xE9\
+    \ \xE0 faire du d\xE9veloppement web en \xE9tant ado, j'ai \xE9t\xE9 confront\xE9\
+    \ aux m\xEAmes questions et probl\xE8mes que tu rencontres certainement en ce\
+    \ moment. C'est pourquoi, j'ai d\xE9cid\xE9 de te partager mon exp\xE9rience gr\xE2\
+    ce \xE0 des vid\xE9os sur Youtube et de t'accompagner tout au long de ton parcours\
+    \ !\n\nBon visionnage et bienvenue sur ma cha\xEEne!"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRZAoYqPyLgIriaVBU4js1wwIPJ-0pTWvAW357fTw=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1970'
+  youtube_video_count: '14'
+  youtube_view_count: '64331'
 - categories: ''
   customUrl: ''
-  global_name: Seb Duval Création de Sites Web
+  global_name: "Seb Duval Cr\xE9ation de Sites Web"
   plateformes: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
@@ -1082,13 +1448,17 @@
   twitch_profil_image_url: ''
   twitter_followers: ''
   youtube_channel_id: UC_n2nsURL8YxaLeRLAWzsMQ
-  youtube_channel_name: Seb Duval Creation de sites web
+  youtube_channel_name: "S\xE9b Duval - Cr\xE9ation de Sites Web"
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 1920
-  youtube_video_count: 16
-  youtube_view_count: ''
+  youtube_custom_url: sebduval
+  youtube_description: "Je suis d\xE9veloppeur web et, dans mes vid\xE9os, je vous\
+    \ montre comment cr\xE9er des sites web avec ou sans code. Suivez-moi aussi sur\
+    \ Twitch et Twitter !\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/zIZ5YJ7yeTp5XLPNY3i5Cv3SNTxhItJroF7EtqV3GejCrJcHVfR_p9bY0fEAFr5_KXK4Tjs32cY=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1960'
+  youtube_video_count: '16'
+  youtube_view_count: '78329'
 - categories: ''
   customUrl: ''
   global_name: Wawa Sensei
@@ -1104,11 +1474,15 @@
   youtube_channel_id: UCBH-5ctALmmOrm4kczL3urQ
   youtube_channel_name: Wawa Sensei
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 1550
-  youtube_video_count: 35
-  youtube_view_count: ''
+  youtube_custom_url: wawasensei
+  youtube_description: "Cha\xEEne YouTube sur le th\xE8me du d\xE9veloppement web\
+    \ :\n- Des tutos HTML, CSS, Javascript, VueJS, React Native. \n- Des talks sur\
+    \ le monde du dev et de la formation\n\n"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbbtTIwF2vmCTvC13kj9OJh4njbVE4SyVoqd3z=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1670'
+  youtube_video_count: '37'
+  youtube_view_count: '41381'
 - categories: ''
   customUrl: ''
   global_name: Pierre Terrat
@@ -1124,11 +1498,17 @@
   youtube_channel_id: UCeZIdBQiLoH3zi-VCHwi5VQ
   youtube_channel_name: Pierre Terrat
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 1460
-  youtube_video_count: 35
-  youtube_view_count: ''
+  youtube_description: "Cette cha\xEEne a pour but de vous apprendre ce qui est en\
+    \ relation avec la technologie front. On parlera principalement du framework Angular,\
+    \ mais aussi de tout l'environnement qui gravite autour (TypeScript, WebPack,\
+    \ Angular-Cli, ...).\n\nLa cr\xE9ation de cette cha\xEEne est la suite logique\
+    \ de mon blog : http://pierreterrat.com/ et ou mes lecteurs m'ont fortement encourag\xE9\
+    \ \xE0 proposer un contenu vid\xE9o :)."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQtl9kKqkPQuFHT7ZHT80Q9mQe6M2-F4zVz2pfi5w=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1460'
+  youtube_video_count: '35'
+  youtube_view_count: '71531'
 - categories: ''
   customUrl: ''
   global_name: Road To Dev
@@ -1144,11 +1524,13 @@
   youtube_channel_id: UCJFSN6epvy4HGjujPhuhGvg
   youtube_channel_name: Road To Dev
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 1420
-  youtube_video_count: 80
-  youtube_view_count: ''
+  youtube_custom_url: roadtodev
+  youtube_description: "Tutoriel Youtube et web \xE0 propos du d\xE9veloppement web"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ4bI4IPt-l9OgF4NH1A0NL9YigewrQgK2wPasP=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1430'
+  youtube_video_count: '80'
+  youtube_view_count: '206042'
 - categories: ''
   customUrl: ''
   global_name: neolectron
@@ -1161,14 +1543,16 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_followers: 2112
-  youtube_channel_id: ''
-  youtube_channel_name: neolectron
+  youtube_channel_id: UCJFSN6epvy4HGjujPhuhGvg
+  youtube_channel_name: Road To Dev
   youtube_channel_username: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
-  youtube_subscriber_count: 475
-  youtube_video_count: 3
-  youtube_view_count: ''
+  youtube_custom_url: roadtodev
+  youtube_description: "Tutoriel Youtube et web \xE0 propos du d\xE9veloppement web"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ4bI4IPt-l9OgF4NH1A0NL9YigewrQgK2wPasP=s240-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: '1430'
+  youtube_video_count: '80'
+  youtube_view_count: '206042'
 - categories: ''
   customUrl: ''
   global_name: Pierre Miniggio
@@ -1183,15 +1567,18 @@
   twitch_profil_image_url: ''
   twitter_account_name: PierreMiniggio
   twitter_followers: 230
-  youtube_channel_id: ''
+  youtube_channel_id: UCKbunxMnqxM8UFMEYF79CUQ
   youtube_channel_name: Pierre Miniggio
   youtube_channel_username: CatoonTheCat
-  youtube_description: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
+  youtube_custom_url: pierreminiggio
+  youtube_description: "Ayant grandit dans le monde du jeu vid\xE9o et de la musique,\
+    \ je suis ensuite devenu d\xE9veloppeur web \xE0 22 ans.\nJe fais de mon mieux\
+    \ pour vous partager ce que j'ai appris et vous aider."
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSrI52EDzpsV2fpNtrIyViCJIFKkmc9x48ogoB9AQ=s240-c-k-c0x00ffffff-no-rj-mo
   youtube_subscriber_count: '2660'
-  youtube_video_count: 351
-  youtube_view_count: ''
+  youtube_video_count: '351'
+  youtube_view_count: '268535'
 - categories: ''
   customUrl: ''
   global_name: Sofiyan Productiv'IT
@@ -1209,9 +1596,17 @@
   youtube_channel_id: UC6hw-vlN2TqmgMcJ_QLlZ5A
   youtube_channel_name: Sofiyan Productiv'IT
   youtube_channel_username: ''
-  youtube_description: ''
-  youtube_hidden_subscriber_count: ''
-  youtube_profil_image_url: ''
+  youtube_custom_url: sofiyanifren
+  youtube_description: "Ici, je partage ce que j'apprends au cours de mes missions,\
+    \ mais aussi ce qui me passionne depuis que je travaille dans le domaine du num\xE9\
+    rique. \n\nTu trouveras de la vulgarisation, du d\xE9veloppement et de l'administration\
+    \ syst\xE8me/r\xE9seau, mais aussi des m\xE9thodologies afin de monter en comp\xE9\
+    tences et \xEAtre toujours plus productif et performant !\n\n\U0001F4CC Contact\
+    \ pro : contact@sofiyanifren.tech\n\U0001F4CC Instagram : https://www.instagram.com/sofiyan_ifren/\n\
+    \U0001F4CC Twitter : https://twitter.com/sofiyan_ifren\n\U0001F4CC Blog : https://ifrensofiyan.wordpress.com/\n\
+    \U0001F4CC Github :  https://github.com/SofiyanIfren"
+  youtube_hidden_subscriber_count: false
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTKPmvkGGAmqthtKuPn0z2gi3DV21toSixQ0ThFFA=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: '1710'
-  youtube_video_count: 52
-  youtube_view_count: ''
+  youtube_video_count: '52'
+  youtube_view_count: '40843'
