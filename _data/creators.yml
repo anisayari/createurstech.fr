@@ -9,11 +9,13 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
+  twitter_description: "D\xE9couvrez des tutoriels de cat\xE9gories diverses (informatique,\
+    \ physique, t\xE9l\xE9communications...) expliqu\xE9s de mani\xE8re simple et\
+    \ chirurgicale !!"
+  twitter_followers: 2554
+  twitter_id: 2213983291
+  twitter_name: LES TEACHERS DU NET
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/484386252083298304/aaZDnb8c_normal.png
   twitter_screen_name: TEACHERSDUNET
   youtube_channel_id: UCzuaB4F2znrMggxcwUuVhAw
   youtube_channel_name: LES TEACHERS DU NET
@@ -1795,11 +1797,13 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
+  twitter_description: "\U0001F5FF\nD\xE9veloppeur @agencesafti | @Github pierreminiggio\
+    \ | Guitare, Basse, Piano & MAO | @Facebook pminiggio | @Instagram @tiktok_us\
+    \ @Youtube pierreminiggio"
+  twitter_followers: 230
+  twitter_id: 1451795576
+  twitter_name: "\u03C0r \u1D33\u1D33\u1D35\u1D3C"
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1273522615244722182/iEKTLbLk_normal.jpg
   twitter_screen_name: PierreMiniggio
   youtube_channel_id: UCKbunxMnqxM8UFMEYF79CUQ
   youtube_channel_name: Pierre Miniggio
@@ -1824,11 +1828,12 @@
   twitch_id: ''
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
+  twitter_description: "Web Scrapper \U0001F468\u200D\U0001F4BB Bot Maker \U0001F916\
+    \ Indie Maker \U0001F680\nhttps://t.co/dBQMUEp7D0\n (RT || Likes) != endorsement"
+  twitter_followers: 164
+  twitter_id: 875092569251827713
+  twitter_name: Sofiyan Productiv'IT
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1347568373962571776/GZ44-VPN_normal.jpg
   twitter_screen_name: sofiyan_ifren
   youtube_channel_id: UC6hw-vlN2TqmgMcJ_QLlZ5A
   youtube_channel_name: Sofiyan Productiv'IT
