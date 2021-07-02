@@ -19,7 +19,7 @@ A creator have to respect the following requirements :
   "#SPECIFY USERNAME OF THE CREATOR": {
     "youtube_channel_id": #SPECIFY THE CHANNEL ID , YOU CAN FIND IT IN youtube.com/channel/CHANNEL_ID_HERE OR IF youtube.com/user/CHANNEL_USERNAME_HERE PLEASE CHECK youtube_channel_username AND LEAVE THIS ONE = '',
     "youtube_channel_username": #SPECIFY THE CHANNEL USERNAME , YOU CAN FIND IT IN youtube.com/user/CHANNEL_USERNAME OR IF youtube.com/channel/CHANNEL_ID_HERE PLEASE CHECK youtube_channel_id AND LEAVE THIS ONE = '',
-    "categories": "",
+    "categories": #SPECIFY CATEGORIES (2MAX) between dev_web, ia_&_machine_learning, cybersecurite, design_ui/ux,reseaux,admin_&_system,devops,actu_tech
     "twitch_channel_name": #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN TWITCH.TV/CHANNEL_NAME_HERE,
     "twitter_screen_name": #SPECIFY THE CHANNEL NAME, YOU CAN FIND IT IN twitter.com/TWITTER_USERNAME,
   }
