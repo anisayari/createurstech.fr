@@ -44,7 +44,6 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 										{% endif %}
 
 									{% if creators.youtube_channel_name  != '' %}
-									https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}
                     <a class='button-youtube' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
                     <p>{{ creators.youtube_subscriber_count}} followers, {{ creators.youtube_video_count}} videos</p>
 									{% endif %}
@@ -71,7 +70,6 @@ title: Le site qui référence les créateurs de contenus tech francophone.
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script>
-  console.log('bj')
 	
 var $grid = $('.grid').isotope({
   itemSelector: '.card'
@@ -83,7 +81,6 @@ $('.filters').on( 'click', '.button', function( event ) {
    var $button = $( event.currentTarget );
   var $buttonGroup = $button.parents('.button-group');
   var filterGroup = $buttonGroup.attr('data-filter-group');
-	console.log(filterGroup )
   filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
   var filterValue = concatValues( filters );
   $grid.isotope({ filter: filterValue });
@@ -92,7 +89,6 @@ $('.filters').on( 'click', '.button', function( event ) {
 $('.button-group').each( function( i, buttonGroup ) {
   var $buttonGroup = $( buttonGroup );
   $buttonGroup.on( 'click', 'button', function( event ) {
-		console.log('test')
     $buttonGroup.find('.is-checked').removeClass('is-checked');
     var $button = $( event.currentTarget );
     $button.addClass('is-checked');
