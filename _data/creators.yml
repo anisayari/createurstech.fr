@@ -50,13 +50,14 @@
 - categories: ''
   global_name: micode
   plateformes: ''
-  twitch_broadcaster_type: ''
+  twitch_broadcaster_type: partner
   twitch_channel_name: micode
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
+    \ mercredis \xE0 20h"
+  twitch_followers: 47942
+  twitch_id: '273839506'
+  twitch_number_of_view: 534326
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_followers: 73300
   youtube_channel_name: micode
   youtube_followers: 850000
@@ -92,13 +93,14 @@
 - categories: ''
   global_name: Hardisk
   plateformes: ''
-  twitch_broadcaster_type: ''
+  twitch_broadcaster_type: partner
   twitch_channel_name: HardiskLive
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
+    \ Tech !"
+  twitch_followers: 21914
+  twitch_id: '42405140'
+  twitch_number_of_view: 133229
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_followers: 35900
   youtube_channel_name: hardisk
   youtube_followers: 275000
@@ -372,13 +374,16 @@
 - categories: ''
   global_name: Dfintelligence
   plateformes: ''
-  twitch_broadcaster_type: ''
+  twitch_broadcaster_type: partner
   twitch_channel_name: DefendIntelligence
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
+    \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
+    \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
+    \ disponibles pour les subs."
+  twitch_followers: 3286
+  twitch_id: '209525793'
+  twitch_number_of_view: 17373
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_followers: 3787
   youtube_channel_name: Defend Intelligence
   youtube_followers: 21000
