@@ -1,5 +1,8 @@
 # createurstech.fr
 Un site internet pour référencer les créateurs de contenus Tech Francophones.
+
+Le site est en construction est disponible ici : https://createurstech.fr 
+
 ![LEs créateurs tech](https://github.com/anisayari/createurstech.fr/blob/main/logo_v0.jpg?raw=true)
 
 ### Add a creator
