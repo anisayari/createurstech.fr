@@ -1,91 +1,150 @@
 ---
----
+--- 
 @import "main";
 
-body{
+
+.upper-right{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100px;
+  text-align:right;
+  font-size:12px;
+  font-weight:600;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+body {
   background-color: #222222;
   color: white;
 }
 
-a.site-title{
+a.site-title {
   background-color: #222222;
   color: white !important;
 
   text-decoration: none;
-  padding:5px;
+  padding: 5px;
   margin: 5px;
 }
 
-a.site-title:hover{
-  box-shadow: 0 0 5px #906dde , 0 0 5px #906dde inset;
+a.site-title:hover {
+  box-shadow: 0 0 5px #906dde, 0 0 5px #906dde inset;
 }
 
-$card-spacer-x:            1.25rem;
-$card-spacer-y:            .75rem;
-$card-border-width:        .0625rem;
+$card-spacer-x: 1.25rem;
+$card-spacer-y: .75rem;
+$card-border-width: .0625rem;
 $card-border-color: #bfbfbf;
 $card-padding: .7rem;
 
-
-.title *{
-  display: inline;
+.global_name_div{
+  text-align: center !important;
 }
+
+.title{
+  display: inline;
+  justify-content: center;
+  text-align: center;
+}
+
+.title img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+.grid {
+
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+
+}
+  
 .card {
-  width: 100%;
   color: black;
   position: relative;
+  float: left;
+  width: 120px;
+  height: 200px;
   border: $card-border-width solid $card-border-color;
-  border-radius : .5rem;
-  background-color:white;
-  margin-bottom: $card-spacer-y;
-  padding : $card-padding;
+  border-radius: .5rem;
+  background-color: white;
+  margin: 5px;
+  padding: $card-padding;
+  }
+
+.element-item {
+  position: relative;
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  padding: 10px;
+  background: #888;
+  color: #262524;
 }
 
-.fold{
+.testcard {
+  align-items: center;
+  text-align: center !important;
+}
+
+
+.fold {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* number of lines to show */
+  -webkit-line-clamp: 3;
+  /* number of lines to show */
   -webkit-box-orient: vertical;
 }
 
-.unfold{
- 
-}
+.unfold {}
 
-.read-more{
+.read-more {
+  font-size: 7px;
   text-decoration: underline;
   cursor: pointer;
+  color: #bfbfbf
 }
 
-.button-youtube{
+.button-youtube {
   color: #FF0000;
 }
 
-.button-twitch{
+.button-twitch {
   color: #6441a5;
 }
 
 .rounded {
-    clip-path: circle();
+  clip-path: circle();
 }
+
 .button:active,
 .button.is-checked {
-  background: linear-gradient(#B848AC,#DE3765);
+  background: linear-gradient(#B848AC, #DE3765);
   border-color: #DE3765 !important;
   color: #fff !important;
 }
 
 .button_tags:hover {
   color: #ffffff !important;
-  background: linear-gradient(#B848AC,#DE3765);
+  background: linear-gradient(#B848AC, #DE3765);
   border-color: #DE3765 !important;
   transition: all 0.4s ease 0s;
 }
 
 .button_tags {
-  color:white !important;
-  margin:2px;
+  color: white !important;
+  margin: 2px;
   text-transform: uppercase;
   text-decoration: none;
   background: transparent;
@@ -97,45 +156,78 @@ $card-padding: .7rem;
   transition: all 0.4s ease 0s;
 }
 
-.card > p {
+.card>p {
   margin-top: 10px;
 
-  border-top:transparent ;
-  border-bottom:transparent ;
+  border-top: transparent;
+  border-bottom: transparent;
 }
 
-body::-webkit-scrollbar{
+body::-webkit-scrollbar {
   width: 15px;
   background: #826DB5;
 }
 
-*::-webkit-scrollbar{
+*::-webkit-scrollbar {
   width: 7px;
   background-color: #eeeeee;
 }
-*::-webkit-scrollbar-thumb{
+
+*::-webkit-scrollbar-thumb {
   border-radius: 3px;
 
   width: 7px;
   background-color: #d8d8d8;
 }
 
-.button-group{
+.button-group {
   margin-bottom: 10px;
 }
 
-.global_name{
+.global_name {
   font-weight: bold;
-  font-size: large;
-}
-
-.grid{
-  display: flex;
-  justify-content: center;
+  font-size: 10px;
 }
 
 
 input[type="text"] {
   font-size: 20px;
-  color:black;
+  color: black;
+  border: 3px solid #DE3765;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: black;
+  font-size: 15px;
+
+}
+
+.description {
+  font-size: 9px;
+  line-height: 12px;
+  margin-bottom:1px;
+}
+
+.social-networks{
+
+  display: inline;
+  display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;  /* TWEENER - IE 10 */
+  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+  
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.social-networks i{
+  text-align: center;
+  justify-content:center;
+}
+
+.social-networks a{
+  margin: 0 5px 0 5px
 }
