@@ -11,8 +11,9 @@
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
   twitch_followers: 3371
+  twitch_followers_abbreviation: 3.37K
   twitch_id: '209525793'
-  twitch_number_of_view: 18134
+  twitch_number_of_view: 18136
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -32,8 +33,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk-CPORZvH78xqKdiRU6p0YXSJ9OOZQjGSRMTFJg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 22400
+  youtube_subscriber_count_abbreviation: 22.40K
   youtube_video_count: 56
-  youtube_view_count: 492099
+  youtube_view_count: 495591
 - categories: ''
   condition_card: true
   condition_twitch: true
@@ -45,13 +47,15 @@
   twitch_description: "Tomb\xE9 dans la marmite de l'informatique \xE0 10 ans, je\
     \ n'en suis pas encore sorti ! Et en ayant grandi au milieu des appareils \xE9\
     lectroniques, je ne pouvais que jouer un peu avec la radio d\xE8s mon adolescence."
-  twitch_followers: 2465
+  twitch_followers: 2466
+  twitch_followers_abbreviation: 2.47K
   twitch_id: '136244267'
   twitch_number_of_view: 26784
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/92a23201-5a4c-49b2-9525-5cff8bd20678-profile_image-300x300.png
   twitter_description: Vulgarisateur, formateur informatique. Twitch partner https://t.co/xq0818Euq9
     https://t.co/lcwC3iR7mm Dinosaure des Internet
   twitter_followers: 1970
+  twitter_followers_abbreviation: 1.97K
   twitter_id: 9104662
   twitter_name: Yves Rougy
   twitter_profile_picture: http://pbs.twimg.com/profile_images/960454030446252032/vxQ9CrE7_normal.jpg
@@ -64,6 +68,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSzfMARAJZvh4xRfNU-BTP2cTWqpiCG3ALaA38J=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 8490
+  youtube_subscriber_count_abbreviation: 8.49K
   youtube_video_count: 144
   youtube_view_count: 347820
 - categories: dev_web devops
@@ -83,7 +88,8 @@
   twitter_description: "D\xE9couvrez des tutoriels de cat\xE9gories diverses (informatique,\
     \ physique, t\xE9l\xE9communications...) expliqu\xE9s de mani\xE8re simple et\
     \ chirurgicale !!"
-  twitter_followers: 2554
+  twitter_followers: 2555
+  twitter_followers_abbreviation: 2.56K
   twitter_id: 2213983291
   twitter_name: LES TEACHERS DU NET
   twitter_profile_picture: http://pbs.twimg.com/profile_images/484386252083298304/aaZDnb8c_normal.png
@@ -99,7 +105,7 @@
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQsybJpYLRCUbm0mBUsEUvwHqZBQ7YpApqEPqBL=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: ''
   youtube_video_count: 1457
-  youtube_view_count: 15441964
+  youtube_view_count: 15445451
 - categories: actu_tech
   condition_card: true
   condition_twitch: false
@@ -135,6 +141,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQmDxTk5AD_PqY-tF5lwXlk4dxqfXLnhFI0kzVtXQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 2190000
+  youtube_subscriber_count_abbreviation: 2.19M
   youtube_video_count: 1517
   youtube_view_count: 416764797
 - categories: actu_tech
@@ -174,6 +181,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS9bGGUPid3aKZbn9af772JmLkiZ8qCMmj7Nlbi3g=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1010000
+  youtube_subscriber_count_abbreviation: 1.01M
   youtube_video_count: 837
   youtube_view_count: 152601869
 - categories: actu_tech
@@ -186,9 +194,10 @@
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
     \ mercredis \xE0 20h"
-  twitch_followers: 47976
+  twitch_followers: 47979
+  twitch_followers_abbreviation: 47.98K
   twitch_id: '273839506'
-  twitch_number_of_view: 534376
+  twitch_number_of_view: 534378
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -208,8 +217,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSamt0f8i631W2eC_p5cfRjYjUP26UhRWpkGJ-EBA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 851000
+  youtube_subscriber_count_abbreviation: 851.00K
   youtube_video_count: 90
-  youtube_view_count: 46760673
+  youtube_view_count: 46767013
 - categories: actu_tech
   condition_card: true
   condition_twitch: false
@@ -239,6 +249,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ4H7z7f8YU07HhdJyYfzR_PoB-xSPaLjr9GCXMtg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 778000
+  youtube_subscriber_count_abbreviation: 778.00K
   youtube_video_count: 858
   youtube_view_count: 136695437
 - categories: actu_tech
@@ -276,8 +287,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRCQAj-vsEYL4TdfNpKgdhAnHOoeB1I7gXvnbe8Gg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 294000
+  youtube_subscriber_count_abbreviation: 294.00K
   youtube_video_count: 462
-  youtube_view_count: 29979019
+  youtube_view_count: 29989529
 - categories: actu_tech
   condition_card: true
   condition_twitch: true
@@ -289,6 +301,7 @@
   twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
     \ Tech !"
   twitch_followers: 21945
+  twitch_followers_abbreviation: 21.95K
   twitch_id: '42405140'
   twitch_number_of_view: 133629
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
@@ -307,6 +320,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRFr2dh9qtCJlUavanbjzlUxWU9jpHFFetf50FnDA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 276000
+  youtube_subscriber_count_abbreviation: 276.00K
   youtube_video_count: 471
   youtube_view_count: 32985661
 - categories: ''
@@ -319,8 +333,9 @@
   twitch_channel_name: grafikart
   twitch_description: Developpeur Web | Freelance
   twitch_followers: 6003
+  twitch_followers_abbreviation: 6.00K
   twitch_id: '32887598'
-  twitch_number_of_view: 103931
+  twitch_number_of_view: 103934
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -338,6 +353,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQTUKCd7fvyRbIUni52wocYLSD0BdItSCTbjru2=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 216000
+  youtube_subscriber_count_abbreviation: 216.00K
   youtube_video_count: 1275
   youtube_view_count: 34880458
 - categories: actu_tech
@@ -377,8 +393,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTBDkEAoZ1CJvVqhjScdgvPHTfyGWciC9r-udVrTA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 209000
+  youtube_subscriber_count_abbreviation: 209.00K
   youtube_video_count: 198
-  youtube_view_count: 17840818
+  youtube_view_count: 17841729
 - categories: dev_web devops
   condition_card: true
   condition_twitch: false
@@ -418,6 +435,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQFoCgRQlcgfJ-7MI7Cg8htvesAlySSokz7NRbgDQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 207000
+  youtube_subscriber_count_abbreviation: 207.00K
   youtube_video_count: 160
   youtube_view_count: 13311275
 - categories: ''
@@ -459,6 +477,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRuim9nNTbsePTlKeaEuwwuRvuqbG_282eJLbqI0A=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 134000
+  youtube_subscriber_count_abbreviation: 134.00K
   youtube_video_count: 414
   youtube_view_count: 11782473
 - categories: ''
@@ -493,8 +512,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQqAyN3fkupWMuxvWS20a5mmciTd40VhoiZrDQmmQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 103000
+  youtube_subscriber_count_abbreviation: 103.00K
   youtube_video_count: 252
-  youtube_view_count: 14216604
+  youtube_view_count: 14222560
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -527,8 +547,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRSL7w3mfHjST1Cf19FANB-nqwxVlSkZz4QxDd0Jg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 89400
+  youtube_subscriber_count_abbreviation: 89.40K
   youtube_video_count: 149
-  youtube_view_count: 3528176
+  youtube_view_count: 3530397
 - categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
@@ -565,8 +586,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQUHtRJS6-gDvJYW2VFJprOXxmA0ubsvSQnPhtwTw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 76100
+  youtube_subscriber_count_abbreviation: 76.10K
   youtube_video_count: 75
-  youtube_view_count: 2671388
+  youtube_view_count: 2672739
 - categories: dev_web
   condition_card: true
   condition_twitch: false
@@ -598,6 +620,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLToMLjzTcbM12uj8y1exKee9qu_0DvrwYuISQvi=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 61800
+  youtube_subscriber_count_abbreviation: 61.80K
   youtube_video_count: 198
   youtube_view_count: 5446596
 - categories: ''
@@ -626,6 +649,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRfe0KFFnuByRCZWSdTtlQb0TBoP4om60t5DSgsBQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 61900
+  youtube_subscriber_count_abbreviation: 61.90K
   youtube_video_count: 15
   youtube_view_count: 1757074
 - categories: dev_web design_ui/ux
@@ -664,8 +688,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTGQNZANkrf7WSpRnEetHSQ8gvum9tIN0398P7geg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 55000
+  youtube_subscriber_count_abbreviation: 55.00K
   youtube_video_count: 191
-  youtube_view_count: 2822375
+  youtube_view_count: 2828644
 - categories: ia_&_machine_learning
   condition_card: true
   condition_twitch: false
@@ -697,8 +722,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 51600
+  youtube_subscriber_count_abbreviation: 51.60K
   youtube_video_count: 57
-  youtube_view_count: 2500798
+  youtube_view_count: 2505439
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -731,6 +757,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSOYNmRd_NN4YOK3TuO9rVTMCN8YsNJ9NJtFt-zwQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 43100
+  youtube_subscriber_count_abbreviation: 43.10K
   youtube_video_count: 247
   youtube_view_count: 2415615
 - categories: admin_&_system devops
@@ -762,8 +789,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbWUPHCQNas1r-EnckO3-dSGS4uqhL9hWWXXeKcw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 43200
+  youtube_subscriber_count_abbreviation: 43.20K
   youtube_video_count: 76
-  youtube_view_count: 2003057
+  youtube_view_count: 2008193
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -797,8 +825,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRCriqugloi3eu-ZLsmB9lhoM9j48UGf03Gol_w=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 39500
+  youtube_subscriber_count_abbreviation: 39.50K
   youtube_video_count: 169
-  youtube_view_count: 1841100
+  youtube_view_count: 1841496
 - categories: design_ui/ux
   condition_card: true
   condition_twitch: true
@@ -809,6 +838,7 @@
   twitch_channel_name: bastiui
   twitch_description: "On fait de l'UI Design et on s'amuse bien \u2014 youtube.com/BastiUi"
   twitch_followers: 8576
+  twitch_followers_abbreviation: 8.58K
   twitch_id: '149643510'
   twitch_number_of_view: 59507
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/6817571b-a558-4555-96a5-baf56975e0fa-profile_image-300x300.png
@@ -840,6 +870,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTpNr8HR0i9d9c24YGVwl2GRdq4NQ76o6dCYmd0zw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 35000
+  youtube_subscriber_count_abbreviation: 35.00K
   youtube_video_count: 84
   youtube_view_count: 887456
 - categories: ''
@@ -873,6 +904,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS4FYZIrLHGI4tREIIIftlDIxWEFTdeNKMv6zc8KA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 33200
+  youtube_subscriber_count_abbreviation: 33.20K
   youtube_video_count: 49
   youtube_view_count: 1211518
 - categories: ''
@@ -907,6 +939,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRbEWbSkY4tIU-Iy1alFR7iyzL4rqPE2EMl8_s0Qg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 31700
+  youtube_subscriber_count_abbreviation: 31.70K
   youtube_video_count: 78
   youtube_view_count: 2107433
 - categories: ''
@@ -920,8 +953,9 @@
   twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
     \ "
   twitch_followers: 951
+  twitch_followers_abbreviation: '951.00'
   twitch_id: '86914720'
-  twitch_number_of_view: 5030
+  twitch_number_of_view: 5031
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/liior-profile_image-58aeb8355fe3384e-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -941,6 +975,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSVDjUpeEL_hycVcm-f9NYuSSD4LsRzVdsSevb8xQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 27700
+  youtube_subscriber_count_abbreviation: 27.70K
   youtube_video_count: 82
   youtube_view_count: 1650681
 - categories: ''
@@ -973,6 +1008,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQg8N-RPXNkCZtjQGJmJ9aJu9p3WAgn_jC2zu8Bag=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 23400
+  youtube_subscriber_count_abbreviation: 23.40K
   youtube_video_count: 52
   youtube_view_count: 1275095
 - categories: ''
@@ -1014,6 +1050,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTJxxuz6_Jr2300E8XZx4qZsVoU5QEPlnfwIEIDCg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 20800
+  youtube_subscriber_count_abbreviation: 20.80K
   youtube_video_count: 32
   youtube_view_count: 1355106
 - categories: ''
@@ -1044,8 +1081,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRFxASJ03cyAkAJcDnDmfXiLBHov9DSAzfWPTDZ7A=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 20300
+  youtube_subscriber_count_abbreviation: 20.30K
   youtube_video_count: 74
-  youtube_view_count: 897858
+  youtube_view_count: 898608
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1089,6 +1127,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/SiR8ONU9S-CxDKKd47U4Jhwpm3FFQecwIuLAPl4_zZT-G69Fd0xR2x0uIZ1FfPTcipE4TU62RzI=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 19300
+  youtube_subscriber_count_abbreviation: 19.30K
   youtube_video_count: 141
   youtube_view_count: 730334
 - categories: ''
@@ -1125,6 +1164,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQOFQLuStVLWefideIWiZBGFhQNjAsdINa7pqmk=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 18100
+  youtube_subscriber_count_abbreviation: 18.10K
   youtube_video_count: 654
   youtube_view_count: 1916588
 - categories: ''
@@ -1161,6 +1201,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRz3_NETMAVPFI7qdzuo5M7wWsBE1QiYuPKgcwB=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 16500
+  youtube_subscriber_count_abbreviation: 16.50K
   youtube_video_count: 94
   youtube_view_count: 545968
 - categories: design_ui/ux dev_web
@@ -1190,7 +1231,8 @@
     \ UX/UI, r\xE9f\xE9rencement et bien d'autres choses !\n\n\n"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQjd-CXcr9BL909l3fEqLx-tBmbV9I63dFQPjRZnQ=s88-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 15200
+  youtube_subscriber_count: 15300
+  youtube_subscriber_count_abbreviation: 15.30K
   youtube_video_count: 427
   youtube_view_count: 1016954
 - categories: ''
@@ -1226,6 +1268,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQk5qATrN2w1qW_cPSh6iEDw75ioSJXcN7573xvTQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1470
+  youtube_subscriber_count_abbreviation: 1.47K
   youtube_video_count: 25
   youtube_view_count: 82123
 - categories: ''
@@ -1259,6 +1302,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSFcQp93Sh7OueqkJUdTRmdzpN1FqZgGtPK_B4RpA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 11200
+  youtube_subscriber_count_abbreviation: 11.20K
   youtube_video_count: 57
   youtube_view_count: 547406
 - categories: ''
@@ -1293,6 +1337,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/vZZYsxvAjOIxpKpJH4bGGgiLAeN4HXCd3BJCkGE_IXubJI35isM66UHX8cQdKTJK3820jY0ZyA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 11200
+  youtube_subscriber_count_abbreviation: 11.20K
   youtube_video_count: 141
   youtube_view_count: 446184
 - categories: ''
@@ -1326,8 +1371,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRKEAc36IU22W3TSC9EkAJjWUI4Nejf8kwrxn1V=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 11500
+  youtube_subscriber_count_abbreviation: 11.50K
   youtube_video_count: 83
-  youtube_view_count: 550299
+  youtube_view_count: 553183
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1355,6 +1401,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTUDdyW3wEDNljW9Xduco1HuqUuKxEYgCJpy5Nh=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 9870
+  youtube_subscriber_count_abbreviation: 9.87K
   youtube_video_count: 289
   youtube_view_count: 1816641
 - categories: ''
@@ -1386,6 +1433,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQOYpnJ-zG4GsRzWi34WhHuWPy60974UeZ7_dhUFg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 9120
+  youtube_subscriber_count_abbreviation: 9.12K
   youtube_video_count: 318
   youtube_view_count: 719045
 - categories: ''
@@ -1415,8 +1463,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQuWNbyBZi6klCwCzq3WCaqMv1g01C2GwU2WCjZtA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 8260
+  youtube_subscriber_count_abbreviation: 8.26K
   youtube_video_count: 218
-  youtube_view_count: 927510
+  youtube_view_count: 929149
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1446,7 +1495,8 @@
     ral.\n"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s88-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 9640
+  youtube_subscriber_count: 9660
+  youtube_subscriber_count_abbreviation: 9.66K
   youtube_video_count: 49
   youtube_view_count: 212250
 - categories: ''
@@ -1481,6 +1531,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTA56fvB1UZ3ok_fOOHTv-6BSHx0cGPc_dpFcJREw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 6660
+  youtube_subscriber_count_abbreviation: 6.66K
   youtube_video_count: 55
   youtube_view_count: 220905
 - categories: ''
@@ -1511,6 +1562,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLR2Bz3rSTPjCRQ4Frx_RFoaWWtrJwcjG9KjI8y89w=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 5700
+  youtube_subscriber_count_abbreviation: 5.70K
   youtube_video_count: 139
   youtube_view_count: 534155
 - categories: ''
@@ -1545,8 +1597,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSfLOET-O1duzIAjyGS-96zJQj12vbRekUGhwWodA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 4530
+  youtube_subscriber_count_abbreviation: 4.53K
   youtube_video_count: 387
-  youtube_view_count: 549754
+  youtube_view_count: 549984
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1574,6 +1627,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSxL74IPzvD5oBELIUR4GkKwtqZsfhhHdkFjZq1Wg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 4020
+  youtube_subscriber_count_abbreviation: 4.02K
   youtube_video_count: 111
   youtube_view_count: 338302
 - categories: dev_web
@@ -1606,6 +1660,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQVZcqEoRrPxtZFFabVKyAQ9_PxkkXtp5ursLL5gg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 3920
+  youtube_subscriber_count_abbreviation: 3.92K
   youtube_video_count: 96
   youtube_view_count: 253316
 - categories: ''
@@ -1642,6 +1697,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/F_TzxI7HXoSXVyrtPRcSyROKqEKZHQLusI8Yo1ERIAfG_oreBGCufzRy4jONF9OTeS6Ovkb7=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 3850
+  youtube_subscriber_count_abbreviation: 3.85K
   youtube_video_count: 55
   youtube_view_count: 141983
 - categories: ''
@@ -1679,8 +1735,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLR7oMXzGdrv6EffCWGH7_wZJgnpNQv5PdHiK8tp=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 3450
+  youtube_subscriber_count_abbreviation: 3.45K
   youtube_video_count: 55
-  youtube_view_count: 192485
+  youtube_view_count: 192679
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1708,6 +1765,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLT0wSMLRnLSheYjXInR91SC-D-W8GgwbZ7CULexlg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 2790
+  youtube_subscriber_count_abbreviation: 2.79K
   youtube_video_count: 53
   youtube_view_count: 96020
 - categories: ''
@@ -1738,6 +1796,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQO9ugQ3tRn_YnZd_NI8i3eO61FtKCRIsoZugDE=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 2790
+  youtube_subscriber_count_abbreviation: 2.79K
   youtube_video_count: 7
   youtube_view_count: 28610
 - categories: ''
@@ -1769,6 +1828,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRa-cYgATe091NRtiR578Y6qzADLSZIgmYazQJKFA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 2060
+  youtube_subscriber_count_abbreviation: 2.06K
   youtube_video_count: 104
   youtube_view_count: 85230
 - categories: ''
@@ -1809,6 +1869,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRZAoYqPyLgIriaVBU4js1wwIPJ-0pTWvAW357fTw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1970
+  youtube_subscriber_count_abbreviation: 1.97K
   youtube_video_count: 14
   youtube_view_count: 64350
 - categories: ''
@@ -1840,6 +1901,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/zIZ5YJ7yeTp5XLPNY3i5Cv3SNTxhItJroF7EtqV3GejCrJcHVfR_p9bY0fEAFr5_KXK4Tjs32cY=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1960
+  youtube_subscriber_count_abbreviation: 1.96K
   youtube_video_count: 16
   youtube_view_count: 78497
 - categories: ''
@@ -1871,6 +1933,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTbbtTIwF2vmCTvC13kj9OJh4njbVE4SyVoqd3z=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1680
+  youtube_subscriber_count_abbreviation: 1.68K
   youtube_video_count: 37
   youtube_view_count: 41772
 - categories: ''
@@ -1904,6 +1967,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQtl9kKqkPQuFHT7ZHT80Q9mQe6M2-F4zVz2pfi5w=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1460
+  youtube_subscriber_count_abbreviation: 1.46K
   youtube_video_count: 35
   youtube_view_count: 71562
 - categories: ''
@@ -1933,6 +1997,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ4bI4IPt-l9OgF4NH1A0NL9YigewrQgK2wPasP=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 1430
+  youtube_subscriber_count_abbreviation: 1.43K
   youtube_video_count: 80
   youtube_view_count: 206189
 - categories: dev_web
@@ -1945,7 +2010,8 @@
   twitch_channel_name: neolectron
   twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
     \ plus que tout transmettre sa passion."
-  twitch_followers: 2174
+  twitch_followers: 2175
+  twitch_followers_abbreviation: 2.17K
   twitch_id: '48965120'
   twitch_number_of_view: 24269
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/99dce956-1b8c-4403-8409-fa0985f49430-profile_image-300x300.png
@@ -1963,6 +2029,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSH6y5j8UNousxcvhzsreuMj7iXRIf4Eit8834HpA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 486
+  youtube_subscriber_count_abbreviation: '486.00'
   youtube_video_count: 3
   youtube_view_count: 16558
 - categories: ''
@@ -1976,6 +2043,7 @@
   twitch_channel_name: dev_web
   twitch_description: Programador BackEND
   twitch_followers: 70
+  twitch_followers_abbreviation: '70.00'
   twitch_id: '57789720'
   twitch_number_of_view: 1822
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/6af4bd3d-ec98-4a09-85da-1f304be5b9fd-profile_image-300x300.jpg
@@ -1983,6 +2051,7 @@
     \ | Guitare, Basse, Piano & MAO | @Facebook pminiggio | @Instagram @tiktok_us\
     \ @Youtube pierreminiggio"
   twitter_followers: 229
+  twitter_followers_abbreviation: '229.00'
   twitter_id: 1451795576
   twitter_name: "\u03C0r \u1D33\u1D33\u1D35\u1D3C"
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1273522615244722182/iEKTLbLk_normal.jpg
@@ -1997,8 +2066,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSrI52EDzpsV2fpNtrIyViCJIFKkmc9x48ogoB9AQ=s88-c-k-c0x00ffffff-no-rj-mo
   youtube_subscriber_count: 2670
+  youtube_subscriber_count_abbreviation: 2.67K
   youtube_video_count: 351
-  youtube_view_count: 268760
+  youtube_view_count: 268975
 - categories: dev_web admin_&_system
   condition_card: true
   condition_twitch: false
@@ -2011,12 +2081,14 @@
     \ Indie Maker\U0001F680 Booste ta productivit\xE9 gr\xE2ce au num\xE9rique !!\
     \  \U0001F680"
   twitch_followers: 6
+  twitch_followers_abbreviation: '6.00'
   twitch_id: '612802744'
   twitch_number_of_view: 42
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/9469f8b9-bda9-4e34-89a2-2e56d8add569-profile_image-300x300.png
   twitter_description: "Web Scrapper \U0001F468\u200D\U0001F4BB Bot Maker \U0001F916\
     \ Indie Maker \U0001F680\nhttps://t.co/dBQMUEp7D0\n (RT || Likes) != endorsement"
   twitter_followers: 164
+  twitter_followers_abbreviation: '164.00'
   twitter_id: 875092569251827713
   twitter_name: Sofiyan Productiv'IT
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1347568373962571776/GZ44-VPN_normal.jpg
@@ -2035,7 +2107,8 @@
     \U0001F4CC Github :  https://github.com/SofiyanIfren"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTKPmvkGGAmqthtKuPn0z2gi3DV21toSixQ0ThFFA=s88-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 1710
+  youtube_subscriber_count: 1720
+  youtube_subscriber_count_abbreviation: 1.72K
   youtube_video_count: 52
   youtube_view_count: 41059
 - categories: ''
@@ -2055,6 +2128,7 @@
     \ Monde (media de vulgarisation scientifique et technologique) / Designer pour\
     \ @jointotem_"
   twitter_followers: 344
+  twitter_followers_abbreviation: '344.00'
   twitter_id: 963763045506912256
   twitter_name: "Roy | Bonjour Monde \U0001F310"
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1369744456287739915/p_qU9Vbq_normal.jpg
@@ -2068,6 +2142,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRvWCVrkt0nO-6jUUpGZWX7RnNdqyeptnB1pztB_g=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 3360
+  youtube_subscriber_count_abbreviation: 3.36K
   youtube_video_count: 42
   youtube_view_count: 106490
 - categories: ''
@@ -2087,6 +2162,7 @@
     \ Vid\xE9aste. Fan du v\xE9ritable humour \U0001F643\n\U0001F399\uFE0F+ de 1000\
     \ voix-off r\xE9alis\xE9es\n\U0001F3A5+ de 500 montages r\xE9alis\xE9s"
   twitter_followers: 93
+  twitter_followers_abbreviation: '93.00'
   twitter_id: 1672230650
   twitter_name: Monologix
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1290265081373171712/e5oRB0fp_normal.png
@@ -2101,8 +2177,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLTt3BVoR7AbcZvSOFvyllo2TDHYsQigurNP-6s1aQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 25600
+  youtube_subscriber_count_abbreviation: 25.60K
   youtube_video_count: 30
-  youtube_view_count: 666913
+  youtube_view_count: 667866
 - categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
@@ -2119,6 +2196,7 @@
   twitter_description: "\xC9crivain. Hacker. \U0001F4DA \"Princesse Data\" \"L\xE8\
     ve-toi et code\""
   twitter_followers: 15701
+  twitter_followers_abbreviation: 15.70K
   twitter_id: 829641565907853312
   twitter_name: RABBIN DES BOIS
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1312113975736311812/qDsNh2Jq_normal.jpg
@@ -2132,8 +2210,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLS4vmtzGPpirG5x6ScYG6ccY5prHsdqEXBOq8Px=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 236000
+  youtube_subscriber_count_abbreviation: 236.00K
   youtube_video_count: 19
-  youtube_view_count: 3731286
+  youtube_view_count: 3733150
 - categories: actu_tech
   condition_card: true
   condition_twitch: true
@@ -2145,13 +2224,15 @@
   twitch_description: Blockchain, crypto, Investissement et nouvelles technologies
     ? En Live toutes les semaines, le Vendredi ou Samedi.
   twitch_followers: 28596
+  twitch_followers_abbreviation: 28.60K
   twitch_id: '633079467'
   twitch_number_of_view: 89311
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/0d39d098-bc3b-499c-9400-bdd0dbe88664-profile_image-300x300.png
   twitter_description: "Owen Simonin | Vid\xE9aste \U0001F3A5 Entrepreneur \U0001F4BC\
     \ #Bitcoin: Je vulgarise et d\xE9cortique \xE0 vos cot\xE9s les nouvelles technologies\
     \ et investissements de notre \xE9poque."
-  twitter_followers: 137209
+  twitter_followers: 137230
+  twitter_followers_abbreviation: 137.23K
   twitter_id: 780650911014105089
   twitter_name: Hasheur
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1210882136892424198/wL7wzgL4_normal.jpg
@@ -2173,6 +2254,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLROJM7IETbaAH0vA0a7RmVA9W0mhy2GIChb2C1taw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 352000
+  youtube_subscriber_count_abbreviation: 352.00K
   youtube_video_count: 104
   youtube_view_count: 10604974
 - categories: actu_tech admin_&_system
@@ -2191,6 +2273,7 @@
   twitter_description: "Administrateur Syst\xE8mes, passionn\xE9 par toutes les nouvelles\
     \ technologies. Je partage tout ce que je peux ! https://t.co/5w8f5GZ7Ih"
   twitter_followers: 6354
+  twitter_followers_abbreviation: 6.35K
   twitter_id: 90604684
   twitter_name: "Mika\xEBl - tech2tech.fr"
   twitter_profile_picture: http://pbs.twimg.com/profile_images/578479656220958720/AhgGAmXb_normal.jpeg
@@ -2204,6 +2287,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRJ-4BEK3qVBxI5SK9MqbO3FbOtqlQrw21QS315Bg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 105000
+  youtube_subscriber_count_abbreviation: 105.00K
   youtube_video_count: 207
   youtube_view_count: 8439156
 - categories: "cybers\xE9curit\xE9"
@@ -2222,7 +2306,8 @@
   twitter_description: "Le Blog Du Hacker vous aide \xE0 combattre les techniques\
     \ de piratage qui vous visent tous les jours. \n#Anonymat - #Programmation - #S\xE9\
     curit\xE9 #informatique"
-  twitter_followers: 3997
+  twitter_followers: 3998
+  twitter_followers_abbreviation: 4.00K
   twitter_id: 1291986871
   twitter_name: Le Blog Du Hacker
   twitter_profile_picture: http://pbs.twimg.com/profile_images/583983715099009024/4dIujtkb_normal.jpg
@@ -2249,6 +2334,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSCGOlYrh2PC6aAcG9QKULjdVhU_AWZu2T18vUSUw=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 39000
+  youtube_subscriber_count_abbreviation: 39.00K
   youtube_video_count: 75
   youtube_view_count: 1496200
 - categories: "cybers\xE9curit\xE9"
@@ -2282,6 +2368,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLRS-tde-nPkqKbtFU5t7kzIRqkZ99fJE9lETGQtPg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 21900
+  youtube_subscriber_count_abbreviation: 21.90K
   youtube_video_count: 31
   youtube_view_count: 399945
 - categories: dev_web actu_tech
@@ -2298,6 +2385,7 @@
     \ destin\xE9 \xE0 tous les acteurs du secteur du num\xE9rique. Coaching, tests,\
     \ conseils et accompagnement sont au programme! "
   twitch_followers: 229
+  twitch_followers_abbreviation: '229.00'
   twitch_id: '625092553'
   twitch_number_of_view: 1407
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/71b4fc8d-9874-497d-bd15-a716d7a5adf0-profile_image-300x300.png
@@ -2305,6 +2393,7 @@
     \ et partage sont nos credos. Welcome to ITers Family ! https://t.co/3eKIl8mUYe\u200B\
     \u200B"
   twitter_followers: 791
+  twitter_followers_abbreviation: '791.00'
   twitter_id: 1181170822922285056
   twitter_name: Jerry - ITers
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1379141851442208770/9CwhZaXt_normal.jpg
@@ -2321,6 +2410,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/DRbi2NuK52wDAiS4YNlCj_Nn_OixiuHAt2DCgjWf0DuOhiVpX3FA_1kRlEN-xXaZgUEGPU0xxSs=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 291
+  youtube_subscriber_count_abbreviation: '291.00'
   youtube_video_count: 30
   youtube_view_count: 5179
 - categories: admin_&_system
@@ -2355,6 +2445,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSqLNq1_y_4S6M4ZZCmAfDF1EnLB7i4BjMpjYdbo4o=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 5850
+  youtube_subscriber_count_abbreviation: 5.85K
   youtube_video_count: 90
   youtube_view_count: 154832
 - categories: admin_&_system
@@ -2394,6 +2485,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ9Ltryf4a65uy-kgIBiFFAwybRuGayo3wrQmv_=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 93100
+  youtube_subscriber_count_abbreviation: 93.10K
   youtube_video_count: 75
   youtube_view_count: 4425888
 - categories: dev_web
@@ -2424,8 +2516,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/gyCcXMjpJQj_1OT6oy2KgNA0s6EApFpjo4WzA_7F_mG99AbGpyzBG9Jp3UyjQSxqxX4POR4jBA=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 67500
+  youtube_subscriber_count_abbreviation: 67.50K
   youtube_video_count: 164
-  youtube_view_count: 5559674
+  youtube_view_count: 5560720
 - categories: admin_&_system
   condition_card: true
   condition_twitch: false
@@ -2464,6 +2557,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLR_WKW5nZIGnq2RyyUZ9Hcxnkvt-ZKUwx4woH6QBg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 39400
+  youtube_subscriber_count_abbreviation: 39.40K
   youtube_video_count: 397
   youtube_view_count: 3477424
 - categories: admin_&_system
@@ -2496,6 +2590,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLT_PoKDq6vvsGGqmKOkseDIM_Br64c8eRZUUzLhTg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 30100
+  youtube_subscriber_count_abbreviation: 30.10K
   youtube_video_count: 1150
   youtube_view_count: 5745645
 - categories: admin_&_system
@@ -2536,8 +2631,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQ0KkI24REiYKxYVfR-K2tkPVU035-yQFAn3Zl7=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 25000
+  youtube_subscriber_count_abbreviation: 25.00K
   youtube_video_count: 854
-  youtube_view_count: 2003032
+  youtube_view_count: 2005793
 - categories: dev_web
   condition_card: true
   condition_twitch: false
@@ -2565,6 +2661,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/oSNRbH0dpAG3MlmJOEAoPPo0R8j1RuEyjdXveNpeu0N_VTgU0bY8vce_D6-wPum_JaF6qY8O=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 148000
+  youtube_subscriber_count_abbreviation: 148.00K
   youtube_video_count: 505
   youtube_view_count: 13204601
 - categories: dev_web
@@ -2608,8 +2705,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSdgTEtzARL7K2u5buL_6_MyobBoCIioX-GfM-gtQ=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 20200
+  youtube_subscriber_count_abbreviation: 20.20K
   youtube_video_count: 132
-  youtube_view_count: 753539
+  youtube_view_count: 754495
 - categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
@@ -2640,6 +2738,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/c2Ur3dzWaNr3snvh5hYk8TlyyKCjn6qvmSr6KB5Tq6cgP092iDv2hfPtt8q2Fi0RpGJdf2uwLg=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 28000
+  youtube_subscriber_count_abbreviation: 28.00K
   youtube_video_count: 92
   youtube_view_count: 458716
 - categories: "cybers\xE9curit\xE9"
@@ -2675,6 +2774,7 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQisK88tPDoy1FFOrO-67a8GtFSPERBk_5jJcCX=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 11200
+  youtube_subscriber_count_abbreviation: 11.20K
   youtube_video_count: 18
   youtube_view_count: 282809
 - categories: admin_&_system dev_web
@@ -2689,12 +2789,14 @@
     \ Le nom de la chaine est donc une contraction des deux pseudonymes. Au programme\
     \ sciences, technologie, d\xE9veloppement, Node-Red, des leds, ..."
   twitch_followers: 1843
+  twitch_followers_abbreviation: 1.84K
   twitch_id: '564492369'
   twitch_number_of_view: 33924
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/b3cdc415-2d9f-4f01-baa0-54356ea589b8-profile_image-300x300.png
   twitter_description: "Lives maker/DIY traitant de programmation, \xE9lectronique,\
     \ science et bricolage anim\xE9 par @tNeodyme (et /ou @iooner)"
   twitter_followers: 339
+  twitter_followers_abbreviation: '339.00'
   twitter_id: 1292091721275322369
   twitter_name: ioodyme
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1292769052407062528/epf1UKbP_normal.jpg
@@ -2713,5 +2815,6 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQisK88tPDoy1FFOrO-67a8GtFSPERBk_5jJcCX=s88-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 11200
+  youtube_subscriber_count_abbreviation: 11.20K
   youtube_video_count: 18
   youtube_view_count: 282809
