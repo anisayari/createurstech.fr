@@ -9,6 +9,7 @@
 <div class='filters'>
 	<h2> Plateforme </h2>
   <div class="button-group filter-button-group" data-filter-group='plateform'>
+
       {% for plateform in site.data.plateforms %}
       <button class='button button_tags' data-filter=".{{plateform}}">{{plateform}}</button>
       {%endfor%}
@@ -16,11 +17,11 @@
   </div>
 
   <h2> Sujet </h2>
-  <div class="button-group filter-button-group" data-filter-group='categories' >
-      {% for categorie in site.data.categories %}
-      <button class='button button_tags' data-filter=".{{categorie}}">{{categorie}}</button>
+  <div class="button-group filter-button-group" >
+      {% for categories in site.data.categories %}
+      <button class='button button_tags' data-filter=".{{categories}}">{{categories}}</button>
       {%endfor%}
-      <button class='button button_tags button_categorie'  data-filter="*">Tout</button>
+      <button class='button button_tags button_categories'  data-filter="*">Tout</button>
   </div>
 </div>
 
@@ -28,10 +29,10 @@
 <p><input type="text" class="quicksearch" placeholder="Search" /></p>
 
 
-<div class="grid ">
+<div class="grid">
         {% for creators in site.data.creators %}
 				{% if creators.condition_card' %}
-            <div class="card {{creators.categories}} {{creators.plateforms}}">
+            <div valeur="False" class="card {{creators.categories}}  {{creators.plateforms}}">
                 <div class='title'>
                     <div class="image-cropper">
 											{% if creators.youtube_profil_image_url != '' %}
@@ -40,7 +41,7 @@
 											                        <img src='{{creators.twitch_profil_image_url}}' width="50" height="50" class="rounded" />
 											{% endif %}
                     </div>
-                    <p class="global_name {{ creators.global_name }} ">  {{ creators.global_name }} </p>
+                    <p class='global_name {{ creators.global_name }} '>  {{ creators.global_name }} </p>
 
 									  {% if  creators.twitter_account_name   != '' %}
                     <a href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
@@ -65,6 +66,8 @@
 									  {{ creators.twitch_description |  newline_to_br}}
 									{% endif %}
                 </p>
+							
+								<button class="button" id="readBtn">Read more</button>
         </div>
 				{% endif %}
         {% endfor %}

@@ -2,12 +2,19 @@ var qsRegex;
 var buttonFilter;
 
 
+$('.button#readBtn').click(function() {
+  $(this).parent().attr("valeur", `${$(this).parent().attr("valeur") != "true"}`)
+  $(this).attr("valeur",`${$(this).parent().attr("valeur")}`)
+
+  console.log($(this).parent().attr("valeur"))
+});
+
 var $grid = $('.grid').isotope({
     itemSelector: '.card',
     layoutMode: 'fitRows',
     filter: function() {
       $this = $(this)
-      var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
+      var searchResult = qsRegex ? $($this.children()[0].children[1]).text().match( qsRegex ) : true;
       var buttonResult = buttonFilter ? $this.is( buttonFilter ) : true;
       return searchResult && buttonResult;
     }

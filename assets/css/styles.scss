@@ -33,7 +33,8 @@ $card-padding: .7rem;
 .card {
   width: 100%;
   color: black;
-  position: relative;
+  position: initial !important;
+
   border: $card-border-width solid $card-border-color;
   border-radius : .5rem;
   background-color:white;
@@ -80,9 +81,34 @@ $card-padding: .7rem;
   transition: all 0.4s ease 0s;
 }
 
+.button#readBtn{
+  color:black ;
+  margin:2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: transparent;
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid black ;
+  border-radius: 5px;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+}
+.button#readBtn:hover , .button#readBtn[valeur=true] {
+  color: #ffffff !important;
+  background: linear-gradient(#B848AC,#DE3765);
+  border-color: #DE3765 !important;
+  transition: all 0.4s ease 0s;
+}
+
+.card[valeur=true] > p{
+  max-height: none !important;
+  overflow-y:visible;
+}
+
 .card > p {
-  overflow-y: auto;
-  max-height: 158px;
+  overflow-y:hidden;
+  max-height: 70px;
 
   margin-top: 10px;
 
@@ -117,7 +143,9 @@ body::-webkit-scrollbar{
 
 .grid{
   display: flex;
-  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
 }
 
 
