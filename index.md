@@ -59,13 +59,16 @@
 
                     {% endif  %}
                 </div>
-                <p>
+                <p class="description fold unfold">
 									{% if creators.youtube_description != '' %}
                     {{ creators.youtube_description | newline_to_br}}
 									{% else %}
 									  {{ creators.twitch_description |  newline_to_br}}
 									{% endif %}
+
                 </p>
+                <span class="read-more" onclick="unfold(this)">Voir plus</span>
+
         </div>
 				{% endif %}
         {% endfor %}
@@ -73,4 +76,6 @@
 
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+<script src="assets/js/script.js"></script>
+
 <script src='/assets/js/filterAndSearch.js'></script>

@@ -41,6 +41,23 @@ $card-padding: .7rem;
   padding : $card-padding;
 }
 
+.fold{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.unfold{
+ 
+}
+
+.read-more{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .button-youtube{
   color: #FF0000;
 }
@@ -81,9 +98,6 @@ $card-padding: .7rem;
 }
 
 .card > p {
-  overflow-y: auto;
-  max-height: 158px;
-
   margin-top: 10px;
 
   border-top:transparent ;
