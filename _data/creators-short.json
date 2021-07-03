@@ -551,5 +551,19 @@
     "categories": "admin_&_system dev_web",
     "twitch_channel_name": "ioodyme",
     "twitter_screen_name": "ioodyme"
+  },
+    "Lior CHAMLA": {
+    "youtube_channel_id": "UCS71mal_TkTW_PpZR9YLpIA",
+    "youtube_channel_username": "LiorCHAMLA",
+    "categories": "",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "LiiorC"
+  },
+  "Développeur Libre": {
+    "youtube_channel_id": "UCjDg7LaaMzmuhj6I1jTzb1Q",
+    "youtube_channel_username": "DéveloppeurLibre",
+    "categories": "actu_tech",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
   }
 }
