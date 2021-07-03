@@ -38,6 +38,7 @@ plugins:
 # their entries' file path in the `include:` list.
 include:
   - assets/css/styles.css
+  - assets/js/filterAndSearch.js
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
