@@ -17,7 +17,6 @@ var $grid = $('.grid').isotope({
   
   $('.filters').on( 'click', '.button', function( event ) {
      var $button = $( event.currentTarget );
-      console.log($button)
     var $buttonGroup = $button.parents('.button-group');
     var filterGroup = $buttonGroup.attr('data-filter-group');
       console.log(filterGroup )
@@ -48,7 +47,7 @@ var $grid = $('.grid').isotope({
   }
 
   $("button.button_plateform").click()
-$("button.button_categories").click()
+$("button.button_categorie").click()
       // quick search regex
   var qsRegex;
   

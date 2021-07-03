@@ -17,7 +17,7 @@
   </div>
 
   <h2> Sujet </h2>
-  <div class="button-group filter-button-group" >
+  <div class="button-group filter-button-group" data-filter-group='categories' >
       {% for categories in site.data.categories %}
       <button class='button button_tags' data-filter=".{{categories}}">{{categories}}</button>
       {%endfor%}
