@@ -1,7 +1,7 @@
 - categories: ''
-  condition_card: false
-  condition_twitch: false
-  condition_youtube: false
+  condition_card: true
+  condition_twitch: true
+  condition_youtube: true
   global_name: Defend Intelligence
   plateforms: youtube twitch
   twitch_broadcaster_type: partner
@@ -35,9 +35,9 @@
   youtube_video_count: 56
   youtube_view_count: 492099
 - categories: ''
-  condition_card: false
-  condition_twitch: false
-  condition_youtube: false
+  condition_card: true
+  condition_twitch: true
+  condition_youtube: true
   global_name: Yorzian
   plateforms: youtube twitch
   twitch_broadcaster_type: partner
@@ -101,9 +101,9 @@
   youtube_video_count: 1457
   youtube_view_count: 15441964
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: jojol67
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -138,9 +138,9 @@
   youtube_video_count: 1516
   youtube_view_count: 416764797
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Romainlanery
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -177,9 +177,9 @@
   youtube_video_count: 837
   youtube_view_count: 152601869
 - categories: ''
-  condition_card: false
-  condition_twitch: false
-  condition_youtube: false
+  condition_card: true
+  condition_twitch: true
+  condition_youtube: true
   global_name: micode
   plateforms: youtube twitch
   twitch_broadcaster_type: partner
@@ -211,9 +211,9 @@
   youtube_video_count: 90
   youtube_view_count: 46760673
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: TheiCollection
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -242,9 +242,9 @@
   youtube_video_count: 858
   youtube_view_count: 136695437
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: NowTechTV
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -279,9 +279,9 @@
   youtube_video_count: 462
   youtube_view_count: 29979019
 - categories: ''
-  condition_card: false
-  condition_twitch: false
-  condition_youtube: false
+  condition_card: true
+  condition_twitch: true
+  condition_youtube: true
   global_name: Hardisk
   plateforms: youtube twitch
   twitch_broadcaster_type: partner
@@ -310,9 +310,9 @@
   youtube_video_count: 471
   youtube_view_count: 32985661
 - categories: ''
-  condition_card: false
-  condition_twitch: false
-  condition_youtube: false
+  condition_card: true
+  condition_twitch: true
+  condition_youtube: true
   global_name: grafikart_fr
   plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
@@ -341,9 +341,9 @@
   youtube_video_count: 1275
   youtube_view_count: 34880458
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: GuillaumeSlash
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -380,9 +380,9 @@
   youtube_video_count: 198
   youtube_view_count: 17840818
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Gravenilvec
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -421,9 +421,9 @@
   youtube_video_count: 160
   youtube_view_count: 13302569
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Formation Video
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -462,9 +462,9 @@
   youtube_video_count: 414
   youtube_view_count: 11775205
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: pierregird
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -496,9 +496,9 @@
   youtube_video_count: 252
   youtube_view_count: 14216604
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Developpeur Libre
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -530,9 +530,9 @@
   youtube_video_count: 149
   youtube_view_count: 3528176
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Wakedxy1
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -568,9 +568,9 @@
   youtube_video_count: 75
   youtube_view_count: 2671388
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: PrimFX
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -601,9 +601,9 @@
   youtube_video_count: 198
   youtube_view_count: 5446596
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Iciamyplant
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -629,9 +629,9 @@
   youtube_video_count: 15
   youtube_view_count: 1757074
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Benjamin Code
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -667,9 +667,9 @@
   youtube_video_count: 191
   youtube_view_count: 2822375
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Machine Learnia
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -700,9 +700,9 @@
   youtube_video_count: 57
   youtube_view_count: 2500798
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: MikeCodeur
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -734,9 +734,9 @@
   youtube_video_count: 247
   youtube_view_count: 2415615
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: cocadmin
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -765,9 +765,9 @@
   youtube_video_count: 76
   youtube_view_count: 2003057
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: AnthoWelc
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -800,9 +800,9 @@
   youtube_video_count: 169
   youtube_view_count: 1841100
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: BastiUi
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -843,9 +843,9 @@
   youtube_video_count: 84
   youtube_view_count: 887456
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Abrege
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -876,9 +876,9 @@
   youtube_video_count: 49
   youtube_view_count: 1211518
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: BertrandBourgy
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -910,9 +910,9 @@
   youtube_video_count: 78
   youtube_view_count: 2103493
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: LiiorC
   plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
@@ -944,9 +944,9 @@
   youtube_video_count: 82
   youtube_view_count: 1650681
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: CodeDesign_fr
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -976,9 +976,9 @@
   youtube_video_count: 52
   youtube_view_count: 1275095
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Go Digi
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1017,9 +1017,9 @@
   youtube_video_count: 32
   youtube_view_count: 1355106
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Ackanir
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1047,9 +1047,9 @@
   youtube_video_count: 74
   youtube_view_count: 897858
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: FreresCodeurs
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1092,9 +1092,9 @@
   youtube_video_count: 141
   youtube_view_count: 730334
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: getCodingKnowledge
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1128,9 +1128,9 @@
   youtube_video_count: 654
   youtube_view_count: 1916588
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: CaptainDev404
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1164,9 +1164,9 @@
   youtube_video_count: 94
   youtube_view_count: 545968
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Le Designer du Web
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1194,9 +1194,9 @@
   youtube_video_count: 427
   youtube_view_count: 1016954
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Smaine Milianni
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1229,9 +1229,9 @@
   youtube_video_count: 25
   youtube_view_count: 82123
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Louistiti
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1262,9 +1262,9 @@
   youtube_video_count: 57
   youtube_view_count: 547406
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: DevTheory
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1296,9 +1296,9 @@
   youtube_video_count: 141
   youtube_view_count: 446184
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: "From Scratch - D\xE9veloppement Web"
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1329,9 +1329,9 @@
   youtube_video_count: 83
   youtube_view_count: 550299
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: GodOfMacro
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1358,9 +1358,9 @@
   youtube_video_count: 289
   youtube_view_count: 1816641
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: codeconcept
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1389,9 +1389,9 @@
   youtube_video_count: 318
   youtube_view_count: 719045
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Nord Coders
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1418,9 +1418,9 @@
   youtube_video_count: 218
   youtube_view_count: 927510
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Docstring
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1450,9 +1450,9 @@
   youtube_video_count: 49
   youtube_view_count: 212250
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: JavaScript de Zero
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1484,9 +1484,9 @@
   youtube_video_count: 55
   youtube_view_count: 220905
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Donkey Geek
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1514,9 +1514,9 @@
   youtube_video_count: 139
   youtube_view_count: 534155
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Thibaud Dauce
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1548,9 +1548,9 @@
   youtube_video_count: 387
   youtube_view_count: 549754
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Sitedudev
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1577,9 +1577,9 @@
   youtube_video_count: 111
   youtube_view_count: 338302
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Grimille - La Meute
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1609,9 +1609,9 @@
   youtube_video_count: 96
   youtube_view_count: 253316
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: YoanDev
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1645,9 +1645,9 @@
   youtube_video_count: 55
   youtube_view_count: 141983
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: "S\xE9bastien Imbert"
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1682,9 +1682,9 @@
   youtube_video_count: 55
   youtube_view_count: 192485
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Thomas Boileau
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1711,9 +1711,9 @@
   youtube_video_count: 53
   youtube_view_count: 96020
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Je suis un dev
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1741,9 +1741,9 @@
   youtube_video_count: 7
   youtube_view_count: 28610
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Louis Nicolas - BELIEVEMY
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1772,9 +1772,9 @@
   youtube_video_count: 104
   youtube_view_count: 85098
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: David Dias
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1812,9 +1812,9 @@
   youtube_video_count: 14
   youtube_view_count: 64350
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: "Seb Duval Cr\xE9ation de Sites Web"
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1843,9 +1843,9 @@
   youtube_video_count: 16
   youtube_view_count: 78497
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Wawa Sensei
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1874,9 +1874,9 @@
   youtube_video_count: 37
   youtube_view_count: 41772
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Pierre Terrat
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1907,9 +1907,9 @@
   youtube_video_count: 35
   youtube_view_count: 71562
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Road To Dev
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -1936,8 +1936,8 @@
   youtube_video_count: 80
   youtube_view_count: 206189
 - categories: ''
-  condition_card: false
-  condition_twitch: false
+  condition_card: true
+  condition_twitch: true
   condition_youtube: false
   global_name: neolectron
   plateforms: youtube twitch
@@ -1966,9 +1966,9 @@
   youtube_video_count: 3
   youtube_view_count: 16558
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Pierre Miniggio
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -2000,9 +2000,9 @@
   youtube_video_count: 351
   youtube_view_count: 268760
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Sofiyan Productiv'IT
   plateforms: youtube twitch
   twitch_broadcaster_type: ''
@@ -2039,9 +2039,9 @@
   youtube_video_count: 52
   youtube_view_count: 41059
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Bonjour Monde
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -2071,9 +2071,9 @@
   youtube_video_count: 42
   youtube_view_count: 106490
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Monologix
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -2104,9 +2104,9 @@
   youtube_video_count: 30
   youtube_view_count: 666913
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Rabbin des bois
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -2135,9 +2135,9 @@
   youtube_video_count: 19
   youtube_view_count: 3731286
 - categories: ''
-  condition_card: false
-  condition_twitch: false
-  condition_youtube: false
+  condition_card: true
+  condition_twitch: true
+  condition_youtube: true
   global_name: Hasheur
   plateforms: youtube twitch
   twitch_broadcaster_type: partner
@@ -2176,9 +2176,9 @@
   youtube_video_count: 103
   youtube_view_count: 10604974
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Tech2Tech
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -2207,9 +2207,9 @@
   youtube_video_count: 207
   youtube_view_count: 8439156
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Michel Kartner
   plateforms: youtube
   twitch_broadcaster_type: ''
@@ -2252,9 +2252,9 @@
   youtube_video_count: 75
   youtube_view_count: 1493248
 - categories: ''
-  condition_card: false
+  condition_card: true
   condition_twitch: false
-  condition_youtube: false
+  condition_youtube: true
   global_name: Hafnium
   plateforms: youtube
   twitch_broadcaster_type: ''
