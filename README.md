@@ -40,7 +40,7 @@ A creator have to respect the following requirements :
 
 ### Contribution
 You can contribute by forking the project and asking for a pull request (please respect commit messages and pull request comments)
-###Todo
+### Todo
 - [x] Init project on jekyll
 - [x] Setup custom domain
 - [x] Add data completion on the front
