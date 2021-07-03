@@ -1,6 +1,16 @@
+var qsRegex;
+var buttonFilter;
+
 
 var $grid = $('.grid').isotope({
-    itemSelector: '.card'
+    itemSelector: '.card',
+    layoutMode: 'fitRows',
+    filter: function() {
+      $this = $(this)
+      var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
+      var buttonResult = buttonFilter ? $this.is( buttonFilter ) : true;
+      return searchResult && buttonResult;
+    }
   });
   
   var filters = {};
@@ -14,7 +24,9 @@ var $grid = $('.grid').isotope({
       filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase().toLowerCase().replace(/[!"#$%&'()+,\/:;<=>?@[\\\]^`{|}~]/g, "\\\$&");
       console.log( $button.attr('data-filter').replace(/ /g,"_").toLowerCase())
     var filterValue = concatValues( filters );
-    $grid.isotope({ filter: filterValue });
+    buttonFilter = filterValue;
+
+  $grid.isotope()    
   });
       
   $('.button-group').each( function( i, buttonGroup ) {
@@ -41,18 +53,11 @@ $("button.button_categories").click()
   var qsRegex;
   
   // init Isotope
-  var $gridSearch = $('.grid').isotope({
-    itemSelector: '.global_name',
-    layoutMode: 'fitRows',
-    filter: function() {
-      return qsRegex ? $(this).text().match( qsRegex ) : true;
-    }
-  });
   
   // use value of search field to filter
   var $quicksearch = $('.quicksearch').keyup( debounce( function() {
     qsRegex = new RegExp( $quicksearch.val(), 'gi' );
-    $gridSearch .isotope();
+    $grid.isotope();
   }, 200 ) );
   
   // debounce so filtering doesn't happen every millisecond
