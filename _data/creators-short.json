@@ -9,35 +9,35 @@
   "Rabbin des bois": {
     "youtube_channel_id": "UCYU8ljh_pDcwqDMWZoJWqwA",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "cybersécurité",
     "twitch_channel_name": "",
     "twitter_screen_name": "rabbindesbois"
   },
   "Hasheur": {
     "youtube_channel_id": "UChlTcWDE8gd4tsl_L727NrQ",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "hasheur",
     "twitter_screen_name": "PowerHasheur"
   },
   "Tech2Tech": {
     "youtube_channel_id": "UC4wj8LCLrOfgKrOVDLW4yOA",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "actu_tech admin_&_system",
     "twitch_channel_name": "",
     "twitter_screen_name": "tech2techfr"
   },
   "Michel Kartner": {
     "youtube_channel_id": "UCZevW3w8UMya8M_ZqUaVlSw",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "cybersécurité",
     "twitch_channel_name": "",
     "twitter_screen_name": "LeBlogDuHacker"
   },
   "Hafnium": {
     "youtube_channel_id": "UC_grjqug_eF6bRS_fVezK-A",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "cybersécurité",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -58,49 +58,49 @@
   "TEACHERSDUNET": {
     "youtube_channel_id": "UCzuaB4F2znrMggxcwUuVhAw",
     "youtube_channel_username": "hounwanou1993",
-    "categories": "",
+    "categories": "dev_web devops",
     "twitch_channel_name": "",
     "twitter_screen_name": "TEACHERSDUNET"
   },
   "jojol67": {
     "youtube_channel_id": "UCJy0lX8ThZ7lCtst7JnegWQ",
     "youtube_channel_username": "jojol67",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
   "Romainlanery": {
     "youtube_channel_id": "UCchpwieM3DswmDEnJ0MRq1A",
     "youtube_channel_username": "TechNewsTests",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
   "micode": {
     "youtube_channel_id": "UCYnvxJ-PKiGXo_tYXpWAC-w",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "micode",
     "twitter_screen_name": ""
   },
   "TheiCollection": {
     "youtube_channel_id": "UCaybrunQi8xWgPMgv1AYBHw",
     "youtube_channel_username": "Thehpcollection",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
   "NowTechTV": {
     "youtube_channel_id": "UCVwG9JHqGLfEO-4TkF-lf2g",
     "youtube_channel_username": "NowTechTVfr",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
   "Hardisk": {
     "youtube_channel_id": "UCA6rJQnIFgQOcjO-xtNV7lg",
     "youtube_channel_username": "Hardiskblog",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "HardiskLive",
     "twitter_screen_name": ""
   },
@@ -114,14 +114,14 @@
   "GuillaumeSlash": {
     "youtube_channel_id": "UCOLNDRtP8tUK5i-6jLO0r4Q",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
   "Gravenilvec": {
     "youtube_channel_id": "UCIHVyohXw6j2T-83-uLngEg",
     "youtube_channel_username": "Gravenilvectuto",
-    "categories": "",
+    "categories": "dev_web devops",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -156,7 +156,7 @@
   "PrimFX": {
     "youtube_channel_id": "UCUSRY5EcZAhSbz1Q1QuQw0w",
     "youtube_channel_username": "primfxdesign",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -170,14 +170,14 @@
   "Benjamin Code": {
     "youtube_channel_id": "UCLOAPb7ATQUs_nDs9ViLcMw",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "dev_web design_ui/ux",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
   "Machine Learnia": {
     "youtube_channel_id": "UCmpptkXu8iIFe6kfDK5o7VQ",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "ia_&_machine_learning",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -191,7 +191,7 @@
   "cocadmin": {
     "youtube_channel_id": "UCVRJ6D343dX-x730MRP8tNw",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "admin_&_system devops",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -205,7 +205,7 @@
   "BastiUi": {
     "youtube_channel_id": "UCnnIP34CpT7nIBZS5KuuhbA",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "design_ui/ux",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -282,7 +282,7 @@
   "Le Designer du Web": {
     "youtube_channel_id": "UCMFbNXUkjSUJ6WC20tGTzJg",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "design_ui/ux dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -373,7 +373,7 @@
   "Grimille - La Meute": {
     "youtube_channel_id": "UCFfJNxWTuD8UCnG5JNSiqkw",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
