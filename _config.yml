@@ -40,6 +40,7 @@ plugins:
 include:
   - assets/css/styles.css
   - assets/js/filterAndSearch.js
+  - assets/js/script.js
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
