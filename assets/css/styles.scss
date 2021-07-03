@@ -30,8 +30,6 @@ $card-padding: .7rem;
   border-radius : .5rem;
   background-color:white;
   margin-bottom: $card-spacer-y;
-  margin-left : 1rem;
-  margin-right : 1rem;
   padding : $card-padding;
 }
 
@@ -81,4 +79,9 @@ $card-padding: .7rem;
 .global_name{
   font-weight: bold;
   font-size: large;
+}
+
+.grid{
+  display: flex;
+  justify-content: center;
 }
