@@ -86,8 +86,8 @@ $card-padding: .7rem;
 
   margin-top: 10px;
 
-  border-top:#9159f4 1px inset ;
-  border-bottom:#a42525 1px inset ;
+  border-top:transparent ;
+  border-bottom:transparent ;
 }
 
 body::-webkit-scrollbar{
@@ -97,13 +97,13 @@ body::-webkit-scrollbar{
 
 *::-webkit-scrollbar{
   width: 7px;
-  background-color: #313131;
+  background-color: #eeeeee;
 }
 *::-webkit-scrollbar-thumb{
   border-radius: 3px;
 
   width: 7px;
-  background-color: #a42525;
+  background-color: #d8d8d8;
 }
 
 .button-group{

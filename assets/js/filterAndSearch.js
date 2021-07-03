@@ -11,7 +11,7 @@ var $grid = $('.grid').isotope({
     var $buttonGroup = $button.parents('.button-group');
     var filterGroup = $buttonGroup.attr('data-filter-group');
       console.log(filterGroup )
-    filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
+      filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase().toLowerCase().replace(/[!"#$%&'()+,\/:;<=>?@[\\\]^`{|}~]/g, "\\\$&");
       console.log( $button.attr('data-filter').replace(/ /g,"_").toLowerCase())
     var filterValue = concatValues( filters );
     $grid.isotope({ filter: filterValue });
@@ -34,7 +34,9 @@ var $grid = $('.grid').isotope({
     }
     return value;
   }
-  
+
+  $("button.button_plateform").click()
+$("button.button_categories").click()
       // quick search regex
   var qsRegex;
   
@@ -67,4 +69,3 @@ var $grid = $('.grid').isotope({
       timeout = setTimeout( delayed, threshold );
     };
   }
-  
