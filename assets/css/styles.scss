@@ -10,6 +10,14 @@ body{
 a.site-title{
   background-color: #222222;
   color: white !important;
+
+  text-decoration: none;
+  padding:5px;
+  margin: 5px;
+}
+
+a.site-title:hover{
+  box-shadow: 0 0 5px #906dde , 0 0 5px #906dde inset;
 }
 
 $card-spacer-x:            1.25rem;
@@ -70,6 +78,32 @@ $card-padding: .7rem;
   border-radius: 5px;
   display: inline-block;
   transition: all 0.4s ease 0s;
+}
+
+.card > p {
+  overflow-y: auto;
+  max-height: 158px;
+
+  margin-top: 10px;
+
+  border-top:#9159f4 1px inset ;
+  border-bottom:#a42525 1px inset ;
+}
+
+body::-webkit-scrollbar{
+  width: 15px;
+  background: #826DB5;
+}
+
+*::-webkit-scrollbar{
+  width: 7px;
+  background-color: #313131;
+}
+*::-webkit-scrollbar-thumb{
+  border-radius: 3px;
+
+  width: 7px;
+  background-color: #a42525;
 }
 
 .button-group{
