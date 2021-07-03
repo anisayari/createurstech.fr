@@ -15,12 +15,15 @@
   twitch_id: '209525793'
   twitch_number_of_view: 18136
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
+  twitter_description: "AI Engineer | Lead #DataScientist ex Research Engineer in\
+    \ San Francisco | #Vulgarisateur #Tech #IA #IntelligenceArtificielle | \u27A1\uFE0F\
+    \ @youtube @twitch | @jointotem_"
+  twitter_followers: 4409
+  twitter_followers_abbreviation: 4.41K
+  twitter_id: 1152543721138851840
+  twitter_name: "Defend Intelligence \U0001F916"
+  twitter_profile_picture: http://pbs.twimg.com/profile_images/1410535016401145859/HrG1Ag1X_normal.jpg
+  twitter_screen_name: DFintelligence
   youtube_channel_id: UCnEHCrot2HkySxMTmDPhZyg
   youtube_channel_name: Defend Intelligence
   youtube_channel_username: ''
@@ -197,7 +200,7 @@
   twitch_followers: 47979
   twitch_followers_abbreviation: 47.98K
   twitch_id: '273839506'
-  twitch_number_of_view: 534378
+  twitch_number_of_view: 534380
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -303,7 +306,7 @@
   twitch_followers: 21945
   twitch_followers_abbreviation: 21.95K
   twitch_id: '42405140'
-  twitch_number_of_view: 133629
+  twitch_number_of_view: 133630
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -651,7 +654,7 @@
   youtube_subscriber_count: 61900
   youtube_subscriber_count_abbreviation: 61.90K
   youtube_video_count: 15
-  youtube_view_count: 1757074
+  youtube_view_count: 1759305
 - categories: dev_web design_ui/ux
   condition_card: true
   condition_twitch: false
@@ -837,7 +840,7 @@
   twitch_broadcaster_type: partner
   twitch_channel_name: bastiui
   twitch_description: "On fait de l'UI Design et on s'amuse bien \u2014 youtube.com/BastiUi"
-  twitch_followers: 8576
+  twitch_followers: 8577
   twitch_followers_abbreviation: 8.58K
   twitch_id: '149643510'
   twitch_number_of_view: 59507
@@ -977,7 +980,7 @@
   youtube_subscriber_count: 27700
   youtube_subscriber_count_abbreviation: 27.70K
   youtube_video_count: 82
-  youtube_view_count: 1651787
+  youtube_view_count: 1650681
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1435,7 +1438,7 @@
   youtube_subscriber_count: 9120
   youtube_subscriber_count_abbreviation: 9.12K
   youtube_video_count: 318
-  youtube_view_count: 719701
+  youtube_view_count: 719045
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -1495,8 +1498,8 @@
     ral.\n"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s88-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 9660
-  youtube_subscriber_count_abbreviation: 9.66K
+  youtube_subscriber_count: 9670
+  youtube_subscriber_count_abbreviation: 9.67K
   youtube_video_count: 49
   youtube_view_count: 212250
 - categories: ''
@@ -1662,7 +1665,7 @@
   youtube_subscriber_count: 3920
   youtube_subscriber_count_abbreviation: 3.92K
   youtube_video_count: 96
-  youtube_view_count: 253316
+  youtube_view_count: 253493
 - categories: ''
   condition_card: true
   condition_twitch: false
@@ -2231,7 +2234,7 @@
   twitter_description: "Owen Simonin | Vid\xE9aste \U0001F3A5 Entrepreneur \U0001F4BC\
     \ #Bitcoin: Je vulgarise et d\xE9cortique \xE0 vos cot\xE9s les nouvelles technologies\
     \ et investissements de notre \xE9poque."
-  twitter_followers: 137230
+  twitter_followers: 137231
   twitter_followers_abbreviation: 137.23K
   twitter_id: 780650911014105089
   twitter_name: Hasheur
