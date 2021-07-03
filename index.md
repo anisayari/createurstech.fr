@@ -25,8 +25,13 @@
   </div>
 </div>
 
+<h2> Recherche </h2>
+<p><input type="text" class="quicksearch" placeholder="Search" /></p>
+
+
 <div class="grid ">
         {% for creators in site.data.creators %}
+				{% if creators.condition_card' %}
             <div class="card {{creators.categories}}  {{creators.plateforms}}">
                 <div class='title'>
                     <div class="image-cropper">
@@ -36,25 +41,24 @@
 											                        <img src='{{creators.twitch_profil_image_url}}' width="50" height="50" class="rounded" />
 											{% endif %}
                     </div>
-                    <p class='global_name'>  {{ creators.global_name }} </p>
+                    <p class='global_name {{ creators.global_name }} '>  {{ creators.global_name }} </p>
 
 									  {% if  creators.twitter_account_name   != '' %}
                     <a href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank"><i class="fab fa-twitter"></i></a>
                     <p>{{ creators.followers_twitter }}</p>
 										{% endif %}
 
-									{% if creators.youtube_channel_name  != '' %}
+									{% if creators.youtube_channel_name  != ''  and	creators.condition_youtube	%}
                     <a class='button-youtube' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank"><i class="fab fa-youtube"></i></a>
                     <p>{{ creators.youtube_subscriber_count}} followers, {{ creators.youtube_video_count}} videos</p>
 									{% endif %}
 									
-                    {%  if   creators.twitch_channel_name  != '' %}
+                    {%  if   creators.twitch_channel_name  != '' and creators.condition_twitch  %}
 																			                    <a class='button-twitch' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank"><i class="fab fa-twitch"></i></a>
                     <p> {{ creators.twitch_followers}} followers</p>
 
                     {% endif  %}
                 </div>
-
                 <p>
 									{% if creators.youtube_description != '' %}
                     {{ creators.youtube_description | newline_to_br}}
@@ -63,6 +67,7 @@
 									{% endif %}
                 </p>
         </div>
+				{% endif %}
         {% endfor %}
 </div>
 
@@ -108,7 +113,44 @@ function concatValues( obj ) {
 }
 	
 	
+
 $("button.button_plateform").click()
 		
 $("button.button_categories").click()
+
+	// quick search regex
+var qsRegex;
+
+// init Isotope
+var $gridSearch = $('.grid').isotope({
+  itemSelector: '.global_name',
+  layoutMode: 'fitRows',
+  filter: function() {
+    return qsRegex ? $(this).text().match( qsRegex ) : true;
+  }
+});
+
+// use value of search field to filter
+var $quicksearch = $('.quicksearch').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+  $gridSearch .isotope();
+}, 200 ) );
+
+// debounce so filtering doesn't happen every millisecond
+function debounce( fn, threshold ) {
+  var timeout;
+  threshold = threshold || 100;
+  return function debounced() {
+    clearTimeout( timeout );
+    var args = arguments;
+    var _this = this;
+    function delayed() {
+      fn.apply( _this, args );
+    }
+    timeout = setTimeout( delayed, threshold );
+  };
+}
+
+	
+
 </script>

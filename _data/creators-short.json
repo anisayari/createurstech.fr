@@ -125,6 +125,13 @@
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
+  "ITers": {
+    "youtube_channel_id": "UCHSJJ_tLIvi9w67LM0hzxkA",
+    "youtube_channel_username": "ITers",
+    "categories": "dev_web actu_tech",
+    "twitch_channel_name": "iter_fr",
+    "twitter_screen_name": "ITer_fr"
+  },
   "Formation Video": {
     "youtube_channel_id": "UCS2e0hEJMhwd6bNscS60xTg",
     "youtube_channel_username": "",
