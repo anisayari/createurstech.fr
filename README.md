@@ -54,3 +54,4 @@ You can contribute by forking the project and asking for a pull request (please 
 - [x] Logo createurs tech
 - [ ] Add random button to show up a random creator
 - [ ] Add shuffle order for each refresh
+- [ ] Add Readmore on card instead of scroll
