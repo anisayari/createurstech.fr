@@ -1,4 +1,4 @@
-- categories: ''
+- categories: ia_&_machine_learning actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -66,7 +66,7 @@
   youtube_subscriber_count: 8490
   youtube_video_count: 144
   youtube_view_count: 347820
-- categories: ''
+- categories: dev_web devops
   condition_card: false
   condition_twitch: false
   condition_youtube: false
@@ -100,7 +100,7 @@
   youtube_subscriber_count: ''
   youtube_video_count: 1457
   youtube_view_count: 15441964
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -137,7 +137,7 @@
   youtube_subscriber_count: 2190000
   youtube_video_count: 1516
   youtube_view_count: 416764797
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -176,7 +176,7 @@
   youtube_subscriber_count: 1010000
   youtube_video_count: 837
   youtube_view_count: 152601869
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -210,7 +210,7 @@
   youtube_subscriber_count: 851000
   youtube_video_count: 90
   youtube_view_count: 46760673
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -241,7 +241,7 @@
   youtube_subscriber_count: 778000
   youtube_video_count: 858
   youtube_view_count: 136695437
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -278,7 +278,7 @@
   youtube_subscriber_count: 294000
   youtube_video_count: 462
   youtube_view_count: 29979019
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -340,7 +340,7 @@
   youtube_subscriber_count: 216000
   youtube_video_count: 1275
   youtube_view_count: 34880458
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -379,7 +379,7 @@
   youtube_subscriber_count: 209000
   youtube_video_count: 198
   youtube_view_count: 17840818
-- categories: ''
+- categories: dev_web devops
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -567,7 +567,7 @@
   youtube_subscriber_count: 76100
   youtube_video_count: 75
   youtube_view_count: 2671388
-- categories: ''
+- categories: dev_web
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -628,7 +628,7 @@
   youtube_subscriber_count: 61900
   youtube_video_count: 15
   youtube_view_count: 1757074
-- categories: ''
+- categories: dev_web design_ui/ux
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -666,7 +666,7 @@
   youtube_subscriber_count: 54900
   youtube_video_count: 191
   youtube_view_count: 2822375
-- categories: ''
+- categories: ia_&_machine_learning
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -733,7 +733,7 @@
   youtube_subscriber_count: 43100
   youtube_video_count: 247
   youtube_view_count: 2415615
-- categories: ''
+- categories: admin_&_system devops
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -799,7 +799,7 @@
   youtube_subscriber_count: 39500
   youtube_video_count: 169
   youtube_view_count: 1841100
-- categories: ''
+- categories: design_ui/ux
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -1163,7 +1163,7 @@
   youtube_subscriber_count: 16500
   youtube_video_count: 94
   youtube_view_count: 545968
-- categories: ''
+- categories: design_ui/ux dev_web
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -1576,7 +1576,7 @@
   youtube_subscriber_count: 4020
   youtube_video_count: 111
   youtube_view_count: 338302
-- categories: ''
+- categories: dev_web
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2103,7 +2103,7 @@
   youtube_subscriber_count: 25600
   youtube_video_count: 30
   youtube_view_count: 666913
-- categories: ''
+- categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2134,7 +2134,7 @@
   youtube_subscriber_count: 236000
   youtube_video_count: 19
   youtube_view_count: 3731286
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -2175,7 +2175,7 @@
   youtube_subscriber_count: 351000
   youtube_video_count: 103
   youtube_view_count: 10604974
-- categories: ''
+- categories: actu_tech admin_&_system
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2206,7 +2206,7 @@
   youtube_subscriber_count: 105000
   youtube_video_count: 207
   youtube_view_count: 8439156
-- categories: ''
+- categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2251,7 +2251,7 @@
   youtube_subscriber_count: 39000
   youtube_video_count: 75
   youtube_view_count: 1493248
-- categories: ''
+- categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
   condition_youtube: true
