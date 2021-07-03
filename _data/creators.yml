@@ -71,7 +71,7 @@
   condition_twitch: false
   condition_youtube: false
   global_name: TEACHERSDUNET
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel: def
   twitch_channel_name: ''
@@ -83,7 +83,7 @@
   twitter_description: "D\xE9couvrez des tutoriels de cat\xE9gories diverses (informatique,\
     \ physique, t\xE9l\xE9communications...) expliqu\xE9s de mani\xE8re simple et\
     \ chirurgicale !!"
-  twitter_followers: 2555
+  twitter_followers: 2554
   twitter_id: 2213983291
   twitter_name: LES TEACHERS DU NET
   twitter_profile_picture: http://pbs.twimg.com/profile_images/484386252083298304/aaZDnb8c_normal.png
@@ -914,7 +914,7 @@
   condition_twitch: false
   condition_youtube: true
   global_name: LiiorC
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: affiliate
   twitch_channel_name: liior
   twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
@@ -1446,7 +1446,7 @@
     ral.\n"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 9520
+  youtube_subscriber_count: 9530
   youtube_video_count: 49
   youtube_view_count: 212250
 - categories: ''
@@ -1940,7 +1940,7 @@
   condition_twitch: true
   condition_youtube: false
   global_name: neolectron
-  plateforms: youtube twitch
+  plateforms: twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: neolectron
   twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
@@ -2004,7 +2004,7 @@
   condition_twitch: false
   condition_youtube: true
   global_name: Sofiyan Productiv'IT
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: ''
   twitch_channel_name: sofiyan_productivit
   twitch_description: "Web Scrapper \U0001F468\u200D\U0001F4BB Bot Maker \U0001F916\
@@ -2151,7 +2151,7 @@
   twitter_description: "Owen Simonin | Vid\xE9aste \U0001F3A5 Entrepreneur \U0001F4BC\
     \ #Bitcoin: Je vulgarise et d\xE9cortique \xE0 vos cot\xE9s les nouvelles technologies\
     \ et investissements de notre \xE9poque."
-  twitter_followers: 137120
+  twitter_followers: 137122
   twitter_id: 780650911014105089
   twitter_name: Hasheur
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1210882136892424198/wL7wzgL4_normal.jpg
@@ -2289,7 +2289,7 @@
   condition_twitch: false
   condition_youtube: false
   global_name: ITers
-  plateforms: youtube twitch
+  plateforms: ''
   twitch_broadcaster_type: affiliate
   twitch_channel_name: iter_fr
   twitch_description: "ITer est le mix entre acteur et IT. Un ITer est donc un acteur\
