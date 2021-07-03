@@ -31,7 +31,7 @@
 
 <div class="grid ">
         {% for creators in site.data.creators %}
-				{% if creators.condition_card' %}
+				{% if creators.condition_card %}
             <div class="card {{creators.categories}}  {{creators.plateforms}}">
                 <div class='title'>
                     <div class="image-cropper">
@@ -59,7 +59,7 @@
 
                     {% endif  %}
                 </div>
-                <p class="description fold unfold">
+                <p class="description ">
 									{% if creators.youtube_description != '' %}
                     {{ creators.youtube_description | newline_to_br}}
 									{% else %}
@@ -67,7 +67,7 @@
 									{% endif %}
 
                 </p>
-                <span class="read-more" onclick="unfold(this)">Voir plus</span>
+                
 
         </div>
 				{% endif %}
