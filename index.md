@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
+
 <img src="banner.png">
 <div class='filters'>
 	<h2> Plateforme </h2>
@@ -16,7 +17,7 @@
   </div>
 
   <h2> Sujet </h2>
-  <div class="button-group filter-button-group"  data-filter-group='categories'>
+  <div class="button-group filter-button-group" >
       {% for categories in site.data.categories %}
       <button class='button button_tags' data-filter=".{{categories}}">{{categories}}</button>
       {%endfor%}
@@ -56,12 +57,11 @@
 
                 <p>
 									{% if creators.youtube_description != '' %}
-                    {{ creators.youtube_description}}
+                    {{ creators.youtube_description | newline_to_br}}
 									{% else %}
-									  {{ creators.twitch_description}}
+									  {{ creators.twitch_description |  newline_to_br}}
 									{% endif %}
                 </p>
-
         </div>
         {% endfor %}
 </div>
@@ -70,6 +70,7 @@
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script>
 	
+
 var $grid = $('.grid').isotope({
   itemSelector: '.card'
 });
@@ -82,7 +83,7 @@ $('.filters').on( 'click', '.button', function( event ) {
   var $buttonGroup = $button.parents('.button-group');
   var filterGroup = $buttonGroup.attr('data-filter-group');
 	console.log(filterGroup )
-  filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase();
+  filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase().toLowerCase().replace(/[!"#$%&'()+,\/:;<=>?@[\\\]^`{|}~]/g, "\\\$&");
 	console.log( $button.attr('data-filter').replace(/ /g,"_").toLowerCase())
   var filterValue = concatValues( filters );
   $grid.isotope({ filter: filterValue });
@@ -106,4 +107,8 @@ function concatValues( obj ) {
   return value;
 }
 	
+	
+$("button.button_plateform").click()
+		
+$("button.button_categories").click()
 </script>
