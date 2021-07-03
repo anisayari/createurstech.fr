@@ -156,7 +156,7 @@
   "Wakedxy1": {
     "youtube_channel_id": "UChQjbzNlo8xD154bJS3yb8A",
     "youtube_channel_username": "MegaWaked",
-    "categories": "",
+    "categories": "cybersécurité",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -457,7 +457,7 @@
   "neolectron": {
     "youtube_channel_id": "UCR6J_T-H-zN37gB6PyQSXLg",
     "youtube_channel_username": "Xeolectron",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "neolectron",
     "twitter_screen_name": ""
   },
@@ -465,14 +465,91 @@
     "youtube_channel_id": "UCKbunxMnqxM8UFMEYF79CUQ",
     "youtube_channel_username": "CatoonTheCat",
     "categories": "",
-    "twitch_channel_name": "",
+    "twitch_channel_name": "dev_web",
     "twitter_screen_name": "PierreMiniggio"
   },
   "Sofiyan Productiv'IT": {
     "youtube_channel_id": "UC6hw-vlN2TqmgMcJ_QLlZ5A",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "dev_web admin_&_system",
     "twitch_channel_name": "sofiyan_productivit",
     "twitter_screen_name": "sofiyan_ifren"
+  },
+  "Christophe Casalegno": {
+    "youtube_channel_id": "UCIlCglg-Gl6eNtllSB95gMA",
+    "youtube_channel_username": "ChristopheCasalegno",
+    "categories": "admin_&_system",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Cookie connecté": {
+    "youtube_channel_id": "UC5cs06DgLFeyLIF_II7lWCQ",
+    "youtube_channel_username": "Cookieconnecté",
+    "categories": "admin_&_system",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Harry Jmg - Indépendant": {
+    "youtube_channel_id": "UC61GK_nOLSJdzAK5hoR2mJA",
+    "youtube_channel_username": "HarryJMG",
+    "categories": "dev_web",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "iMot3k": {
+    "youtube_channel_id": "UC6xaHmwDJeCXAAexKxVuJBw",
+    "youtube_channel_username": "chetom21",
+    "categories": "admin_&_system",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Adrien Linuxtricks": {
+    "youtube_channel_id": "UCDKPGD9T00eS_l--D_DRTUQ",
+    "youtube_channel_username": "",
+    "categories": "admin_&_system",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Xavki": {
+    "youtube_channel_id": "UCs_AZuYXi6NA9tkdbhjItHQ",
+    "youtube_channel_username": "",
+    "categories": "admin_&_system",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "V2F": {
+    "youtube_channel_id": "UCnxEvD2eagj2VgtkFL5wDHA",
+    "youtube_channel_username": "IV2FI",
+    "categories": "dev_web",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Driss AS": {
+    "youtube_channel_id": "UCG1gQ5uOYAP8InWyW_AdkOg",
+    "youtube_channel_username": "",
+    "categories": "dev_web",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Les Tutos de Processus": {
+    "youtube_channel_id": "UCqrxDV9EPOlI1YMhzIPed2g",
+    "youtube_channel_username": "processusthief",
+    "categories": "cybersécurité",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Hackintux": {
+    "youtube_channel_id": "UCasgryuegAnsvZ4CZlBL9ZQ",
+    "youtube_channel_username": "",
+    "categories": "cybersécurité",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "ioodyme": {
+    "youtube_channel_id": "",
+    "youtube_channel_username": "",
+    "categories": "admin_&_system dev_web",
+    "twitch_channel_name": "ioodyme",
+    "twitter_screen_name": "ioodyme"
   }
 }

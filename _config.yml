@@ -21,6 +21,7 @@ domain: createurstech.fr       # if you want to force HTTPS, specify the domain 
 title: Les createurs Tech français
 description: >- # this means to ignore newlines until "baseurl:"
   Le site qui référence tous les créateurs de contenus tech sur Youtube et Twitch en francais.
+image: logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://github.com/anisayari/createurstech.fr# the base hostname and protocol for your site, e.g. http://example.com
 

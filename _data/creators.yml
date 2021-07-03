@@ -1,4 +1,4 @@
-- categories: ''
+- categories: ia_&_machine_learning actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -10,9 +10,9 @@
     \ de Tech sur Twitch, et je fais aussi des vid\xE9os sur YouTube. (19k+) . 3 lives\
     \ / semaine, tout est disponible dans le planning. Les replays sont seulement\
     \ disponibles pour les subs."
-  twitch_followers: 3333
+  twitch_followers: 3361
   twitch_id: '209525793'
-  twitch_number_of_view: 17835
+  twitch_number_of_view: 18047
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/1e4d741a-39eb-4c50-b244-c4b8909830a6-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -45,9 +45,9 @@
   twitch_description: "Tomb\xE9 dans la marmite de l'informatique \xE0 10 ans, je\
     \ n'en suis pas encore sorti ! Et en ayant grandi au milieu des appareils \xE9\
     lectroniques, je ne pouvais que jouer un peu avec la radio d\xE8s mon adolescence."
-  twitch_followers: 2464
+  twitch_followers: 2465
   twitch_id: '136244267'
-  twitch_number_of_view: 26775
+  twitch_number_of_view: 26777
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/92a23201-5a4c-49b2-9525-5cff8bd20678-profile_image-300x300.png
   twitter_description: Vulgarisateur, formateur informatique. Twitch partner https://t.co/xq0818Euq9
     https://t.co/lcwC3iR7mm Dinosaure des Internet
@@ -66,7 +66,7 @@
   youtube_subscriber_count: 8490
   youtube_video_count: 144
   youtube_view_count: 347820
-- categories: ''
+- categories: dev_web devops
   condition_card: false
   condition_twitch: false
   condition_youtube: false
@@ -100,7 +100,7 @@
   youtube_subscriber_count: ''
   youtube_video_count: 1457
   youtube_view_count: 15441964
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -135,9 +135,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQmDxTk5AD_PqY-tF5lwXlk4dxqfXLnhFI0kzVtXQ=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 2190000
-  youtube_video_count: 1516
+  youtube_video_count: 1517
   youtube_view_count: 416764797
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -176,7 +176,7 @@
   youtube_subscriber_count: 1010000
   youtube_video_count: 837
   youtube_view_count: 152601869
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -186,9 +186,9 @@
   twitch_channel_name: micode
   twitch_description: "Underscore_ le talk-show des passionn\xE9s de l'IT, tous les\
     \ mercredis \xE0 20h"
-  twitch_followers: 47967
+  twitch_followers: 47970
   twitch_id: '273839506'
-  twitch_number_of_view: 534358
+  twitch_number_of_view: 534364
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5ea88f85-339c-45cb-b88a-bf20363d83a1-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -210,7 +210,7 @@
   youtube_subscriber_count: 851000
   youtube_video_count: 90
   youtube_view_count: 46760673
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -241,7 +241,7 @@
   youtube_subscriber_count: 778000
   youtube_video_count: 858
   youtube_view_count: 136695437
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -278,7 +278,7 @@
   youtube_subscriber_count: 294000
   youtube_video_count: 462
   youtube_view_count: 29979019
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -288,9 +288,9 @@
   twitch_channel_name: HardiskLive
   twitch_description: "En live Lundi, Mercredi et Vendredi \xE0 18h pour parler d'actu\
     \ Tech !"
-  twitch_followers: 21943
+  twitch_followers: 21945
   twitch_id: '42405140'
-  twitch_number_of_view: 133616
+  twitch_number_of_view: 133625
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/5e2a785c-b38e-4eff-a192-c288d91026cd-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
@@ -320,7 +320,7 @@
   twitch_description: Developpeur Web | Freelance
   twitch_followers: 6002
   twitch_id: '32887598'
-  twitch_number_of_view: 103894
+  twitch_number_of_view: 103905
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -340,7 +340,7 @@
   youtube_subscriber_count: 216000
   youtube_video_count: 1275
   youtube_view_count: 34880458
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -379,7 +379,7 @@
   youtube_subscriber_count: 209000
   youtube_video_count: 198
   youtube_view_count: 17840818
-- categories: ''
+- categories: dev_web devops
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -567,7 +567,7 @@
   youtube_subscriber_count: 76100
   youtube_video_count: 75
   youtube_view_count: 2671388
-- categories: ''
+- categories: dev_web
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -628,7 +628,7 @@
   youtube_subscriber_count: 61900
   youtube_video_count: 15
   youtube_view_count: 1757074
-- categories: ''
+- categories: dev_web design_ui/ux
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -666,7 +666,7 @@
   youtube_subscriber_count: 54900
   youtube_video_count: 191
   youtube_view_count: 2822375
-- categories: ''
+- categories: ia_&_machine_learning
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -733,7 +733,7 @@
   youtube_subscriber_count: 43100
   youtube_video_count: 247
   youtube_view_count: 2415615
-- categories: ''
+- categories: admin_&_system devops
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -799,19 +799,19 @@
   youtube_subscriber_count: 39500
   youtube_video_count: 169
   youtube_view_count: 1841100
-- categories: ''
+- categories: design_ui/ux
   condition_card: true
-  condition_twitch: false
+  condition_twitch: true
   condition_youtube: true
   global_name: BastiUi
-  plateforms: youtube
-  twitch_broadcaster_type: ''
-  twitch_channel_name: ''
-  twitch_description: ''
-  twitch_followers: ''
-  twitch_id: ''
-  twitch_number_of_view: ''
-  twitch_profil_image_url: ''
+  plateforms: youtube twitch
+  twitch_broadcaster_type: partner
+  twitch_channel_name: bastiui
+  twitch_description: "On fait de l'UI Design et on s'amuse bien \u2014 youtube.com/BastiUi"
+  twitch_followers: 8568
+  twitch_id: '149643510'
+  twitch_number_of_view: 59502
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/6817571b-a558-4555-96a5-baf56975e0fa-profile_image-300x300.png
   twitter_description: ''
   twitter_followers: ''
   twitter_id: ''
@@ -1163,7 +1163,7 @@
   youtube_subscriber_count: 16500
   youtube_video_count: 94
   youtube_view_count: 545968
-- categories: ''
+- categories: design_ui/ux dev_web
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -1385,7 +1385,7 @@
     \ \xE9galement de faire votre veille techno JavaScript."
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLQOYpnJ-zG4GsRzWi34WhHuWPy60974UeZ7_dhUFg=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 9110
+  youtube_subscriber_count: 9120
   youtube_video_count: 318
   youtube_view_count: 719045
 - categories: ''
@@ -1446,7 +1446,7 @@
     ral.\n"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLThNQ-O7OaZVoJ92iQBs_MbZTSNA6x214wt_lnz=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 9530
+  youtube_subscriber_count: 9560
   youtube_video_count: 49
   youtube_view_count: 212250
 - categories: ''
@@ -1576,7 +1576,7 @@
   youtube_subscriber_count: 4020
   youtube_video_count: 111
   youtube_view_count: 338302
-- categories: ''
+- categories: dev_web
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -1996,7 +1996,7 @@
     \ pour vous partager ce que j'ai appris et vous aider."
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSrI52EDzpsV2fpNtrIyViCJIFKkmc9x48ogoB9AQ=s240-c-k-c0x00ffffff-no-rj-mo
-  youtube_subscriber_count: 2660
+  youtube_subscriber_count: 2670
   youtube_video_count: 351
   youtube_view_count: 268760
 - categories: ''
@@ -2054,7 +2054,7 @@
   twitter_description: "Science, Tech & Design | Cr\xE9ateur de la cha\xEEne Bonjour\
     \ Monde (media de vulgarisation scientifique et technologique) / Designer pour\
     \ @jointotem_"
-  twitter_followers: 342
+  twitter_followers: 343
   twitter_id: 963763045506912256
   twitter_name: "Roy | Bonjour Monde \U0001F310"
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1369744456287739915/p_qU9Vbq_normal.jpg
@@ -2103,7 +2103,7 @@
   youtube_subscriber_count: 25600
   youtube_video_count: 30
   youtube_view_count: 666913
-- categories: ''
+- categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2118,7 +2118,7 @@
   twitch_profil_image_url: ''
   twitter_description: "\xC9crivain. Hacker. \U0001F4DA \"Princesse Data\" \"L\xE8\
     ve-toi et code\""
-  twitter_followers: 15701
+  twitter_followers: 15704
   twitter_id: 829641565907853312
   twitter_name: RABBIN DES BOIS
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1312113975736311812/qDsNh2Jq_normal.jpg
@@ -2134,7 +2134,7 @@
   youtube_subscriber_count: 236000
   youtube_video_count: 19
   youtube_view_count: 3731286
-- categories: ''
+- categories: actu_tech
   condition_card: true
   condition_twitch: true
   condition_youtube: true
@@ -2146,12 +2146,12 @@
     ? En Live toutes les semaines, le Vendredi ou Samedi.
   twitch_followers: 28590
   twitch_id: '633079467'
-  twitch_number_of_view: 89296
+  twitch_number_of_view: 89299
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/0d39d098-bc3b-499c-9400-bdd0dbe88664-profile_image-300x300.png
   twitter_description: "Owen Simonin | Vid\xE9aste \U0001F3A5 Entrepreneur \U0001F4BC\
     \ #Bitcoin: Je vulgarise et d\xE9cortique \xE0 vos cot\xE9s les nouvelles technologies\
     \ et investissements de notre \xE9poque."
-  twitter_followers: 137122
+  twitter_followers: 137164
   twitter_id: 780650911014105089
   twitter_name: Hasheur
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1210882136892424198/wL7wzgL4_normal.jpg
@@ -2173,9 +2173,9 @@
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLROJM7IETbaAH0vA0a7RmVA9W0mhy2GIChb2C1taw=s240-c-k-c0x00ffffff-no-rj
   youtube_subscriber_count: 351000
-  youtube_video_count: 103
+  youtube_video_count: 104
   youtube_view_count: 10604974
-- categories: ''
+- categories: actu_tech admin_&_system
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2190,7 +2190,7 @@
   twitch_profil_image_url: ''
   twitter_description: "Administrateur Syst\xE8mes, passionn\xE9 par toutes les nouvelles\
     \ technologies. Je partage tout ce que je peux ! https://t.co/5w8f5GZ7Ih"
-  twitter_followers: 6354
+  twitter_followers: 6353
   twitter_id: 90604684
   twitter_name: "Mika\xEBl - tech2tech.fr"
   twitter_profile_picture: http://pbs.twimg.com/profile_images/578479656220958720/AhgGAmXb_normal.jpeg
@@ -2206,7 +2206,7 @@
   youtube_subscriber_count: 105000
   youtube_video_count: 207
   youtube_view_count: 8439156
-- categories: ''
+- categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2222,7 +2222,7 @@
   twitter_description: "Le Blog Du Hacker vous aide \xE0 combattre les techniques\
     \ de piratage qui vous visent tous les jours. \n#Anonymat - #Programmation - #S\xE9\
     curit\xE9 #informatique"
-  twitter_followers: 3998
+  twitter_followers: 4000
   twitter_id: 1291986871
   twitter_name: Le Blog Du Hacker
   twitter_profile_picture: http://pbs.twimg.com/profile_images/583983715099009024/4dIujtkb_normal.jpg
@@ -2251,7 +2251,7 @@
   youtube_subscriber_count: 39000
   youtube_video_count: 75
   youtube_view_count: 1493248
-- categories: ''
+- categories: "cybers\xE9curit\xE9"
   condition_card: true
   condition_twitch: false
   condition_youtube: true
@@ -2304,7 +2304,7 @@
   twitter_description: "Communaut\xE9 d'entraide aux acteurs de l'IT. Bienveillance\
     \ et partage sont nos credos. Welcome to ITers Family ! https://t.co/3eKIl8mUYe\u200B\
     \u200B"
-  twitter_followers: 791
+  twitter_followers: 790
   twitter_id: 1181170822922285056
   twitter_name: Jerry - ITers
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1379141851442208770/9CwhZaXt_normal.jpg
@@ -2320,6 +2320,6 @@
     \ conseils et accompagnement sont au programme"
   youtube_hidden_subscriber_count: 0
   youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSNnxnu0b25W_kJVBW1L5utehOD1d37S0pdFlIMBw=s240-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 290
+  youtube_subscriber_count: 291
   youtube_video_count: 30
   youtube_view_count: 5179
