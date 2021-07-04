@@ -551,5 +551,12 @@
     "categories": "admin_&_system dev_web",
     "twitch_channel_name": "ioodyme",
     "twitter_screen_name": "ioodyme"
+  },
+  "Khaos Farbauti Ibn Oblivion":{
+    "youtube_channel_id": "UCsRIv1fsbnQRIPKmUQbRzZg",
+    "youtube_channel_username":"brumadar",
+    "categories":"cybersécurité",
+    "twitch_channel_name":"Khaos_Farbauti",
+    "twitter_screen_name":"khaos_farbauti"
   }
 }
