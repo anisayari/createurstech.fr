@@ -39,6 +39,9 @@
         {% for creators in site.data.creators %}
 				{% if creators.condition_card %}
             <div class="card {{creators.categories}} {{creators.plateforms}}">
+                <div class="upper-right">
+                  <p>{{ creators.youtube_subscriber_count_abbreviation}} </p>
+                </div>
                 <div class='title'>
                     {% if creators.youtube_profil_image_url != '' %}
                     <img src='{{creators.youtube_profil_image_url}}'  class="rounded profil-image" />
@@ -106,5 +109,5 @@
 </div>
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
-<script src="assets/js/script.js"></script>
+<script src="/assets/js/script.js"></script>
 <script src='/assets/js/filterAndSearch.js'></script>
