@@ -24,7 +24,9 @@
   </div>
 
   <h2> Recherche </h2>
-  <p><input type="text" class="quicksearch" placeholder="Search" /></p>
+  <div class="search">
+    <input type="search" class="quicksearch" placeholder="Search" />
+  </div>
 
 
 <div class="grid ">

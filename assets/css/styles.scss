@@ -268,31 +268,18 @@ Buttons
 Scrollbar
 */
 
-.description::-webkit-scrollbar{
+*::-webkit-scrollbar{
   background: #C4C4C44A;
   border-radius: 22px;
+  width: 7px;
 }
 
-.description::-webkit-scrollbar-thumb{
+*::-webkit-scrollbar-thumb{
   background: $gradient;
   border-radius: 22px;
 }
 
-body::-webkit-scrollbar{
-  width: 15px;
-  background: #826DB5;
-}
 
-*::-webkit-scrollbar{
-  width: 7px;
-  background-color: #eeeeee;
-}
-*::-webkit-scrollbar-thumb{
-  border-radius: 3px;
-
-  width: 7px;
-  background-color: #d8d8d8;
-}
 
 
 /*
