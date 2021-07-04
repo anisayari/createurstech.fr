@@ -4,7 +4,7 @@ var buttonFilter;
 
 var $grid = $('.grid').isotope({
     itemSelector: '.card',
-    layoutMode: 'fitRows',
+    layoutMode: 'masonry',
     filter: function() {
       $this = $(this)
       var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
