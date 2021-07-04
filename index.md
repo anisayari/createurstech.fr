@@ -29,6 +29,7 @@
     <img class="search-icon" src="assets/images/followers.svg"/>
     
     <input type="search" class="quicksearch" placeholder="Créateurs-trices" name="search" id='search' />
+    <button class='button button_tags' onclick="shuffleCard()" >Aléatoire</button>
 
   </div>
 
@@ -106,8 +107,11 @@
         </div>
 				{% endif %}
         {% endfor %}
+     
 </div>
-
+<div id="display-card-container" hidden>
+ 
+</div>
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script src="assets/js/script.js"></script>
