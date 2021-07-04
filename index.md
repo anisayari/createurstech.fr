@@ -26,10 +26,8 @@
 
   <div class="search">
     <img class="search-icon" src="assets/images/followers.svg"/>
-    
     <input type="search" class="quicksearch" placeholder="Créateurs-trices" name="search" id='search' />
     <button class='button button_tags' onclick="shuffleCard()" >Aléatoire</button>
-
   </div>
 
 
