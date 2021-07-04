@@ -36,7 +36,7 @@ a.site-title:hover{
 
 
 
-$card-space:            .75rem;
+$card-space:            1%;
 $card-description-height:   10rem;
 $card-name-size:        1.25rem;
 $profil-image-size: 40px;
@@ -54,12 +54,25 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
 }
 @media all and (max-width: 768px) {
   .card{
-    width: 100%;
+    width: 48%;
+  }
+  .grid-sizer{
+    width: 50%;
   }
 }
 @media all and (min-width: 768px) {
   .card{
-    width: 45%;
+    width: 23%;
+  }
+  .grid-sizer{
+    width: 25%;
+  }
+  .title{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
   }
 }
 
@@ -70,21 +83,14 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   background: $card-background-gradient;
   padding : $card-padding;
   margin: $card-space;
-
   backdrop-filter:  blur(53px);
-}
-.title {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: center;
 }
 
 .profil-image{
   height: $profil-image-size;
   width: $profil-image-size;
   border:rgb(204, 0, 255) solid 3px;
+  display: block;
 
 }
 
@@ -100,6 +106,8 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   color: white;
   align-items: center;
   align-content: center;
+  overflow-wrap: break-word;
+  width: 82%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -136,8 +144,7 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   padding: 5px 10px;
   text-decoration: none;
   margin: 5px;
-  
-
+  min-width: 30%;
 
 }
 
@@ -263,34 +270,23 @@ Buttons
 Scrollbar
 */
 
-.description::-webkit-scrollbar{
+*::-webkit-scrollbar{
   background: #C4C4C44A;
   border-radius: 22px;
+  width: 7px;
 }
 
-.description::-webkit-scrollbar-thumb{
+*::-webkit-scrollbar-thumb{
   background: $gradient;
   border-radius: 22px;
 }
 
-body::-webkit-scrollbar{
-  width: 15px;
-  background: #826DB5;
-}
-
-*::-webkit-scrollbar{
-  width: 7px;
-  background-color: #eeeeee;
-}
-*::-webkit-scrollbar-thumb{
-  border-radius: 3px;
-
-  width: 7px;
-  background-color: #d8d8d8;
-}
 
 
 
+/*
+Search
+*/
 
 input[type="text"] {
   font-size: 20px;
