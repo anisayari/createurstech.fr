@@ -558,5 +558,12 @@
     "categories":"cybersécurité",
     "twitch_channel_name":"Khaos_Farbauti",
     "twitter_screen_name":"khaos_farbauti"
+  },
+    "Lilian Suzan":{
+    "youtube_channel_id": "UCZ2KYhJQYogLJSSlCE_mOdg",
+    "youtube_channel_username":"",
+    "categories":"dev_mobile design_ui/ux",
+    "twitch_channel_name":"",
+    "twitter_screen_name":"hello_lilian"
   }
 }
