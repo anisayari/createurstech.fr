@@ -12,6 +12,10 @@ body{
   color: white;
 }
 
+.no-scroll{
+  overflow: hidden !important;
+}
+
 h1 > a{
   //styleName: H1;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -35,14 +39,23 @@ a.site-title:hover{
 
 
 
+/*
+  Variables
+*/
 
 $card-space:            1%;
 $card-description-height:   10rem;
 $card-name-size:        1.25rem;
 $profil-image-size: 40px;
 $card-padding: 1.22rem;
+
+//colors
+$purple: rgba(144, 89, 246, 1.0);
+$red: rgba(255, 41, 41, 1.0);
+$light-grey:  #acacac;
+//gradients
 $card-background-gradient: linear-gradient(135deg, rgba(144, 89, 246, 0.22) 0%, rgba(255, 41, 41, 0.22) 100%);
-$gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41, 1.0) 100%);
+$gradient: linear-gradient(135deg, $purple 0%, $red 100%);
 
 /*
   Cards
@@ -59,6 +72,7 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   .grid-sizer{
     width: 50%;
   }
+
 }
 @media all and (min-width: 768px) {
   .card{
@@ -85,6 +99,7 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   margin: $card-space;
   backdrop-filter:  blur(53px);
 }
+
 
 .profil-image{
   height: $profil-image-size;
@@ -288,7 +303,84 @@ Scrollbar
 Search
 */
 
-input[type="text"] {
-  font-size: 20px;
-  color:black;
+
+
+.filter-container{
+  background: $card-background-gradient;
+  height: 5rem;
+  border-radius: 22px;
+  display: flexbox;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.search{
+  position: relative;
+  padding: 0.75rem $card-space;
+}
+
+input[type=search] {
+  height: 2rem;
+  color: #F8F8F8;
+  background: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  border-width: 3px;
+  border-image: $gradient;
+  border-image-slice: 1;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  padding-left: 1.2rem;
+
+}
+
+.search > img{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  fill: $light-grey;
+}
+
+input[type=search]::placeholder {
+  text-align: right;
+  color: $light-grey;
+
+}
+
+/*
+Display a random creator
+*/
+#diplayed-card{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  max-height: 80%;
+}
+
+
+#display-card-container{
+  background-color: black;
+  opacity: 0.8;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  height: 100%;
+  width:  100%;
+  backdrop-filter:  blur(53px);
+
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+  cursor: pointer;
 }
