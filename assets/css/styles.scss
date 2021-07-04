@@ -12,6 +12,14 @@ body{
   color: white;
 }
 
+h1 > a{
+  //styleName: H1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: white;
+
+}
+
 a.site-title{
   background-color: #222222;
   color: white !important;
@@ -78,7 +86,7 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
 }
 
 .global_name{
-  align-self: baseline;
+  align-self: center;
   padding-left: 0.35rem;
   font-weight: bold;
   font-size: $card-name-size;
