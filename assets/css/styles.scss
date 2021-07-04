@@ -50,14 +50,13 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
 
 .grid{
   justify-content: center;
-  width: 80%;
   margin: auto;
 }
 
 .card {
-  min-width: 40%;
+  min-width: 45%;
   max-width: 100%;
-  width: 20em;
+  width: 12em;
   color: black;
   position: relative;
   border-radius : .5rem;

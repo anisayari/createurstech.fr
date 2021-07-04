@@ -35,7 +35,7 @@
                     {% if creators.youtube_profil_image_url != '' %}
                     <img src='{{creators.youtube_profil_image_url}}'  class="rounded profil-image" />
                     {% else %}
-                    <img src='{{creators.twitch_profil_image_url}}'  class="rounded " />
+                    <img src='{{creators.twitch_profil_image_url}}'  class="rounded profil-image" />
                     {% endif %}
                     <h3 class="global_name {{ creators.global_name }} ">  @{{ creators.global_name }} </h3>
 
