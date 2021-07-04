@@ -22,7 +22,7 @@ function refreshCards(){
   })
   $grid.isotope();
 }
-
+/*
 window.onload = function () {
   
     var descriptions = document.getElementsByClassName("description");
@@ -38,3 +38,4 @@ window.onload = function () {
     refreshCards()
 }
 
+*/
