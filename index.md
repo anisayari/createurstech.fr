@@ -24,9 +24,14 @@
   </div>
 
   <h2> Recherche </h2>
+
   <div class="search">
-    <input type="search" class="quicksearch" placeholder="Search" />
+    <img class="search-icon" src="assets/images/followers.svg"/>
+    
+    <input type="search" class="quicksearch" placeholder="Créateurs-trices" name="search" id='search' />
+
   </div>
+
 
 
 <div class="grid ">
