@@ -566,4 +566,12 @@
     "twitch_channel_name":"",
     "twitter_screen_name":"hello_lilian"
   }
+  ,
+    "Boiling Brains":{
+    "youtube_channel_id": "UCKAzZCVzqkdvxX6VLTwyVMQ",
+    "youtube_channel_username":"",
+    "categories":"",
+    "twitch_channel_name":"",
+    "twitter_screen_name":"Boiling_Brains_"
+  }
 }
