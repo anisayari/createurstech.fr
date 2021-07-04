@@ -42,6 +42,14 @@
 
                     <span></span>
                 </div>
+                <!--div class="categories">
+                  <p class="category">
+                    #Python
+                  </p>
+                  <p class="category">
+                    #IA
+                  </p>
+                </div-->
                 <p class="description ">
 									{% if creators.youtube_description != '' %}
                     {{ creators.youtube_description | newline_to_br}}
@@ -54,7 +62,7 @@
                   {% if  creators.twitter_account_name   != '' and creators.twitter_followers != '' %}
                   <a class="button-twitter info" href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank">
                     <i class="fab fa-twitter"></i>
-                    <p>{{ creators.twitter_followers }}</p>
+                    <p class="follower-counter">{{ creators.twitter_followers }}</p>
                     <img src="assets/images/followers.svg"/>
                   </a>
                   {% endif %}
@@ -62,7 +70,7 @@
                   {% if creators.youtube_channel_name  != ''  and	creators.condition_youtube	%}
                   <a class='button-youtube info' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank">
                       <img src="assets/images/youtube.svg"/>
-                      <p>{{ creators.youtube_subscriber_count}}</p>
+                      <p class="follower-counter" >{{ creators.youtube_subscriber_count}}</p>
                       <img src="assets/images/followers.svg"/>
 
                   </a>
@@ -71,7 +79,7 @@
                   {%  if   creators.twitch_channel_name  != '' and creators.condition_twitch  %}
                   <a class='button-twitch info' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank">
                     <i class="fab fa-twitch"></i>
-                    <p> {{ creators.twitch_followers}}</p>
+                    <p class="follower-counter"> {{ creators.twitch_followers}}</p>
                     <img src="assets/images/followers.svg"/>
                   </a>
                   {% endif  %}
