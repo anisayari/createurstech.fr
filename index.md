@@ -1,7 +1,6 @@
 
 <link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
-
 <header>
   <img src="banner.png">
 </header>
@@ -46,8 +45,7 @@
                     {% else %}
                     <img src='{{creators.twitch_profil_image_url}}'  class="rounded profil-image" />
                     {% endif %}
-                    <h3 class="global_name {{ creators.global_name }} ">  @{{ creators.global_name }} </h3>
-
+                    <p class="global_name {{ creators.global_name }} ">  @{{ creators.global_name }} </p>
                     <span></span>
                 </div>
                 <!--div class="categories">
@@ -64,7 +62,6 @@
 									{% else %}
 									  {{ creators.twitch_description |  newline_to_br}}
 									{% endif %}
-
                 </p>
                 <div class="social-networks">
                   {% if  creators.twitter_account_name   != '' and creators.twitter_followers != '' %}
@@ -74,16 +71,13 @@
                     <img src="assets/images/followers.svg"/>
                   </a>
                   {% endif %}
-
                   {% if creators.youtube_channel_name  != ''  and	creators.condition_youtube	%}
                   <a class='button-youtube info' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank">
                       <img src="assets/images/youtube.svg"/>
                       <p class="follower-counter" >{{ creators.youtube_subscriber_count}}</p>
                       <img src="assets/images/followers.svg"/>
-
                   </a>
-                  {% endif %}
-                
+                  {% endif %}     
                   {%  if   creators.twitch_channel_name  != '' and creators.condition_twitch  %}
                   <a class='button-twitch info' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank">
                     <i class="fab fa-twitch"></i>
@@ -102,12 +96,10 @@
                       <img class="down" src="assets/images/thumb.svg"/>
                     </span>
                   </div>
-                </div-->
-              
+                </div-->         
         </div>
 				{% endif %}
         {% endfor %}
-     
 </div>
 <div id="display-card-container" hidden>
  

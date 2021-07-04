@@ -45,9 +45,9 @@ a.site-title:hover{
 
 $card-space:            1%;
 $card-description-height:   10rem;
-$card-name-size:        1.25rem;
+$card-name-size:        0.8rem;
 $profil-image-size: 40px;
-$card-padding: 1.22rem;
+$card-padding: 0.9rem;
 
 //colors
 $purple: rgba(144, 89, 246, 1.0);
@@ -67,15 +67,24 @@ $gradient: linear-gradient(135deg, $purple 0%, $red 100%);
 }
 @media all and (max-width: 768px) {
   .card{
+    min-height: 250px;
     width: 48%;
   }
   .grid-sizer{
     width: 50%;
   }
 
+  .description{
+    max-height: 6rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    font-size: 0.8rem;
+  }
+
 }
 @media all and (min-width: 768px) {
   .card{
+    min-height: 340px;
     width: 23%;
   }
   .grid-sizer{
@@ -88,6 +97,14 @@ $gradient: linear-gradient(135deg, $purple 0%, $red 100%);
     justify-content: flex-start;
     align-items: center;
   }
+
+  .description{
+    max-height: 10rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    font-size: 0.8rem;
+  }
+
 }
 
 .card {
@@ -126,11 +143,10 @@ $gradient: linear-gradient(135deg, $purple 0%, $red 100%);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.description{
-  max-height: $card-description-height;
-  overflow-y: auto;
-  overflow-x: hidden;
+.follower-counter{
+  font-size: 0.8rem;
 }
+
 /*
 .fold{
   overflow: hidden;
@@ -156,15 +172,17 @@ $gradient: linear-gradient(135deg, $purple 0%, $red 100%);
 .info{
   justify-content: space-between;
   border-radius: 3em;
-  padding: 5px 10px;
+  padding: 3px 8px;
   text-decoration: none;
-  margin: 5px;
+  margin: 3px;
   min-width: 30%;
 
 }
 
-
-
+.social-networks > img{
+  width:5px;
+  height:auto
+}
 .info > *{
   color: white;
   display: inline;
