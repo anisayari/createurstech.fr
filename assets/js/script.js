@@ -22,6 +22,9 @@ function refreshCards(){
   })
   $grid.isotope();
 }
+window.onload = function(){
+    refreshCards()
+}
 /*
 window.onload = function () {
   
