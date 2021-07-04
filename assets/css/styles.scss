@@ -67,6 +67,13 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   .grid-sizer{
     width: 25%;
   }
+  .title{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
 }
 
 .card {
@@ -76,21 +83,14 @@ $gradient: linear-gradient(135deg, rgba(144, 89, 246, 1.0) 0%, rgba(255, 41, 41,
   background: $card-background-gradient;
   padding : $card-padding;
   margin: $card-space;
-
   backdrop-filter:  blur(53px);
-}
-.title {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: center;
 }
 
 .profil-image{
   height: $profil-image-size;
   width: $profil-image-size;
   border:rgb(204, 0, 255) solid 3px;
+  display: block;
 
 }
 
@@ -295,7 +295,9 @@ body::-webkit-scrollbar{
 }
 
 
-
+/*
+Search
+*/
 
 input[type="text"] {
   font-size: 20px;
