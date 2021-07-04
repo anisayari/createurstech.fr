@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://github.com/anisayari/createurstech.fr# the base hostname and protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
