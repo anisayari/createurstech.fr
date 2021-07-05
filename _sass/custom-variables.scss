@@ -1,1 +1,18 @@
-// Placeholder to allow overriding predefined variables smoothly.
+
+
+$card-space:            1%;
+$card-description-height:   10rem;
+$card-name-size:        0.8rem;
+$profil-image-size: 40px;
+$card-padding: 0.9rem;
+
+//colors
+$purple: rgba(144, 89, 246, 1.0);
+$red: rgba(255, 41, 41, 1.0);
+$light-grey:  #acacac;
+$title-color: #F8F8F8;
+
+//gradients
+$card-background-gradient: linear-gradient(135deg, rgba(144, 89, 246, 0.22) 0%, rgba(255, 41, 41, 0.22) 100%);
+$gradient: linear-gradient(135deg, $purple 0%, $red 100%);
+  
