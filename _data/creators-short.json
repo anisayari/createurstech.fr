@@ -580,11 +580,18 @@
     "twitch_channel_name": "",
     "twitter_screen_name": "Boiling_Brains_"
   },
+  "Tikapo": {
+    "youtube_channel_id": "UCp9TbdFt0KApGinV3hzX8kA",
+    "youtube_channel_username": "TiK aPo",
+    "categories": "blockchain",
+    "twitch_channel_name": "tikapo_crypto",
+    "twitter_screen_name": "Tikapo1"
+  },
    "Monsieur Bidouille": {
     "youtube_channel_id": "UCSULDz1yaHLVQWHpm4g_GHA",
     "youtube_channel_username": "monsieur bidouille",
     "categories": "makers",
     "twitch_channel_name": "",
     "twitter_screen_name": "MrBidouille"
-  },
+  }
 }
