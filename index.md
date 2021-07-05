@@ -35,9 +35,6 @@
         {% for creators in site.data.creators %}
 				{% if creators.condition_card %}
             <div class="card {{creators.categories}} {{creators.plateforms}}">
-                <div class="upper-right">
-                  <p style="color: white;">{{ creators.youtube_subscriber_count_abbreviation}} </p>
-                </div>
                 <div class='title'>
                     {% if creators.youtube_profil_image_url != '' %}
                     <img src='{{creators.youtube_profil_image_url}}'  class="rounded profil-image" />
