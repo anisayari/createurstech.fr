@@ -43,7 +43,7 @@
   },
   "Bonjour Monde": {
     "youtube_channel_id": "UCFHgT4Q9TJC5Sfihb0Gb8Aw",
-    "youtube_channel_username":"",
+    "youtube_channel_username": "",
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": "bonjourmondetv"
@@ -107,7 +107,7 @@
   "grafikart_fr": {
     "youtube_channel_id": "UCj_iGliGCkLcHSZ8eqVNPDQ",
     "youtube_channel_username": "grafikarttv",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "grafikart",
     "twitter_screen_name": ""
   },
@@ -205,7 +205,7 @@
   "AnthoWelc": {
     "youtube_channel_id": "UChhPkjgG1-iLUOmURGdgQrw",
     "youtube_channel_username": "ucisko",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -230,17 +230,17 @@
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
-  "LiiorC": {
+  "Lior Chamla": {
     "youtube_channel_id": "UCS71mal_TkTW_PpZR9YLpIA",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "liior",
     "twitter_screen_name": ""
   },
   "CodeDesign_fr": {
     "youtube_channel_id": "UC9zdcXq2z3GY3UVhlADNijg",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -552,26 +552,25 @@
     "twitch_channel_name": "ioodyme",
     "twitter_screen_name": "ioodyme"
   },
-  "Khaos Farbauti Ibn Oblivion":{
+  "Khaos Farbauti Ibn Oblivion": {
     "youtube_channel_id": "UCsRIv1fsbnQRIPKmUQbRzZg",
-    "youtube_channel_username":"brumadar",
-    "categories":"cybersécurité",
-    "twitch_channel_name":"Khaos_Farbauti",
-    "twitter_screen_name":"khaos_farbauti"
+    "youtube_channel_username": "brumadar",
+    "categories": "cybersécurité",
+    "twitch_channel_name": "Khaos_Farbauti",
+    "twitter_screen_name": "khaos_farbauti"
   },
-    "Lilian Suzan":{
+  "Lilian Suzan": {
     "youtube_channel_id": "UCZ2KYhJQYogLJSSlCE_mOdg",
-    "youtube_channel_username":"",
-    "categories":"dev_mobile design_ui/ux",
-    "twitch_channel_name":"",
-    "twitter_screen_name":"hello_lilian"
-  }
-  ,
-    "Boiling Brains":{
+    "youtube_channel_username": "",
+    "categories": "dev_mobile design_ui/ux",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "hello_lilian"
+  },
+  "Boiling Brains": {
     "youtube_channel_id": "UCKAzZCVzqkdvxX6VLTwyVMQ",
-    "youtube_channel_username":"",
-    "categories":"",
-    "twitch_channel_name":"",
-    "twitter_screen_name":"Boiling_Brains_"
+    "youtube_channel_username": "",
+    "categories": "",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "Boiling_Brains_"
   }
 }
