@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+// Notice the following mixin uses max-width, in a deprecated, desktop-first
+// approach, whereas media queries used elsewhere now use min-width.
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}
+
+// Import pre-styling-overrides hook and style-partials.
+@import
+  "custom-variables", // Hook to override predefined variables.
+  "base",             // Defines element resets.
+  "layout",
+  "custom-styles"     // Hook to override existing styles.
+;

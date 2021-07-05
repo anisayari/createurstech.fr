@@ -1,0 +1,80 @@
+
+/*
+Header
+*/
+
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;        
+}
+
+
+.site-header > div > h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 3.75vmin;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: $title-color;
+    text-transform: uppercase;
+}
+
+.site-header > div > h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vmin;
+    font-weight: lighter;
+    text-align: left;
+    color: $title-color;
+}
+
+.site-header > img{
+    width: 20vmin;
+}
+
+/*
+Main
+*/
+
+@media all and (max-width: 768px) {
+    main{
+        margin: auto;
+        width: 95%;
+    }
+
+  
+  }
+  @media all and (min-width: 768px) {
+    main{
+        margin: auto;
+        width: 80%;
+    
+    }
+  }
+
+
+  /*
+  Footer
+  */
+
+  footer{
+    position: relative;
+    width: 100%;
+
+  }
+
+  footer > p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 2rem;
+
+    
+    
+  }

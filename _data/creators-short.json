@@ -1,4 +1,11 @@
 {
+  "Deus Ex Silicium": {
+    "youtube_channel_id": "",
+    "youtube_channel_username": "dexsilicium",
+    "categories": "actu_tech",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "dexsilicium"
+  },
   "Monologix": {
     "youtube_channel_id": "UCHHdFjqSb9nH0GiPaDratnA",
     "youtube_channel_username": "",
@@ -579,6 +586,12 @@
     "categories": "blockchain",
     "twitch_channel_name": "tikapo_crypto",
     "twitter_screen_name": "Tikapo1"
+  },
+   "Monsieur Bidouille": {
+    "youtube_channel_id": "UCSULDz1yaHLVQWHpm4g_GHA",
+    "youtube_channel_username": "monsieur bidouille",
+    "categories": "makers",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "MrBidouille"
   }
-
 }
