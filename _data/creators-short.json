@@ -579,5 +579,11 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": "Boiling_Brains_"
+  },
+  "Skarab42": {
+    "youtube_channel_id": "",
+    "youtube_channel_username": "",
+    "categories": "dev_web",
+    "twitch_channel_name": "skarab42",
   }
 }
