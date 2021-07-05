@@ -628,5 +628,12 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": "LeoDuffOff"
+  },
+  "Les Frères Codeurs": {
+    "youtube_channel_id": "UCWKyakTmFf38Sv0cD8MNzzg",
+    "youtube_channel_username": "",
+    "categories": "dev_web",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "FreresCodeurs"
   }
 }
