@@ -1,0 +1,384 @@
+body{
+    background-color: #222222;
+    background-image: url('../images/background.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: white;
+  }
+  
+  .no-scroll{
+    overflow: hidden !important;
+  }
+  
+  h1 > a{
+    //styleName: H1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+  
+  }
+  
+  a.site-title{
+    background-color: #222222;
+    color: white !important;
+  
+    text-decoration: none;
+    padding:5px;
+    margin: 5px;
+  }
+  
+  a.site-title:hover{
+    box-shadow: 0 0 5px #906dde , 0 0 5px #906dde inset;
+  }
+  
+  
+  
+
+  /*
+    Cards
+  */
+  
+  .grid{
+    justify-content: center;
+    margin: auto;
+  }
+  @media all and (max-width: 768px) {
+    .card{
+      min-height: 250px;
+      width: 48%;
+    }
+    .grid-sizer{
+      width: 50%;
+    }
+  
+    .description{
+      max-height: 6rem;
+      overflow-y: auto;
+      overflow-x: hidden;
+      font-size: 0.8rem;
+    }
+  
+  }
+  @media all and (min-width: 768px) {
+    .card{
+      min-height: 340px;
+      width: 23%;
+    }
+    .grid-sizer{
+      width: 25%;
+    }
+    .title{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: center;
+    }
+  
+    .description{
+      max-height: 10rem;
+      overflow-y: auto;
+      overflow-x: hidden;
+      font-size: 0.8rem;
+    }
+  
+  }
+  
+  .card {
+    color: black;
+    position: relative;
+    border-radius : 1.25rem;
+    background: $card-background-gradient;
+    padding : $card-padding;
+    margin: $card-space;
+    backdrop-filter:  blur(53px);
+  }
+  
+  
+  .profil-image{
+    height: $profil-image-size;
+    width: $profil-image-size;
+    border:rgb(204, 0, 255) solid 3px;
+    display: block;
+  
+  }
+  
+  .rounded {
+    border-radius: 100%;
+  }
+  
+  .global_name{
+    align-self: center;
+    padding-left: 0.35rem;
+    font-weight: bold;
+    font-size: $card-name-size;
+    color: white;
+    align-items: center;
+    align-content: center;
+    overflow-wrap: break-word;
+    width: 82%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .follower-counter{
+    font-size: 0.8rem;
+  }
+  
+  /*
+  .fold{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* number of lines to show 
+    -webkit-box-orient: vertical;
+  }
+  .unfold{
+  }
+  .read-more{
+    text-decoration: underline;
+    cursor: pointer;
+  }*/
+  
+  .social-networks{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+  
+  }
+  
+  .info{
+    justify-content: space-between;
+    border-radius: 3em;
+    padding: 3px 8px;
+    text-decoration: none;
+    margin: 3px;
+    min-width: 30%;
+  
+  }
+  
+  .social-networks > img{
+    width:5px;
+    height:auto
+  }
+  .info > *{
+    color: white;
+    display: inline;
+    vertical-align: middle;
+  }
+   a:hover{
+    text-decoration: none;
+  }
+  .info > img{
+    background: transparent;
+  
+  }
+  .button-youtube{
+    background: #C4302B;
+  }
+  
+  .button-twitch{
+    background: #6441A5;
+  }
+  
+  .button-twitter{
+    background: #1DA1F2;
+  }
+  
+  .image-cropper{
+    background: $gradient;
+    flex-grow: 0;
+  
+  
+  }
+  
+  
+  .card > p {
+    margin-top: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  
+  //Vote
+  
+  .votes-container{
+    margin-top: 2rem;
+    display: flex;
+  }
+  
+  .votes-container > *{
+    display: inline;
+  }
+  
+  .votes-count{
+    color: white;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 60%;
+  }
+  
+  .thumb{
+    border-radius: 100%;
+    padding: .45em;
+    width: 5pc;
+    height: 5pc;
+    margin: .75rem;
+    cursor: pointer;
+  }
+  
+  .thumb[vote=true]{
+    background: $gradient;
+    
+  }
+  
+  .thumb[vote=false]{
+    border: $gradient solid 3px;
+  }
+  
+  .thumb > .down{
+    transform: rotate(180deg);
+  }
+  
+  
+  /*
+  Buttons
+  */
+  .button:active,
+  .button.is-checked {
+    background: linear-gradient(#B848AC,#DE3765);
+    border-color: #DE3765 !important;
+    color: #fff !important;
+  }
+  
+  .button_tags:hover {
+    color: #ffffff !important;
+    background: linear-gradient(#B848AC,#DE3765);
+    border-color: #DE3765 !important;
+    transition: all 0.4s ease 0s;
+  }
+  
+  .button_tags {
+    color:white !important;
+    margin:2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: transparent;
+    padding: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff !important;
+    border-radius: 5px;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+  }
+  
+  .button-group{
+    margin-bottom: 10px;
+  }
+  
+  
+  /*
+  Scrollbar
+  */
+  
+  *::-webkit-scrollbar{
+    background: #C4C4C44A;
+    border-radius: 22px;
+    width: 7px;
+  }
+  
+  *::-webkit-scrollbar-thumb{
+    background: $gradient;
+    border-radius: 22px;
+  }
+  
+  
+  
+  
+  /*
+  Search
+  */
+  
+  
+  
+  .filter-container{
+    background: $card-background-gradient;
+    height: 5rem;
+    border-radius: 22px;
+    display: flexbox;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search{
+    position: relative;
+    padding: 0.75rem $card-space;
+  }
+  
+  input[type=search] {
+    height: 2rem;
+    color: #F8F8F8;
+    background: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    border-width: 3px;
+    border-image: $gradient;
+    border-image-slice: 1;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    padding-left: 1.2rem;
+  
+  }
+  
+  .search > img{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    fill: $light-grey;
+  }
+  
+  input[type=search]::placeholder {
+    text-align: right;
+    color: $light-grey;
+  
+  }
+  
+  /*
+  Display a random creator
+  */
+  #diplayed-card{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    max-height: 80%;
+  }
+  
+  
+  #display-card-container{
+    background-color: black;
+    opacity: 0.96;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width:  100%;
+    backdrop-filter:  blur(53px);
+  
+  }
+  
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  

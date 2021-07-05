@@ -1,9 +1,7 @@
 
 <link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
-<header>
-  <img src="banner.png">
-</header>
+
   <div class='filters'>
     <h2> Plateforme </h2>
     <div class="button-group filter-button-group" data-filter-group='plateform'>
@@ -37,9 +35,6 @@
         {% for creators in site.data.creators %}
 				{% if creators.condition_card %}
             <div class="card {{creators.categories}} {{creators.plateforms}}">
-                <div class="upper-right">
-                  <p>{{ creators.youtube_subscriber_count_abbreviation}} </p>
-                </div>
                 <div class='title'>
                     {% if creators.youtube_profil_image_url != '' %}
                     <img src='{{creators.youtube_profil_image_url}}'  class="rounded profil-image" />
