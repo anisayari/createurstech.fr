@@ -1,9 +1,7 @@
 
 <link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
-<header>
-  <img src="banner.png">
-</header>
+
   <div class='filters'>
     <h2> Plateforme </h2>
     <div class="button-group filter-button-group" data-filter-group='plateform'>
