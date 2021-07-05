@@ -579,5 +579,12 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": "Boiling_Brains_"
-  }
+  },
+   "Monsieur Bidouille": {
+    "youtube_channel_id": "UCSULDz1yaHLVQWHpm4g_GHA",
+    "youtube_channel_username": "monsieur bidouille",
+    "categories": "makers",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "MrBidouille"
+  },
 }
