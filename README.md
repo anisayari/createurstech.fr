@@ -12,7 +12,7 @@ A creator has to respect the following requirements:
  - For Youtube: a minimum of 1,000 subscribers
  - For Twitch: a minimum of 1,000 followers
  
-To add a creator, you need to make a Pull Request. Your Pull Request has to modify ONLY the file : `_data/creators-short.json` and add ALL the followings fields at the current time for the creator you are submitting a proposal for.
+To add a creator, you need to make a Pull Request. Your Pull Request has to modify ONLY the file: `_data/creators-short.json` and add ALL the followings fields at the current time for the creator you are submitting a proposal for.
 
 ```
 {
