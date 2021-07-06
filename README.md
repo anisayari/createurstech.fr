@@ -1,18 +1,18 @@
 # createurstech.fr
 Un site internet pour référencer les créateurs de contenus Tech Francophones.
 
-Le site est en construction est disponible ici : https://createurstech.fr 
+Le site est en construction et disponible ici : https://createurstech.fr 
 
-![LEs créateurs tech](https://github.com/anisayari/createurstech.fr/blob/main/banner.png?raw=true)
+![Les créateurs tech](https://github.com/anisayari/createurstech.fr/blob/main/banner.png?raw=true)
 
 ### Add a creator
-A creator have to respect the following requirements :
- - Have a Youtube or Twitch active channels
+A creator has to respect the following requirements:
+ - To have a Youtube or Twitch active channel
  - French language
- - For Youtube : minimum of 1000 subscribers
- - For Twitch : minimum of 1000 followers
+ - For Youtube: a minimum of 1,000 subscribers
+ - For Twitch: a minimum of 1,000 followers
  
- To add a creator you have to ask for a Pull Request. Your pull Request have to modify ONLY the file : `_data/creators-short.json` and add ALL the followings fiels at the current time for the creator you are asking for proposal
+To add a creator, you need to make a Pull Request. Your Pull Request has to modify ONLY the file : `_data/creators-short.json` and add ALL the followings fields at the current time for the creator you are submitting a proposal for.
 
 ```
 {
@@ -25,26 +25,26 @@ A creator have to respect the following requirements :
   }
 ```
 
-### How to contribute to the projects :
+### How to contribute to the project:
 
--First of all you have to [Install gem](https://jekyllrb.com/docs/installation/)
--Fork the project
--Clone the project
-- run 'bundle install' on the root directory
-- run 'bundle exec jekyll serve' on the root directory
-- You can access the website from `http://localhost:4000`
-- You can access admin panel with a nice-looking interface to modify code to `http://localhost:4000/admin`
--Modify code
--As for a Pull Request on this repo
+- First of all you have to [Install Jekyll gem](https://jekyllrb.com/docs/installation/)
+- Fork the project
+- Clone the project
+- Run 'bundle install' in the root directory
+- Run 'bundle exec jekyll serve' in the root directory
+- You can access the website at `http://localhost:4000`
+- You can access the admin panel with a nice-looking interface to modify code at `http://localhost:4000/admin`
+- Modify the code
+- Make a Pull Request to this repo
 
 
 ### Contribution
-You can contribute by forking the project and asking for a pull request (please respect commit messages and pull request comments)
+You can contribute by forking the project and making a Pull Request (please respect commit messages and Pull Request comments)
 ### Todo
-- [x] Init project on jekyll
+- [x] Init project on Jekyll
 - [x] Setup custom domain
 - [x] Add data completion on the front
-- [x] Add multiple selection on the home screen
+- [x] Add multiple selections on the home screen
 - [ ] Design cards of creators
 - [ ] Design buttons
 - [ ] Design global website
