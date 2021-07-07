@@ -23,7 +23,7 @@
   "Hasheur": {
     "youtube_channel_id": "UChlTcWDE8gd4tsl_L727NrQ",
     "youtube_channel_username": "",
-    "categories": "actu_tech",
+    "categories": "actu_tech blockchain",
     "twitch_channel_name": "hasheur",
     "twitter_screen_name": "PowerHasheur"
   },
@@ -408,9 +408,9 @@
   "Thomas Boileau": {
     "youtube_channel_id": "UCpMntmV07jvZMK3fqR196QQ",
     "youtube_channel_username": "SqAE28",
-    "categories": "",
-    "twitch_channel_name": "",
-    "twitter_screen_name": ""
+    "categories": "dev_web",
+    "twitch_channel_name": "toham",
+    "twitter_screen_name": "boileau_thomas"
   },
   "Je suis un dev": {
     "youtube_channel_id": "UCo0zOE8DcrRGbwvr4Q_eMsQ",
@@ -579,5 +579,61 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": "Boiling_Brains_"
+  },
+  "Skarab42": {
+    "youtube_channel_id": "",
+    "youtube_channel_username": "",
+    "categories": "dev_web",
+    "twitch_channel_name": "skarab42",
+    "twitter_screen_name": ""
+  },
+   "Pause process": {
+    "youtube_channel_id": "UC0JUkXAVVA4qWH1BQRs5N3A",
+    "youtube_channel_username": "",
+    "categories": "actu_tech",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  },
+  "Découvre Bitcoin": {
+    "youtube_channel_id": "UCANjJ55UmYmoXm_SW--psXQ",
+    "youtube_channel_username": "",
+    "categories": "blockchain",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "DecouvreBitcoin"
+  },
+   "GOODWIN": {
+    "youtube_channel_id": "UCzLkeUSipfOtSC9of-Q0yiQ",
+    "youtube_channel_username": "GOODWIN",
+    "categories": "actu_tech makers",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "GOODWIN_YT"
+   },
+  "Tikapo": {
+    "youtube_channel_id": "UCp9TbdFt0KApGinV3hzX8kA",
+    "youtube_channel_username": "TiK aPo",
+    "categories": "blockchain",
+    "twitch_channel_name": "tikapo_crypto",
+    "twitter_screen_name": "Tikapo1"
+  },
+   "Monsieur Bidouille": {
+    "youtube_channel_id": "UCSULDz1yaHLVQWHpm4g_GHA",
+    "youtube_channel_username": "monsieur bidouille",
+    "categories": "makers",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "MrBidouille"
+  },
+    "Léo Duff ": {
+    "youtube_channel_id": "UCNiauGTV7XhkOpUAIXod4xA",
+    "youtube_channel_username": "",
+    "categories": "",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "LeoDuffOff"
+  },
+    "Heliox ": {
+    "youtube_channel_id": "UCPFChjpOgkUqckj3378jt5w",
+    "youtube_channel_username": "Heliox",
+    "categories": "makers",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "Heliox_Lab"
   }
 }
