@@ -1,9 +1,9 @@
 - categories: ia_&_machine_learning actu_tech
   condition_card: true
-  condition_twitch: true
+  condition_twitch: false
   condition_youtube: true
   global_name: Defend Intelligence
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: partner
   twitch_channel_name: DefendIntelligence
   twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
@@ -40,11 +40,11 @@
   youtube_video_count: 56
   youtube_view_count: 506311
 - categories: ''
-  condition_card: true
-  condition_twitch: true
-  condition_youtube: true
+  condition_card: false
+  condition_twitch: false
+  condition_youtube: false
   global_name: Yorzian
-  plateforms: youtube twitch
+  plateforms: ''
   twitch_broadcaster_type: partner
   twitch_channel_name: Yorzian
   twitch_description: "Tomb\xE9 dans la marmite de l'informatique \xE0 10 ans, je\
@@ -328,17 +328,17 @@
   youtube_view_count: 33016926
 - categories: dev_web
   condition_card: true
-  condition_twitch: true
+  condition_twitch: false
   condition_youtube: true
   global_name: grafikart_fr
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: affiliate
   twitch_channel_name: grafikart
   twitch_description: Developpeur Web | Freelance
   twitch_followers: 6066
   twitch_followers_abbreviation: 6.07K
   twitch_id: '32887598'
-  twitch_number_of_view: 105821
+  twitch_number_of_view: 105822
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/grafikart-profile_image-e3204923b82f3e2a-300x300.jpeg
   twitter_description: ''
   twitter_followers: ''
@@ -832,10 +832,10 @@
   youtube_view_count: 1842967
 - categories: design_ui/ux
   condition_card: true
-  condition_twitch: true
+  condition_twitch: false
   condition_youtube: true
   global_name: BastiUi
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: partner
   twitch_channel_name: bastiui
   twitch_description: "On fait de l'UI Design et on s'amuse bien \u2014 youtube.com/BastiUi"
@@ -1238,11 +1238,11 @@
   youtube_video_count: 428
   youtube_view_count: 1030356
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Smaine Milianni
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1377,11 +1377,11 @@
   youtube_video_count: 83
   youtube_view_count: 563576
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: GodOfMacro
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1407,11 +1407,11 @@
   youtube_video_count: 289
   youtube_view_count: 1817300
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: codeconcept
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1439,11 +1439,11 @@
   youtube_video_count: 318
   youtube_view_count: 721267
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Nord Coders
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1501,11 +1501,11 @@
   youtube_video_count: 50
   youtube_view_count: 230416
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: JavaScript de Zero
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1536,11 +1536,11 @@
   youtube_video_count: 55
   youtube_view_count: 221436
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Donkey Geek
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1567,11 +1567,11 @@
   youtube_video_count: 139
   youtube_view_count: 538558
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Thibaud Dauce
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1602,11 +1602,11 @@
   youtube_video_count: 387
   youtube_view_count: 551092
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Sitedudev
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1632,11 +1632,11 @@
   youtube_video_count: 111
   youtube_view_count: 339776
 - categories: dev_web
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Grimille - La Meute
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1665,11 +1665,11 @@
   youtube_video_count: 96
   youtube_view_count: 254168
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: YoanDev
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1702,11 +1702,11 @@
   youtube_video_count: 56
   youtube_view_count: 147656
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: "S\xE9bastien Imbert"
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1740,11 +1740,11 @@
   youtube_video_count: 55
   youtube_view_count: 193318
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Thomas Boileau
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1771,11 +1771,11 @@
   youtube_video_count: 53
   youtube_view_count: 96620
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Je suis un dev
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1802,11 +1802,11 @@
   youtube_video_count: 7
   youtube_view_count: 28692
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Louis Nicolas - BELIEVEMY
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1834,11 +1834,11 @@
   youtube_video_count: 104
   youtube_view_count: 85972
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: David Dias
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1875,11 +1875,11 @@
   youtube_video_count: 14
   youtube_view_count: 64492
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: "Seb Duval Cr\xE9ation de Sites Web"
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1907,11 +1907,11 @@
   youtube_video_count: 16
   youtube_view_count: 79120
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Wawa Sensei
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1940,11 +1940,11 @@
   youtube_video_count: 37
   youtube_view_count: 43056
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Pierre Terrat
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -1974,11 +1974,11 @@
   youtube_video_count: 35
   youtube_view_count: 71605
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Road To Dev
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -2004,11 +2004,11 @@
   youtube_video_count: 80
   youtube_view_count: 206633
 - categories: dev_web
-  condition_card: true
-  condition_twitch: true
+  condition_card: false
+  condition_twitch: false
   condition_youtube: false
   global_name: neolectron
-  plateforms: twitch
+  plateforms: ''
   twitch_broadcaster_type: partner
   twitch_channel_name: neolectron
   twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
@@ -2036,11 +2036,11 @@
   youtube_video_count: 3
   youtube_view_count: 16890
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Pierre Miniggio
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel: ''
   twitch_channel_name: dev_web
@@ -2073,11 +2073,11 @@
   youtube_video_count: 351
   youtube_view_count: 269628
 - categories: dev_web admin_&_system
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Sofiyan Productiv'IT
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: sofiyan_productivit
   twitch_description: "Web Scrapper \U0001F468\u200D\U0001F4BB Bot Maker \U0001F916\
@@ -2115,11 +2115,11 @@
   youtube_video_count: 52
   youtube_view_count: 41814
 - categories: ''
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Bonjour Monde
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -2234,7 +2234,7 @@
   twitter_description: "Owen Simonin | Vid\xE9aste \U0001F3A5 Entrepreneur \U0001F4BC\
     \ #Bitcoin: Je vulgarise et d\xE9cortique \xE0 vos cot\xE9s les nouvelles technologies\
     \ et investissements de notre \xE9poque."
-  twitter_followers: 137590
+  twitter_followers: 137592
   twitter_followers_abbreviation: 137.59K
   twitter_id: 780650911014105089
   twitter_name: Hasheur
@@ -2417,11 +2417,11 @@
   youtube_video_count: 30
   youtube_view_count: 5320
 - categories: admin_&_system
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Christophe Casalegno
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -2782,10 +2782,10 @@
   youtube_view_count: 285523
 - categories: admin_&_system dev_web
   condition_card: true
-  condition_twitch: true
+  condition_twitch: false
   condition_youtube: true
   global_name: ioodyme
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: affiliate
   twitch_channel_name: ioodyme
   twitch_description: "La chaine ioodyme c'est beacoup de Neodyme et un peu de iooner.\
@@ -2794,7 +2794,7 @@
   twitch_followers: 1855
   twitch_followers_abbreviation: 1.85K
   twitch_id: '564492369'
-  twitch_number_of_view: 34264
+  twitch_number_of_view: 34265
   twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/b3cdc415-2d9f-4f01-baa0-54356ea589b8-profile_image-300x300.png
   twitter_description: "Lives maker/DIY traitant de programmation, \xE9lectronique,\
     \ science et bricolage anim\xE9 par @tNeodyme (et /ou @iooner)"
@@ -2822,11 +2822,11 @@
   youtube_video_count: 18
   youtube_view_count: 285523
 - categories: "cybers\xE9curit\xE9"
-  condition_card: true
-  condition_twitch: true
-  condition_youtube: true
+  condition_card: false
+  condition_twitch: false
+  condition_youtube: false
   global_name: Khaos Farbauti Ibn Oblivion
-  plateforms: youtube twitch
+  plateforms: ''
   twitch_broadcaster_type: affiliate
   twitch_channel_name: Khaos_Farbauti
   twitch_description: "Tout et n'importe quoi.\rJe suis sur Twitter entre 2 streams\
@@ -2939,7 +2939,7 @@
   twitter_description: "Cha\xEEne #youtube d'\xE9lectronique d\xE9di\xE9e \xE0 la\
     \ science des semiconducteurs et \xE0 leurs applications. #electronique #informatique\
     \ #microscopie #hack #hardware #IA"
-  twitter_followers: 15753
+  twitter_followers: 15754
   twitter_followers_abbreviation: 15.75K
   twitter_id: 2788869208
   twitter_name: Deus Ex Silicium
@@ -3000,10 +3000,10 @@
   youtube_view_count: 1656978
 - categories: dev_web
   condition_card: true
-  condition_twitch: true
+  condition_twitch: false
   condition_youtube: true
   global_name: Skarab42
-  plateforms: youtube twitch
+  plateforms: youtube
   twitch_broadcaster_type: affiliate
   twitch_channel_name: skarab42
   twitch_description: "Connu sous le pseudonyme de Skarab depuis le 56K, Je suis passionn\xE9\
@@ -3068,11 +3068,11 @@
   youtube_video_count: 55
   youtube_view_count: 6224658
 - categories: blockchain
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: "D\xE9couvre Bitcoin"
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: ''
   twitch_description: ''
@@ -3156,11 +3156,11 @@
   youtube_video_count: 209
   youtube_view_count: 9752841
 - categories: blockchain
-  condition_card: true
+  condition_card: false
   condition_twitch: false
-  condition_youtube: true
+  condition_youtube: false
   global_name: Tikapo
-  plateforms: youtube
+  plateforms: ''
   twitch_broadcaster_type: ''
   twitch_channel_name: tikapo_crypto
   twitch_description: "Posez vos questions sur les cryptos je tenterais d'y r\xE9\
@@ -3239,8 +3239,8 @@
   twitch_number_of_view: ''
   twitch_profil_image_url: ''
   twitter_description: Je parle de tech, mieux que Bill Gates.
-  twitter_followers: 75565
-  twitter_followers_abbreviation: 75.56K
+  twitter_followers: 75566
+  twitter_followers_abbreviation: 75.57K
   twitter_id: 3066028829
   twitter_name: "L\xE9o Duff"
   twitter_profile_picture: http://pbs.twimg.com/profile_images/1356691197587259399/Rsz4TMM7_normal.jpg
@@ -3271,7 +3271,7 @@
   twitch_profil_image_url: ''
   twitter_description: "Chaine YouTube \"Le Labo d'Heliox\", Je parle d'impression\
     \ 3D / DIY / \xE9lectronique / High Tech... \nhttps://t.co/Jri3NfF9Zs"
-  twitter_followers: 26597
+  twitter_followers: 26598
   twitter_followers_abbreviation: 26.60K
   twitter_id: 925867370069020673
   twitter_name: Heliox
