@@ -1,3 +1,6 @@
+//Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /*
 Header
@@ -5,10 +8,9 @@ Header
 
 header{
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;        
+    flex-direction: column;
+    align-items: center;
+    margin: 0 0 120px 0;
 }
 
 
@@ -33,6 +35,136 @@ header{
 .site-header > img{
     width: 20vmin;
 }
+
+#header-top-part{
+  max-height: 75px;
+  min-height: 53px;
+  margin: 32px 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 92%;
+}
+
+#header-logo{
+  height: 100%;
+  max-width: 216px;
+  min-width: 154px;
+  width: 40%;
+}
+
+#github-button{
+  height: 36px;
+  width: 120px;
+  border-radius: 50px;
+  border: 1px solid #FFFFFF;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  transition: background-color, color 0.4s;
+}
+
+#github-arrow{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  color: $dark-purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 0 8px;
+  border: 1px solid $dark-purple;
+  font-size: 11px;
+}
+
+#github-button:hover{
+  background-color: #FFFFFF;
+  color: #1B1032;
+}
+
+/*
+Big title
+*/
+
+#big-title{
+  font-size: min(max(100px), 10vw);
+  font-weight: 300;
+  font-family: 'Inter', sans-serif;
+  line-height: 100.02%;
+  max-width: 1000px;
+  width: 90%;
+  text-align: center;
+  letter-spacing: -0.03em;
+  margin: 60px 0 32px 0;
+}
+#big-title-colored{
+  background: linear-gradient(270deg, #9059f6 0%, #ff2929 110%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+/* 
+add-creator 
+*/
+
+#add-creator{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: min(max(24px), 4vw);
+  line-height: 140%;
+  letter-spacing: -0.01em;
+  max-width: 630px;
+  text-align: center;
+  color: white;
+  width: 86%;
+}
+
+#add-creator-link{
+  color: white;
+  text-decoration: underline;
+}
+
+/* 
+Icon in background
+*/
+
+.icon-background{
+  position: absolute;
+  z-index: -1;
+  user-select: none;
+}
+#ytb-icon1{
+  left: 30%;
+  top: 82.92px;
+}
+#ytb-icon2{
+  left: 88.15%;
+  right: 8.43%;
+  top: 22%;
+  transform: rotate(25deg);
+}
+#ytb-icon3{
+  left: 20.62%;
+  right: 75.96%;
+  top: 60%;
+}
+#twitch-icon1{
+  left: 9%;
+  top: 257.31px;
+}
+#twitch-icon2{
+  right: 13%;
+  top: 340.27px;
+  transform: rotate(25deg);
+}
+
+
 
 /*
 Main
@@ -73,8 +205,25 @@ Main
     line-height: 24px;
     letter-spacing: 0em;
     text-align: center;
-    margin: 2rem;
+    margin: 2rem; 
+  }
 
-    
-    
+
+  /*
+  Small screen
+  */
+
+  @media all and (max-width: 768px) {
+    .icon-background{
+      transform: scale(0.7) !important;
+    }
+    #ytb-icon2, #ytb-icon3{
+      display: none;
+    }
+    #twitch-icon1{
+      left: -7%;
+    }
+    #twitch-icon2{
+      right: -7%; 
+    }
   }
