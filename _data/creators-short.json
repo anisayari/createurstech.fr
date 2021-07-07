@@ -1,6 +1,6 @@
 {
   "Deus Ex Silicium": {
-    "youtube_channel_id": "",
+    "youtube_channel_id": "UCH6ppHEvV3_WIXEwmhv9HEg",
     "youtube_channel_username": "dexsilicium",
     "categories": "actu_tech",
     "twitch_channel_name": "",
@@ -639,14 +639,14 @@
    "Webosaure": {
     "youtube_channel_id": "UCu34Tq5qMR-FiTYwLyy9U6w",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Actu_Tech",
     "twitch_channel_name": "",
     "twitter_screen_name": "korben"
   },
    "Scrotumdepoulpe": {
     "youtube_channel_id": "UCuTp2uEpeFxZ-XMsga_mexg",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Makers",
     "twitch_channel_name": "",
     "twitter_screen_name": "scrotumdepoulpe"
   },
@@ -654,7 +654,7 @@
    "furrtek": {
     "youtube_channel_id": "UCPFChjpOgkUqckj3378jt5w",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Makers",
     "twitch_channel_name": "",
     "twitter_screen_name": "furrtek"
   },
@@ -667,26 +667,11 @@
     "twitter_screen_name": "TD72PRO"
   },
 
-   "UnderLearn": {
-    "youtube_channel_id": "UCJZkKNgLmASmb9EvLQU2saQ",
-    "youtube_channel_username": "",
-    "categories": "",
-    "twitch_channel_name": "",
-    "twitter_screen_name": ""
-  },
-
-   "Je suis un dev": {
-    "youtube_channel_id": "UCo0zOE8DcrRGbwvr4Q_eMsQ",
-    "youtube_channel_username": "",
-    "categories": "",
-    "twitch_channel_name": "",
-    "twitter_screen_name": "jesuisundev"
-  },
 
    "Coder C'est Cool - Hugo Taschet": {
     "youtube_channel_id": "UC6xa4ATj7MiusIm3UgXTM0g",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Dev_Web",
     "twitch_channel_name": "",
     "twitter_screen_name": "hugo_cccool"
   },
@@ -694,7 +679,7 @@
    "codeur-pro": {
     "youtube_channel_id": "UCEudr1OmaKgx13INQCrNS6g",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Dev_Web",
     "twitch_channel_name": "",
     "twitter_screen_name": "codeur_pro"
   },
@@ -702,7 +687,7 @@
    "La Tech avec Bertrand": {
     "youtube_channel_id": "UCtIGSt6iI8UzmM66dNWICjw",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Dev_Web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -710,7 +695,7 @@
    "FormationVideo": {
     "youtube_channel_id": "UCS2e0hEJMhwd6bNscS60xTg",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Dev_Web",
     "twitch_channel_name": "",
     "twitter_screen_name": "jachampagne8"
   },
@@ -734,7 +719,7 @@
    "Kaelbel": {
     "youtube_channel_id": "UCjqwwA3kPS0_pMuF-YkCn6Q",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "Actu_Tech",
     "twitch_channel_name": "",
     "twitter_screen_name": "Kaelbel_Tweet"
   }
