@@ -1,9 +1,9 @@
 - categories: ia_&_machine_learning actu_tech
   condition_card: true
-  condition_twitch: false
+  condition_twitch: true
   condition_youtube: true
   global_name: Defend Intelligence
-  plateforms: youtube
+  plateforms: youtube twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: DefendIntelligence
   twitch_description: "Je suis ing\xE9nieur en Intelligence Artificielle, je parle\
@@ -40,11 +40,11 @@
   youtube_video_count: 56
   youtube_view_count: 506311
 - categories: ''
-  condition_card: false
-  condition_twitch: false
+  condition_card: true
+  condition_twitch: true
   condition_youtube: false
   global_name: Yorzian
-  plateforms: ''
+  plateforms: twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: Yorzian
   twitch_description: "Tomb\xE9 dans la marmite de l'informatique \xE0 10 ans, je\
@@ -328,10 +328,10 @@
   youtube_view_count: 33016926
 - categories: dev_web
   condition_card: true
-  condition_twitch: false
+  condition_twitch: true
   condition_youtube: true
   global_name: grafikart_fr
-  plateforms: youtube
+  plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: grafikart
   twitch_description: Developpeur Web | Freelance
@@ -832,10 +832,10 @@
   youtube_view_count: 1842967
 - categories: design_ui/ux
   condition_card: true
-  condition_twitch: false
+  condition_twitch: true
   condition_youtube: true
   global_name: BastiUi
-  plateforms: youtube
+  plateforms: youtube twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: bastiui
   twitch_description: "On fait de l'UI Design et on s'amuse bien \u2014 youtube.com/BastiUi"
@@ -2004,11 +2004,11 @@
   youtube_video_count: 80
   youtube_view_count: 206633
 - categories: dev_web
-  condition_card: false
-  condition_twitch: false
+  condition_card: true
+  condition_twitch: true
   condition_youtube: false
   global_name: neolectron
-  plateforms: ''
+  plateforms: twitch
   twitch_broadcaster_type: partner
   twitch_channel_name: neolectron
   twitch_description: "Dev passionn\xE9 qui code depuis l'age de 14ans, qui souhaite\
@@ -2782,10 +2782,10 @@
   youtube_view_count: 285523
 - categories: admin_&_system dev_web
   condition_card: true
-  condition_twitch: false
+  condition_twitch: true
   condition_youtube: true
   global_name: ioodyme
-  plateforms: youtube
+  plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: ioodyme
   twitch_description: "La chaine ioodyme c'est beacoup de Neodyme et un peu de iooner.\
@@ -2822,11 +2822,11 @@
   youtube_video_count: 18
   youtube_view_count: 285523
 - categories: "cybers\xE9curit\xE9"
-  condition_card: false
-  condition_twitch: false
+  condition_card: true
+  condition_twitch: true
   condition_youtube: false
   global_name: Khaos Farbauti Ibn Oblivion
-  plateforms: ''
+  plateforms: twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: Khaos_Farbauti
   twitch_description: "Tout et n'importe quoi.\rJe suis sur Twitter entre 2 streams\
@@ -3000,10 +3000,10 @@
   youtube_view_count: 1656978
 - categories: dev_web
   condition_card: true
-  condition_twitch: false
+  condition_twitch: true
   condition_youtube: true
   global_name: Skarab42
-  plateforms: youtube
+  plateforms: youtube twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: skarab42
   twitch_description: "Connu sous le pseudonyme de Skarab depuis le 56K, Je suis passionn\xE9\
