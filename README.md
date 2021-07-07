@@ -6,11 +6,12 @@ Le site est en construction et disponible ici : https://createurstech.fr
 ![Les créateurs tech](https://github.com/anisayari/createurstech.fr/blob/main/banner.png?raw=true)
 
 ### Add a creator
-A creator has to respect the following requirements:
+Everyone can be addedtothe creatorslist. However an automatic process will check the following requirements to display ac reators on the website. So do not hesitate to add ALL creators in order to be added automatically on the website.
+A creator has to respect the following requirements to be on the website:
  - To have a Youtube or Twitch active channel
  - French language
- - For Youtube: a minimum of 1,000 subscribers
- - For Twitch: a minimum of 1,000 followers
+ - For Youtube: a minimum of 10k subscribers
+ - For Twitch: a minimum of 1k followers
  
 To add a creator, you need to make a Pull Request. Your Pull Request has to modify ONLY the file: `_data/creators-short.json` and add ALL the followings fields at the current time for the creator you are submitting a proposal for.
 
