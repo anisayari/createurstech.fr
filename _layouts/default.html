@@ -1,14 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
 
   <body>
-  <picture class="body-bg" aria-hidden="true">
-    <source srcset="assets/images/background.avif" type="image/avif">
-    <source srcset="assets/images/background.webp" type="image/webp">
-    <img src="assets/images/background.png" alt="">
-  </picture>
 
     {%- include header.html -%}
 
