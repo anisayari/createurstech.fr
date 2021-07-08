@@ -1,6 +1,22 @@
-.current {
-  color: green;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
-*{
-  color: inherit;
+
+:root {
+  --main-font-family: 'Inter', sans-serif;
+
+  --col-width: 92rem;
+
+  color: white;
+  font-family: var(--main-font-family);
+  background: #222222;
+  scroll-behavior: smooth;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
