@@ -155,13 +155,8 @@ body{
     text-decoration: none;
     margin: 3px;
     min-width: 30%;
-  
   }
   
-  .social-networks > img{
-    width:5px;
-    height:auto
-  }
   .info > *{
     color: white;
     display: inline;
@@ -171,9 +166,23 @@ body{
     text-decoration: none;
   }
   .info > img{
+    margin-bottom: 5px;
     background: transparent;
-  
+    width:13px;
+    height:auto;
   }
+
+  .info > .fab{
+    margin-bottom: 5px;
+    font-size:12px;
+  }
+
+  .info > p{
+    padding-bottom: 5px;
+    margin-left: 5px;
+    font-size:11px;
+  }
+
   .button-youtube{
     background: #C4302B;
   }
@@ -265,18 +274,18 @@ body{
     text-transform: uppercase;
     text-decoration: none;
     background: transparent;
-    padding: 5px;
+    padding: 2px 5px 2px 5px;
     cursor: pointer;
     border: 1px solid #ffffff !important;
-    border-radius: 5px;
+    border-radius: 70px;
     display: inline-block;
     transition: all 0.4s ease 0s;
+    font-size:12px;
   }
   
   .button-group{
     margin-bottom: 10px;
   }
-  
   
   /*
   Scrollbar
@@ -293,14 +302,9 @@ body{
     border-radius: 22px;
   }
   
-  
-  
-  
   /*
   Search
   */
-  
-  
   
   .filter-container{
     background: $card-background-gradient;
@@ -330,7 +334,6 @@ body{
     border-left:0;
     border-right:0;
     padding-left: 1.2rem;
-  
   }
   
   .search > img{
@@ -344,7 +347,7 @@ body{
   input[type=search]::placeholder {
     text-align: right;
     color: $light-grey;
-  
+    font-size: 13px;
   }
   
   /*
@@ -358,7 +361,6 @@ body{
     max-height: 80%;
   }
   
-  
   #display-card-container{
     background-color: black;
     opacity: 0.96;
@@ -368,7 +370,6 @@ body{
     height: 100%;
     width:  100%;
     backdrop-filter:  blur(53px);
-  
   }
   
   .close {
