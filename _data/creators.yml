@@ -39,6 +39,42 @@
   youtube_subscriber_count_abbreviation: 22.90K
   youtube_video_count: 56
   youtube_view_count: 506311
+ - categories: ''
+  condition_card: true
+  condition_twitch: false
+  condition_youtube: true
+  global_name: Lior Chamla
+  plateforms: youtube
+  twitch_broadcaster_type: affiliate
+  twitch_channel_name: liior
+  twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
+    \ "
+  twitch_followers: 953
+  twitch_followers_abbreviation: '953.00'
+  twitch_id: '86914720'
+  twitch_number_of_view: 5040
+  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/liior-profile_image-58aeb8355fe3384e-300x300.jpeg
+  twitter_description: ''
+  twitter_followers: ''
+  twitter_id: ''
+  twitter_name: ''
+  twitter_profile_picture: ''
+  twitter_screen_name: ''
+  youtube_channel_id: UCS71mal_TkTW_PpZR9YLpIA
+  youtube_channel_name: Lior CHAMLA
+  youtube_channel_username: ''
+  youtube_custom_url: liorchamla
+  youtube_description: "Passionn\xE9 de d\xE9veloppement web, je publie ici des tutoriels,\
+    \ des formations. \n\nJe suis d\xE9veloppeur web depuis 10 ans et formateur dans\
+    \ diff\xE9rentes \xE9coles et groupes de formation (CESI Alternances, eXia,, 3WAcademy,\
+    \ WebForce3, ...), si vous aimez le d\xE9veloppement web, n'h\xE9sitez pas \xE0\
+    \ vous abonner ;-)"
+  youtube_hidden_subscriber_count: 0
+  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSVDjUpeEL_hycVcm-f9NYuSSD4LsRzVdsSevb8xQ=s88-c-k-c0x00ffffff-no-rj
+  youtube_subscriber_count: 27800
+  youtube_subscriber_count_abbreviation: 27.80K
+  youtube_video_count: 82
+  youtube_view_count: 1656978
 - categories: ''
   condition_card: true
   condition_twitch: true
@@ -944,42 +980,6 @@
   youtube_subscriber_count_abbreviation: 32.00K
   youtube_video_count: 78
   youtube_view_count: 2123283
-- categories: ''
-  condition_card: true
-  condition_twitch: false
-  condition_youtube: true
-  global_name: Lior Chamla
-  plateforms: youtube
-  twitch_broadcaster_type: affiliate
-  twitch_channel_name: liior
-  twitch_description: "Je surf sur la vague des d\xE9veloppeurs qui streament \U0001F44D\
-    \ "
-  twitch_followers: 953
-  twitch_followers_abbreviation: '953.00'
-  twitch_id: '86914720'
-  twitch_number_of_view: 5040
-  twitch_profil_image_url: https://static-cdn.jtvnw.net/jtv_user_pictures/liior-profile_image-58aeb8355fe3384e-300x300.jpeg
-  twitter_description: ''
-  twitter_followers: ''
-  twitter_id: ''
-  twitter_name: ''
-  twitter_profile_picture: ''
-  twitter_screen_name: ''
-  youtube_channel_id: UCS71mal_TkTW_PpZR9YLpIA
-  youtube_channel_name: Lior CHAMLA
-  youtube_channel_username: ''
-  youtube_custom_url: liorchamla
-  youtube_description: "Passionn\xE9 de d\xE9veloppement web, je publie ici des tutoriels,\
-    \ des formations. \n\nJe suis d\xE9veloppeur web depuis 10 ans et formateur dans\
-    \ diff\xE9rentes \xE9coles et groupes de formation (CESI Alternances, eXia,, 3WAcademy,\
-    \ WebForce3, ...), si vous aimez le d\xE9veloppement web, n'h\xE9sitez pas \xE0\
-    \ vous abonner ;-)"
-  youtube_hidden_subscriber_count: 0
-  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSVDjUpeEL_hycVcm-f9NYuSSD4LsRzVdsSevb8xQ=s88-c-k-c0x00ffffff-no-rj
-  youtube_subscriber_count: 27800
-  youtube_subscriber_count_abbreviation: 27.80K
-  youtube_video_count: 82
-  youtube_view_count: 1656978
 - categories: dev_web
   condition_card: true
   condition_twitch: false
