@@ -11,7 +11,7 @@ A creator has to respect the following requirements to be on the website:
  - To have a Youtube or Twitch active channel
  - French language
  - For Youtube: a minimum of 10k subscribers
- - For Twitch: a minimum of 1k followers
+ - For Twitch: a minimum of 2k followers
  
 To add a creator, you need to make a Pull Request. Your Pull Request has to modify ONLY the file: `_data/creators-short.json` and add ALL the followings fields at the current time for the creator you are submitting a proposal for.
 
