@@ -1,4 +1,10 @@
-{
+{"Lior Chamla": {
+    "youtube_channel_id": "UCS71mal_TkTW_PpZR9YLpIA",
+    "youtube_channel_username": "",
+    "categories": "dev_web",
+    "twitch_channel_name": "liior",
+    "twitter_screen_name": ""
+  },
   "Deus Ex Silicium": {
     "youtube_channel_id": "",
     "youtube_channel_username": "dexsilicium",
@@ -235,13 +241,6 @@
     "youtube_channel_username": "",
     "categories": "",
     "twitch_channel_name": "",
-    "twitter_screen_name": ""
-  },
-  "Lior Chamla": {
-    "youtube_channel_id": "UCS71mal_TkTW_PpZR9YLpIA",
-    "youtube_channel_username": "",
-    "categories": "dev_web",
-    "twitch_channel_name": "liior",
     "twitter_screen_name": ""
   },
   "CodeDesign_fr": {
