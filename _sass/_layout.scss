@@ -6,79 +6,102 @@
 Header
 */
 
-header {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  max-width: var(--col-width);
-  margin: 0 auto 7.5rem;
-  padding: 0 2.25rem;
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 0 120px 0;
 }
 
-.header-top-part {
-  order: -1;
-  margin: 2rem 0 0 0;
+
+.site-header > div > h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 3.75vmin;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: $title-color;
+    text-transform: uppercase;
+}
+
+.site-header > div > h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vmin;
+    font-weight: lighter;
+    text-align: left;
+    color: $title-color;
+}
+
+.site-header > img{
+    width: 20vmin;
+}
+
+#header-top-part{
+  max-height: 75px;
+  min-height: 53px;
+  margin: 32px 0 0 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
+  width: 92%;
 }
 
-.header-logo {
+#header-logo{
   height: 100%;
-  width: clamp(9.75rem, 40%, 13.5rem);
+  max-width: 216px;
+  min-width: 154px;
+  width: 40%;
 }
 
-.github-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 7.5rem;
-  height: 2.25rem;
-  color: #FFFFFF;
-  letter-spacing: -0.03em;
-  border: 1px solid #FFFFFF;
+#github-button{
+  height: 36px;
+  width: 120px;
   border-radius: 50px;
-  transition: background-color, color 0.4s;
-
-  &:focus,
-  &:hover {
-    background-color: #FFFFFF;
-    color: #1B1032;
-  }
-}
-
-.github-arrow {
+  border: 1px solid #FFFFFF;
+  font-size: 16px;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 1.25rem;
-  height: 1.25rem;
-  margin-left: .5rem;
-  color: $dark-purple;
-  font-size: .75rem;
-  background-color: #FFFFFF;
-  border: 1px solid $dark-purple;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  transition: background-color, color 0.4s;
+}
+
+#github-arrow{
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
+  background-color: #FFFFFF;
+  color: $dark-purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 0 8px;
+  border: 1px solid $dark-purple;
+  font-size: 11px;
+}
+
+#github-button:hover{
+  background-color: #FFFFFF;
+  color: #1B1032;
 }
 
 /*
 Big title
 */
 
-.big-title {
-  width: 100%;
-  max-width: 65.5rem;
-  margin: 3.75rem 0 2rem;
-  font: 300 clamp(2.5rem, 10vw, 6.25rem)/1 var(--main-font-family);
-  letter-spacing: -0.03em;
+#big-title{
+  font-size: min(max(100px), 10vw);
+  font-weight: 300;
+  font-family: 'Inter', sans-serif;
+  line-height: 100.02%;
+  max-width: 1000px;
+  width: 90%;
   text-align: center;
+  letter-spacing: -0.03em;
+  margin: 60px 0 32px 0;
 }
-
-.big-title-colored {
+#big-title-colored{
   background: linear-gradient(270deg, #9059f6 0%, #ff2929 110%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -90,16 +113,19 @@ Big title
 add-creator 
 */
 
-.add-creator {
-  width: 100%;
-  max-width: 40rem;
-  color: white;
-  font: 400 clamp(1rem, 4vw, 1.5rem)/1.4 var(--main-font-family);
+#add-creator{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: min(max(24px), 4vw);
+  line-height: 140%;
   letter-spacing: -0.01em;
+  max-width: 630px;
   text-align: center;
+  color: white;
+  width: 86%;
 }
 
-.add-creator-link {
+#add-creator-link{
   color: white;
   text-decoration: underline;
 }
@@ -108,86 +134,96 @@ add-creator
 Icon in background
 */
 
-.icon-background {
+.icon-background{
   position: absolute;
   z-index: -1;
   user-select: none;
 }
-
-.ytb-icon1 {
+#ytb-icon1{
   left: 30%;
   top: 82.92px;
 }
-
-.ytb-icon2 {
+#ytb-icon2{
   left: 88.15%;
   right: 8.43%;
   top: 22%;
   transform: rotate(25deg);
 }
-
-.ytb-icon3 {
+#ytb-icon3{
   left: 20.62%;
   right: 75.96%;
   top: 60%;
 }
-
-.twitch-icon1 {
+#twitch-icon1{
   left: 9%;
   top: 257.31px;
 }
-
-.twitch-icon2 {
+#twitch-icon2{
   right: 13%;
   top: 340.27px;
   transform: rotate(25deg);
 }
 
 
+
 /*
 Main
 */
 
-main {
-  position: relative;
-  flex-grow: 1;
-  width: 100%;
-  max-width: var(--col-width);
-  margin: 0 auto;
-  padding: 0 2.25rem;
-}
-
-
-/*
-Footer
-*/
-footer {
-  position: relative;
-  width: 100%;
-}
-
-footer > p {
-  padding: 2rem;
-  font: 400 1.125rem/1.35 inherit;
-  text-align: center;
-}
-
-
-/*
-Small screen
-*/
-
 @media all and (max-width: 768px) {
-  .icon-background {
-    transform: scale(0.7) !important;
+    main{
+        margin: auto;
+        width: 95%;
+    }
+
+  
   }
-  .ytb-icon2, .ytb-icon3 {
-    display: none;
+  @media all and (min-width: 768px) {
+    main{
+        margin: auto;
+        width: 80%;
+    
+    }
   }
-  .twitch-icon1 {
-    left: -7%;
+
+
+  /*
+  Footer
+  */
+
+  footer{
+    position: relative;
+    width: 100%;
+
   }
-  .twitch-icon2 {
-    right: -7%;
+
+  footer > p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 2rem; 
   }
-}
+
+
+  /*
+  Small screen
+  */
+
+  @media all and (max-width: 768px) {
+    .icon-background{
+      transform: scale(0.7) !important;
+    }
+    #ytb-icon2, #ytb-icon3{
+      display: none;
+    }
+    #twitch-icon1{
+      left: -7%;
+    }
+    #twitch-icon2{
+      right: -7%; 
+    }
+  }
