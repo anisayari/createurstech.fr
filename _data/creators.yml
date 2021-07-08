@@ -3003,7 +3003,7 @@
   condition_twitch: true
   condition_youtube: true
   global_name: Skarab42
-  plateforms: youtube twitch
+  plateforms: twitch
   twitch_broadcaster_type: affiliate
   twitch_channel_name: skarab42
   twitch_description: "Connu sous le pseudonyme de Skarab depuis le 56K, Je suis passionn\xE9\
@@ -3020,17 +3020,13 @@
   twitter_name: ''
   twitter_profile_picture: ''
   twitter_screen_name: ''
-  youtube_channel_id: UCS71mal_TkTW_PpZR9YLpIA
-  youtube_channel_name: Lior CHAMLA
+  youtube_channel_id: ''
+  youtube_channel_name: ''
   youtube_channel_username: ''
-  youtube_custom_url: liorchamla
-  youtube_description: "Passionn\xE9 de d\xE9veloppement web, je publie ici des tutoriels,\
-    \ des formations. \n\nJe suis d\xE9veloppeur web depuis 10 ans et formateur dans\
-    \ diff\xE9rentes \xE9coles et groupes de formation (CESI Alternances, eXia,, 3WAcademy,\
-    \ WebForce3, ...), si vous aimez le d\xE9veloppement web, n'h\xE9sitez pas \xE0\
-    \ vous abonner ;-)"
+  youtube_custom_url: ''
+  youtube_description: ""
   youtube_hidden_subscriber_count: 0
-  youtube_profil_image_url: https://yt3.ggpht.com/ytc/AKedOLSVDjUpeEL_hycVcm-f9NYuSSD4LsRzVdsSevb8xQ=s88-c-k-c0x00ffffff-no-rj
+  youtube_profil_image_url: ''
   youtube_subscriber_count: 27800
   youtube_subscriber_count_abbreviation: 27.80K
   youtube_video_count: 82
