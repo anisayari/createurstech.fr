@@ -31,23 +31,52 @@ body{
   
   
 
-  /*
-    Cards
-  */
-  
-  .grid{
-    justify-content: center;
-    margin: auto;
-  }
+/*
+  Cards
+*/
+
+.grid{
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+
+.card {
+  color: black;
+  position: relative;
+  border-radius : 1.25rem;
+  background: $card-background-gradient;
+  padding : $card-padding;
+  margin: $card-space;
+  backdrop-filter:  blur(53px);
+
   @media all and (max-width: 768px) {
-    .card{
-      min-height: 250px;
-      width: 48%;
-    }
-    .grid-sizer{
-      width: 50%;
-    }
-  
+    min-height: 250px;
+    width: 48%;
+  }
+
+  @media all and (min-width: 768px) {
+    min-height: 340px;
+    width: 23%;
+  }
+
+  > p {
+    margin-top: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+}
+
+.grid-sizer{
+  @media all and (max-width: 768px) {
+    width: 50%;
+  }
+  @media all and (min-width: 768px) {
+    width: 25%;
+  }
+}
+
+  @media all and (max-width: 768px) {
     .description{
       max-height: 6rem;
       overflow-y: auto;
@@ -57,13 +86,6 @@ body{
   
   }
   @media all and (min-width: 768px) {
-    .card{
-      min-height: 340px;
-      width: 23%;
-    }
-    .grid-sizer{
-      width: 25%;
-    }
     .title{
       display: flex;
       flex-direction: row;
@@ -79,16 +101,6 @@ body{
       font-size: 0.8rem;
     }
   
-  }
-  
-  .card {
-    color: black;
-    position: relative;
-    border-radius : 1.25rem;
-    background: $card-background-gradient;
-    padding : $card-padding;
-    margin: $card-space;
-    backdrop-filter:  blur(53px);
   }
   
   
@@ -195,13 +207,6 @@ body{
     flex-grow: 0;
   
   
-  }
-  
-  
-  .card > p {
-    margin-top: 10px;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   
@@ -377,4 +382,3 @@ body{
     transition: 0.3s;
     cursor: pointer;
   }
-  
