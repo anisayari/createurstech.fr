@@ -5,15 +5,15 @@ Le site est en construction et disponible ici : https://createurstech.fr
 
 ![Les créateurs tech](https://github.com/anisayari/createurstech.fr/blob/main/banner.png?raw=true)
 
-### Add a creator
-Everyone can be addedtothe creatorslist. However an automatic process will check the following requirements to display ac reators on the website. So do not hesitate to add ALL creators in order to be added automatically on the website.
-A creator has to respect the following requirements to be on the website:
- - To have a Youtube or Twitch active channel
- - French language
- - For Youtube: a minimum of 10k subscribers
- - For Twitch: a minimum of 1k followers
+### Ajouter un créateur
+Tout le monde peut être ajouté à la liste des créateurs. Cependant, un processus automatique vérifiera les conditions suivantes pour afficher les créateurs sur le site web. N'hésitez donc pas à ajouter TOUS les créateurs afin d'être automatiquement ajouté sur le site.
+Un créateur doit respecter les conditions suivantes pour être présent sur le site :
+ - Avoir une chaîne active sur Youtube ou Twitch.
+ - Être de langue française
+ - Pour Youtube : un minimum de 10k abonnés
+ - Pour Twitch : un minimum de 2k followers
  
-To add a creator, you need to make a Pull Request. Your Pull Request has to modify ONLY the file: `_data/creators-short.json` and add ALL the followings fields at the current time for the creator you are submitting a proposal for.
+Pour ajouter un créateur, vous devez faire une Pull Request. Votre Pull Request doit modifier UNIQUEMENT le fichier : `_data/creators-short.json` et ajouter TOUS les champs suivants à l'heure actuelle pour le créateur pour lequel vous soumettez une proposition.
 
 ```
 {
@@ -26,33 +26,33 @@ To add a creator, you need to make a Pull Request. Your Pull Request has to modi
   }
 ```
 
-### How to contribute to the project:
+### Comment contribuer au projet :
 
-- First of all you have to [Install Jekyll gem](https://jekyllrb.com/docs/installation/)
-- Fork the project
-- Clone the project
-- Run 'bundle install' in the root directory
-- Run 'bundle exec jekyll serve' in the root directory
-- You can access the website at `http://localhost:4000`
-- You can access the admin panel with a nice-looking interface to modify code at `http://localhost:4000/admin`
-- Modify the code
-- Make a Pull Request to this repo
+- Tout d'abord, vous devez [Installer Jekyll gem](https://jekyllrb.com/docs/installation/)
+- Bifurquer, fork le projet
+- Clonez le projet
+- Exécutez 'bundle install' dans le répertoire racine
+- Lancez 'bundle exec jekyll serve' dans le répertoire racine.
+- Vous pouvez accéder au site web à l'adresse `http://localhost:4000`.
+- Vous pouvez accéder au panneau d'administration avec une belle interface pour modifier le code à `http://localhost:4000/admin`
+- Modifier le code
+- Faites une Pull Request dans ce repo
 
 
 ### Contribution
 You can contribute by forking the project and making a Pull Request (please respect commit messages and Pull Request comments)
 ### Todo
-- [x] Init project on Jekyll
-- [x] Setup custom domain
-- [x] Add data completion on the front
-- [x] Add multiple selections on the home screen
-- [ ] Design cards of creators
-- [ ] Design buttons
-- [ ] Design global website
-- [ ] Responsive adaptation
-- [x] Create Data flow from Twitch  / Youtube / Twitter
-- [x] Enhancement on README
-- [x] Logo createurs tech
-- [ ] Add random button to show up a random creator
+- [x] Initialiser le projet sur Jekyll
+- [x] Configuration du domaine personnalisé
+- [x] Ajout de la complétion des données (front)
+- [x] Ajouter des sélections multiples sur l'écran d'accueil
+- [ ] Concevoir des cartes de créateurs
+- [ ] Design des boutons
+- [ ] Design du site global
+- [ ] Adaptation responsive(mobile, tablette, pc)
+- [x] Créer un flux de données à partir de Twitch / Youtube / Twitter
+- [x] Amélioration du fichier README
+- [x] Logo créateurs tech
+- [ ] Ajouter un bouton aléatoire pour afficher un créateur aléatoire
 - [x] Add shuffle order for each refresh
 - [x] Add Readmore on card instead of scroll
