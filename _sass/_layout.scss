@@ -7,10 +7,13 @@ Header
 */
 
 header{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0 0 120px 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto 120px;
   padding: 0 1.25rem;
 }
 
