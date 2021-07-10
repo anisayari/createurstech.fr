@@ -1,10 +1,5 @@
 body{
     background-color: #222222;
-    background-image: url('../images/background.png');
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
     color: white;
   }
   
@@ -14,7 +9,6 @@ body{
   
   h1 > a{
     //styleName: H1;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
     color: white;
   
@@ -36,23 +30,51 @@ body{
   
   
 
-  /*
-    Cards
-  */
-  
-  .grid{
-    justify-content: center;
-    margin: auto;
-  }
+/*
+  Cards
+*/
+
+.grid{
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+
+.card {
+  color: black;
+  position: relative;
+  border-radius : 1.25rem;
+  background: $card-background-gradient;
+  padding : $card-padding;
+  margin: $card-space;
+  backdrop-filter:  blur(53px);
+
   @media all and (max-width: 768px) {
-    .card{
-      min-height: 250px;
-      width: 48%;
-    }
-    .grid-sizer{
-      width: 50%;
-    }
-  
+    min-height: 250px;
+    width: 48%;
+  }
+
+  @media all and (min-width: 768px) {
+    min-height: 340px;
+    width: 23%;
+  }
+
+  > p {
+    margin-top: 10px;
+    color: white;
+  }
+}
+
+.grid-sizer{
+  @media all and (max-width: 768px) {
+    width: 50%;
+  }
+  @media all and (min-width: 768px) {
+    width: 25%;
+  }
+}
+
+  @media all and (max-width: 768px) {
     .description{
       max-height: 6rem;
       overflow-y: auto;
@@ -62,13 +84,6 @@ body{
   
   }
   @media all and (min-width: 768px) {
-    .card{
-      min-height: 340px;
-      width: 23%;
-    }
-    .grid-sizer{
-      width: 25%;
-    }
     .title{
       display: flex;
       flex-direction: row;
@@ -84,16 +99,6 @@ body{
       font-size: 0.8rem;
     }
   
-  }
-  
-  .card {
-    color: black;
-    position: relative;
-    border-radius : 1.25rem;
-    background: $card-background-gradient;
-    padding : $card-padding;
-    margin: $card-space;
-    backdrop-filter:  blur(53px);
   }
   
   
@@ -119,7 +124,6 @@ body{
     align-content: center;
     overflow-wrap: break-word;
     width: 82%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   .follower-counter{
@@ -155,13 +159,8 @@ body{
     text-decoration: none;
     margin: 3px;
     min-width: 30%;
-  
   }
   
-  .social-networks > img{
-    width:5px;
-    height:auto
-  }
   .info > *{
     color: white;
     display: inline;
@@ -171,9 +170,23 @@ body{
     text-decoration: none;
   }
   .info > img{
+    margin-bottom: 5px;
     background: transparent;
-  
+    width:13px;
+    height:auto;
   }
+
+  .info > .fab{
+    margin-bottom: 5px;
+    font-size:12px;
+  }
+
+  .info > p{
+    padding-bottom: 5px;
+    margin-left: 5px;
+    font-size:11px;
+  }
+
   .button-youtube{
     background: #C4302B;
   }
@@ -194,13 +207,6 @@ body{
   }
   
   
-  .card > p {
-    margin-top: 10px;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  
-  
   //Vote
   
   .votes-container{
@@ -215,7 +221,6 @@ body{
   .votes-count{
     color: white;
     font-weight: 400;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 60%;
   }
   
@@ -265,18 +270,18 @@ body{
     text-transform: uppercase;
     text-decoration: none;
     background: transparent;
-    padding: 5px;
+    padding: 2px 5px 2px 5px;
     cursor: pointer;
     border: 1px solid #ffffff !important;
-    border-radius: 5px;
+    border-radius: 70px;
     display: inline-block;
     transition: all 0.4s ease 0s;
+    font-size:12px;
   }
   
   .button-group{
     margin-bottom: 10px;
   }
-  
   
   /*
   Scrollbar
@@ -293,14 +298,9 @@ body{
     border-radius: 22px;
   }
   
-  
-  
-  
   /*
   Search
   */
-  
-  
   
   .filter-container{
     background: $card-background-gradient;
@@ -321,7 +321,6 @@ body{
     height: 2rem;
     color: #F8F8F8;
     background: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     border-width: 3px;
     border-image: $gradient;
@@ -330,7 +329,6 @@ body{
     border-left:0;
     border-right:0;
     padding-left: 1.2rem;
-  
   }
   
   .search > img{
@@ -344,7 +342,7 @@ body{
   input[type=search]::placeholder {
     text-align: right;
     color: $light-grey;
-  
+    font-size: 13px;
   }
   
   /*
@@ -358,7 +356,6 @@ body{
     max-height: 80%;
   }
   
-  
   #display-card-container{
     background-color: black;
     opacity: 0.96;
@@ -368,7 +365,6 @@ body{
     height: 100%;
     width:  100%;
     backdrop-filter:  blur(53px);
-  
   }
   
   .close {
@@ -381,4 +377,3 @@ body{
     transition: 0.3s;
     cursor: pointer;
   }
-  

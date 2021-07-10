@@ -1,5 +1,4 @@
 
-<link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
   <div class='filters'>
@@ -24,7 +23,7 @@
 
   <div class="search">
     <img class="search-icon" src="assets/images/followers.svg"/>
-    <input type="search" class="quicksearch" placeholder="Créateurs-trices" name="search" id='search' />
+    <input type="search" class="quicksearch" placeholder="Créateurs, créatrices, mot-clé.." name="search" id='search' />
     <button class='button button_tags' onclick="shuffleCard()" >Aléatoire</button>
   </div>
 
@@ -64,21 +63,18 @@
                   <a class="button-twitter info" href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank">
                     <i class="fab fa-twitter"></i>
                     <p class="follower-counter">{{ creators.twitter_followers }}</p>
-                    <img src="assets/images/followers.svg"/>
                   </a>
                   {% endif %}
                   {% if creators.youtube_channel_name  != ''  and	creators.condition_youtube	%}
                   <a class='button-youtube info' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank">
                       <img src="assets/images/youtube.svg"/>
                       <p class="follower-counter" >{{ creators.youtube_subscriber_count}}</p>
-                      <img src="assets/images/followers.svg"/>
                   </a>
                   {% endif %}     
                   {%  if   creators.twitch_channel_name  != '' and creators.condition_twitch  %}
                   <a class='button-twitch info' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank">
                     <i class="fab fa-twitch"></i>
                     <p class="follower-counter"> {{ creators.twitch_followers}}</p>
-                    <img src="assets/images/followers.svg"/>
                   </a>
                   {% endif  %}
                 </div>

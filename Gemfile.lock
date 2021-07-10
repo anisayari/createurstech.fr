@@ -231,7 +231,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.11.7-x64-mingw32)
       racc (~> 1.4)
-    nokogiri (1.11.7-x86_64-darwin)
+    nokogiri (1.11.7-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -297,11 +297,13 @@ GEM
 PLATFORMS
   universal-darwin-20
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   github-pages (= 215)
   jekyll-admin
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
   minima
   tzinfo (~> 1.2)
   tzinfo-data
