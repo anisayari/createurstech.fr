@@ -1,11 +1,7 @@
-//Fonts
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
 /*
 Background Image
  */
-.body-bg {
+.BackgroundImage {
   position: fixed;
   top: 0;
   right: 0;
@@ -25,8 +21,7 @@ Background Image
 /*
 Header
 */
-
-header {
+.Header {
   position: relative;
   overflow: hidden;
   display: flex;
@@ -36,51 +31,121 @@ header {
   max-width: 120rem;
   margin: 0 auto 120px;
   padding: 0 1.25rem;
-}
 
-.site-header {
-  > img {
-    width: 20vmin;
-  }
+  /*
+  Title
+  */
+  &__title {
+    width: 100%;
+    max-width: var(--col-width);
+    margin: 60px 0 32px 0;
+    font: 300 clamp(2.5rem, 10vw, 6.25rem)/1 var(--main-font-family);
+    letter-spacing: -0.03em;
+    text-align: center;
 
-  > div {
-    > h3 {
-      font-size: 2vmin;
-      font-weight: lighter;
-      text-align: left;
-      color: $title-color;
-    }
-
-    > h1 {
-      font-weight: 900;
-      font-size: 3.75vmin;
-      letter-spacing: 0.05em;
-      text-align: left;
-      color: $title-color;
-      text-transform: uppercase;
+    &--colored {
+      background: linear-gradient(270deg, #9059f6 0%, #ff2929 110%);
+      background-clip: border-box;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone;
     }
   }
+
+  &__logoContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    order: -1;
+    width: 100%;
+    max-width: var(--col-width);
+    height: 75px;
+    margin: 32px 0 0 0;
+  }
+
+  &__logo {
+    width: auto;
+    height: clamp(3.25rem, calc(2.5rem + 5vw), 4.75rem);
+  }
+
+  /*
+    Description
+  */
+
+  &__description {
+    width: 86%;
+    max-width: 630px;
+    color: white;
+    font: 400 clamp(1rem, 4vw, 1.5rem)/1.4 var(--main-font-family);
+    letter-spacing: -0.01em;
+    text-align: center;
+
+    a {
+      color: inherit;
+    }
+  }
+
+  &__icons {
+    width: 100%;
+    max-width: calc(var(--col-width) + 15rem);
+    margin: 0 auto;
+
+    /*
+    Icon in background
+    */
+    .Header__icon {
+      position: absolute;
+      z-index: -1;
+      user-select: none;
+
+      &--ytb-icon1 {
+        left: 30%;
+        top: 82.92px;
+      }
+
+      &--ytb-icon2 {
+        left: 88.15%;
+        right: 8.43%;
+        top: 22%;
+        transform: rotate(25deg);
+      }
+
+      &--ytb-icon2,
+      &--ytb-icon3 {
+        @media all and (max-width: 768px) {
+          display: none;
+        }
+      }
+
+      &--ytb-icon3 {
+        left: 20.62%;
+        right: 75.96%;
+        top: 60%;
+      }
+
+      &--twitch-icon1 {
+        left: 9%;
+        top: 257.31px;
+
+        @media all and (max-width: 768px) {
+          left: -7%;
+        }
+      }
+
+      &--twitch-icon2 {
+        right: 13%;
+        top: 340.27px;
+        transform: rotate(25deg);
+
+        @media all and (max-width: 768px) {
+          right: -7%;
+        }
+      }
+    }
+  }
 }
 
-#header-top-part {
-  max-height: 75px;
-  min-height: 53px;
-  margin: 32px 0 0 0;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  max-width: var(--col-width);
-}
-
-#header-logo {
-  height: 100%;
-  max-width: 216px;
-  min-width: 154px;
-  width: 40%;
-}
-
-#github-button {
+.GithubLink {
   height: 36px;
   width: 120px;
   border-radius: 50px;
@@ -89,160 +154,28 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  letter-spacing: -0.03em;
   color: #FFFFFF;
-  transition: background-color, color 0.4s;
-}
-
-#github-arrow {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background-color: #FFFFFF;
-  color: $dark-purple;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0 0 0 8px;
-  border: 1px solid $dark-purple;
-  font-size: 11px;
-}
-
-#github-button:hover {
-  background-color: #FFFFFF;
-  color: #1B1032;
-}
-
-/*
-Big title
-*/
-
-#big-title {
-  font-size: min(max(100px), 10vw);
-  font-weight: 300;
-  line-height: 100.02%;
-  width: 100%;
-  max-width: var(--col-width);
-  text-align: center;
   letter-spacing: -0.03em;
-  margin: 60px 0 32px 0;
-}
+  text-decoration: none;
+  transition: background-color, color 0.4s;
 
-#big-title-colored {
-  background: linear-gradient(270deg, #9059f6 0%, #ff2929 110%);
-  background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-box-decoration-break: clone;
-}
-
-/* 
-add-creator 
-*/
-
-#add-creator {
-  font-weight: 400;
-  font-size: min(max(24px), 4vw);
-  line-height: 140%;
-  letter-spacing: -0.01em;
-  max-width: 630px;
-  text-align: center;
-  color: white;
-  width: 86%;
-}
-
-#add-creator-link {
-  color: white;
-  text-decoration: underline;
-}
-
-/* 
-Icon in background
-*/
-
-.icon-background {
-  position: absolute;
-  z-index: -1;
-  user-select: none;
-}
-
-#ytb-icon1 {
-  left: 30%;
-  top: 82.92px;
-}
-
-#ytb-icon2 {
-  left: 88.15%;
-  right: 8.43%;
-  top: 22%;
-  transform: rotate(25deg);
-}
-
-#ytb-icon3 {
-  left: 20.62%;
-  right: 75.96%;
-  top: 60%;
-}
-
-#twitch-icon1 {
-  left: 9%;
-  top: 257.31px;
-}
-
-#twitch-icon2 {
-  right: 13%;
-  top: 340.27px;
-  transform: rotate(25deg);
-}
-
-
-/*
-Main
-*/
-
-main {
-  width: 100%;
-  max-width: var(--col-width);
-  margin: auto;
-  padding: 0 1.25rem;
-}
-
-
-/*
-Footer
-*/
-
-footer {
-  position: relative;
-  width: 100%;
-
-  > p {
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0em;
-    text-align: center;
-    margin: 2rem;
+  &:focus,
+  &:hover {
+    background-color: #FFFFFF;
+    color: #1B1032;
   }
-}
 
-
-/*
-Small screen
-*/
-
-@media all and (max-width: 768px) {
-  .icon-background {
-    transform: scale(0.7) !important;
-  }
-  #ytb-icon2, #ytb-icon3 {
-    display: none;
-  }
-  #twitch-icon1 {
-    left: -7%;
-  }
-  #twitch-icon2 {
-    right: -7%;
+  &::after {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    margin: 0 0 0 8px;
+    font-size: 11px;
+    color: currentColor;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    content: '↗';
   }
 }
