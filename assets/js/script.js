@@ -18,7 +18,7 @@ function unfold(elem) {
 
 function refreshCards() {
     /*Refresh card position*/
-    var $grid = $('.grid').isotope({
+    var $grid = $('.Grid').isotope({
         itemSelector: '.card'
     })
     $grid.isotope();
@@ -91,7 +91,7 @@ function hideCard(){
 
 function shuffleCard(){
     if(!randomCardDiplayed){
-        var cards = document.getElementsByClassName("card");
+        var cards = document.getElementsByClassName("Card");
         var randIndex = Math.floor(Math.random() * cards.length)
         var card = cards[randIndex]
         var duplicateCard = card.cloneNode(true);
