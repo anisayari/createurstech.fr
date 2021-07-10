@@ -641,5 +641,12 @@
     "categories": "makers",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+  },
+  "Artisan Développeur": {
+    "youtube_channel_id": "UC-o56XcIj_JArG1Jlw-zgIg",
+    "youtube_channel_username": "",
+    "categories": "dev_web",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "art_developpeur"
   }
 }
