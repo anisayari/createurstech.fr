@@ -60,6 +60,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": "bonjourmondetv"
+      // moins de 10k abo youtube
   },
   "Yorzian": {
     "youtube_channel_id": "UCfsEmSD8oVD147HCz5aCOUg",
@@ -67,13 +68,15 @@
     "categories": "",
     "twitch_channel_name": "Yorzian",
     "twitter_screen_name": "yrougy"
+      // moins de 10k abo youtube 
   },
   "TEACHERSDUNET": {
     "youtube_channel_id": "UCzuaB4F2znrMggxcwUuVhAw",
     "youtube_channel_username": "hounwanou1993",
     "categories": "dev_web devops",
     "twitch_channel_name": "",
-    "twitter_screen_name": "TEACHERSDUNET"
+    "twitter_screen_name": "TEACHERSDUNET"*
+      // moins de 10k abo youtube
   },
   "jojol67": {
     "youtube_channel_id": "UCJy0lX8ThZ7lCtst7JnegWQ",
@@ -144,6 +147,7 @@
     "categories": "dev_web actu_tech",
     "twitch_channel_name": "iter_fr",
     "twitter_screen_name": "ITer_fr"
+      // moins de 10k abo youtube
   },
   "Formation Video": {
     "youtube_channel_id": "UCS2e0hEJMhwd6bNscS60xTg",
@@ -152,10 +156,10 @@
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
-  "pierregird": {
+  "Pierre Giraud": {
     "youtube_channel_id": "UCsFoQ4A9CZbF3qag317uZZQ",
     "youtube_channel_username": "",
-    "categories": "",
+    "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
@@ -305,6 +309,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Louistiti": {
     "youtube_channel_id": "UC7AVPVO21rPjgC8W9dPYEvw",
@@ -333,6 +338,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "codeconcept": {
     "youtube_channel_id": "UCY_guo_AYBs0cIkeMVc16iw",
@@ -340,6 +346,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Nord Coders": {
     "youtube_channel_id": "UC36hi0WMeiR8HpUy-A2s4vQ",
@@ -347,6 +354,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Docstring": {
     "youtube_channel_id": "UCo2zkK2d_frGSXctIkftALw",
@@ -361,6 +369,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Donkey Geek": {
     "youtube_channel_id": "UCen4kPGBciimcvFUQjjZCtg",
@@ -368,6 +377,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Thibaud Dauce": {
     "youtube_channel_id": "UChyW1pwcQT2RA4Q2onfNfpg",
@@ -375,6 +385,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Sitedudev": {
     "youtube_channel_id": "UCmJ6Z6gXjjylSVbPoBvj-ow",
@@ -382,6 +393,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Grimille - La Meute": {
     "youtube_channel_id": "UCFfJNxWTuD8UCnG5JNSiqkw",
@@ -389,6 +401,7 @@
     "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "YoanDev": {
     "youtube_channel_id": "UCRlsJWh1XwmNGxZPFgJ0Zlw",
@@ -396,6 +409,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Sébastien Imbert": {
     "youtube_channel_id": "UC18RbwcHN3cP8Q-K53PF-JQ",
@@ -403,6 +417,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Thomas Boileau": {
     "youtube_channel_id": "UCpMntmV07jvZMK3fqR196QQ",
@@ -410,6 +425,7 @@
     "categories": "dev_web",
     "twitch_channel_name": "toham",
     "twitter_screen_name": "boileau_thomas"
+      // moins de 10k abo youtube
   },
   "Je suis un dev": {
     "youtube_channel_id": "UCo0zOE8DcrRGbwvr4Q_eMsQ",
@@ -417,6 +433,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Louis Nicolas - BELIEVEMY": {
     "youtube_channel_id": "UC9RqnWGripL5L3lxH-fEZjg",
@@ -424,6 +441,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "David Dias": {
     "youtube_channel_id": "UCXYs_tVa-VFm5f6bWrPybhA",
@@ -431,6 +449,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Seb Duval Création de Sites Web": {
     "youtube_channel_id": "UC_n2nsURL8YxaLeRLAWzsMQ",
@@ -438,6 +457,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Wawa Sensei": {
     "youtube_channel_id": "UCBH-5ctALmmOrm4kczL3urQ",
@@ -445,6 +465,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Pierre Terrat": {
     "youtube_channel_id": "UCeZIdBQiLoH3zi-VCHwi5VQ",
@@ -452,6 +473,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Road To Dev": {
     "youtube_channel_id": "UCJFSN6epvy4HGjujPhuhGvg",
@@ -459,6 +481,7 @@
     "categories": "",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "neolectron": {
     "youtube_channel_id": "UCR6J_T-H-zN37gB6PyQSXLg",
@@ -473,6 +496,7 @@
     "categories": "",
     "twitch_channel_name": "dev_web",
     "twitter_screen_name": "PierreMiniggio"
+      // moins de 10k abo youtube
   },
   "Sofiyan Productiv'IT": {
     "youtube_channel_id": "UC6hw-vlN2TqmgMcJ_QLlZ5A",
@@ -480,6 +504,7 @@
     "categories": "dev_web admin_&_system",
     "twitch_channel_name": "sofiyan_productivit",
     "twitter_screen_name": "sofiyan_ifren"
+      // moins de 10k abo youtube
   },
   "Christophe Casalegno": {
     "youtube_channel_id": "UCIlCglg-Gl6eNtllSB95gMA",
@@ -487,6 +512,7 @@
     "categories": "admin_&_system",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Cookie connecté": {
     "youtube_channel_id": "UC5cs06DgLFeyLIF_II7lWCQ",
@@ -536,6 +562,7 @@
     "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
   "Les Tutos de Processus": {
     "youtube_channel_id": "UCqrxDV9EPOlI1YMhzIPed2g",
@@ -551,8 +578,9 @@
     "twitch_channel_name": "",
     "twitter_screen_name": ""
   },
+      //Neodyme ?
   "ioodyme": {
-    "youtube_channel_id": "",
+    "youtube_channel_id": "", //UC1_EQJyvyeaukrLKVunejgw ?
     "youtube_channel_username": "",
     "categories": "admin_&_system dev_web",
     "twitch_channel_name": "ioodyme",
@@ -564,6 +592,7 @@
     "categories": "cybersécurité",
     "twitch_channel_name": "Khaos_Farbauti",
     "twitter_screen_name": "khaos_farbauti"
+      // moins de 10k abo youtube
   },
   "Lilian Suzan": {
     "youtube_channel_id": "UCZ2KYhJQYogLJSSlCE_mOdg",
@@ -571,6 +600,7 @@
     "categories": "dev_mobile design_ui/ux",
     "twitch_channel_name": "",
     "twitter_screen_name": "hello_lilian"
+      // moins de 10k abo youtube
   },
   "Boiling Brains": {
     "youtube_channel_id": "UCKAzZCVzqkdvxX6VLTwyVMQ",
@@ -585,6 +615,7 @@
     "categories": "dev_web",
     "twitch_channel_name": "skarab42",
     "twitter_screen_name": ""
+      // moins de 10k abo youtube
   },
    "Pause process": {
     "youtube_channel_id": "UC0JUkXAVVA4qWH1BQRs5N3A",
@@ -599,6 +630,7 @@
     "categories": "blockchain",
     "twitch_channel_name": "",
     "twitter_screen_name": "DecouvreBitcoin"
+      // moins de 10k abo youtube
   },
    "GOODWIN": {
     "youtube_channel_id": "UCzLkeUSipfOtSC9of-Q0yiQ",
@@ -613,6 +645,7 @@
     "categories": "blockchain",
     "twitch_channel_name": "tikapo_crypto",
     "twitter_screen_name": "Tikapo1"
+      // moins de 10k abo youtube
   },
    "Monsieur Bidouille": {
     "youtube_channel_id": "UCSULDz1yaHLVQWHpm4g_GHA",
@@ -648,5 +681,6 @@
     "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": "art_developpeur"
+      // moins de 10k abo youtube
   }
 }
