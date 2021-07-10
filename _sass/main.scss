@@ -1,10 +1,38 @@
-.current {
-  color: green;
-}
-*{
-  color: inherit;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 :root {
+  --main-font-family: 'Inter', sans-serif;
+
   --col-width: 92rem;
+
+  font-family: var(--main-font-family);
+  scroll-behavior: smooth;
+}
+
+/*
+Main
+*/
+main {
+  width: 100%;
+  max-width: var(--col-width);
+  margin: auto;
+  padding: 0 1.25rem;
+}
+
+/*
+Footer
+*/
+.Footer {
+  position: relative;
+  width: 100%;
+
+  > p {
+    margin: 2rem;
+    font: 400 1.125rem/1.35 inherit;
+    text-align: center;
+  }
 }

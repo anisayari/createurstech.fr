@@ -1,5 +1,4 @@
 
-<link rel="stylesheet" href="/assets/css/styles.css">
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
   <div class='filters'>
