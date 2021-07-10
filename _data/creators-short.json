@@ -648,19 +648,5 @@
     "categories": "dev_web",
     "twitch_channel_name": "",
     "twitter_screen_name": "art_developpeur"
-  },
-  "Waked XY": {
-    "youtube_channel_id": "",
-    "youtube_channel_username": "wakedxy",
-    "categories": "cybersécurité",
-    "twitch_channel_name": "",
-    "twitter_screen_name": "Wakedxy1"
-  },
-  "Les Tutos de Processus": {
-    "youtube_channel_id": "UCqrxDV9EPOlI1YMhzIPed2g",
-    "youtube_channel_username": "",
-    "categories": "cybersécurité",
-    "twitch_channel_name": "",
-    "twitter_screen_name": "ProcessusT"
   }
 }
