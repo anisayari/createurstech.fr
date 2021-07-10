@@ -9,7 +9,6 @@ body{
   
   h1 > a{
     //styleName: H1;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
     color: white;
   
@@ -63,7 +62,6 @@ body{
   > p {
     margin-top: 10px;
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 }
 
@@ -126,7 +124,6 @@ body{
     align-content: center;
     overflow-wrap: break-word;
     width: 82%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   .follower-counter{
@@ -224,7 +221,6 @@ body{
   .votes-count{
     color: white;
     font-weight: 400;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 60%;
   }
   
@@ -325,7 +321,6 @@ body{
     height: 2rem;
     color: #F8F8F8;
     background: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     border-width: 3px;
     border-image: $gradient;
