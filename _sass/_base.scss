@@ -22,15 +22,15 @@ img {
  * Links
  */
 a {
-  text-decoration: none;
-
-  &:visited {
-    text-decoration: none;
-  }
-
-  &:hover {
-    text-decoration: underline;
-  }
+  //text-decoration: none;
+  //
+  //&:visited {
+  //  text-decoration: none;
+  //}
+  //
+  //&:hover {
+  //  text-decoration: underline;
+  //}
 
   .social-media-list &:hover {
     text-decoration: none;
