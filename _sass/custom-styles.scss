@@ -1,4 +1,12 @@
 /*
+  Titles (idk where to put that)
+*/
+h2 {
+  font-size: 1.7em;
+  margin: 1em 0 .5em 0;
+}
+
+/*
   Cards
 */
 .Grid {
@@ -165,37 +173,49 @@ label[for="search"] {
 /*
 Buttons
 */
+.button_tags {
+  font-family: "Poppins", sans-serif;
+  background: transparent;
+  color: white !important;
+  border:none !important;
+  margin: 2px;
+  cursor: pointer;
+  border-radius: 700px;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 0.5em 1.5em;
+  position: relative;
+
+  &::before {
+    z-index: -1;
+    content: "";
+    position: absolute;
+    top: 0; right: 0;
+    width: 100%; height: 100%;
+    border-radius: 700px;
+    background: linear-gradient(#B848AC, #DE3765);
+    opacity: 0;
+    transition: opacity .7s cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+}
+
 .button:active,
 .button.is-checked {
-  background: linear-gradient(#B848AC, #DE3765);
-  border-color: #DE3765 !important;
-  color: #fff !important;
-}
-
-.button_tags:hover {
-  color: #ffffff !important;
-  background: linear-gradient(#B848AC, #DE3765);
-  border-color: #DE3765 !important;
-  transition: all 0.4s ease 0s;
-}
-
-.button_tags {
-  color: white !important;
-  margin: 2px;
-  text-transform: uppercase;
-  text-decoration: none;
-  background: transparent;
-  padding: 2px 5px 2px 5px;
-  cursor: pointer;
-  border: 1px solid #ffffff !important;
-  border-radius: 70px;
-  display: inline-block;
-  transition: all 0.4s ease 0s;
-  font-size: 12px;
+  font-weight: 600;
+  &::before { opacity: 1; }
 }
 
 .button-group {
   margin-bottom: 10px;
+}
+
+.SocialNetworks .CallToAction:not(:last-of-type) {
+  margin-right: .5em;
 }
 
 /*
@@ -217,6 +237,10 @@ Scrollbar
 Search
 */
 
+.filters {
+  text-align: center;
+}
+
 .filter-container {
   background: $card-background-gradient;
   height: 5rem;
@@ -229,7 +253,30 @@ Search
 
 .search {
   position: relative;
-  padding: 0.75rem $card-space;
+  text-align: center;
+  margin: 1em;
+}
+
+.search-bar {
+  position: relative;
+  display: inline-block;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    width: 100%;
+    height: 3px;
+    background: $gradient;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: .75em;
+    top: 50%;
+    transform: translate3d(0, -50%, 0);
+  }
 }
 
 input[type=search] {
@@ -237,27 +284,20 @@ input[type=search] {
   color: #F8F8F8;
   background: none;
   font-size: 18px;
-  border-width: 3px;
-  border-image: $gradient;
-  border-image-slice: 1;
-  border-top: 0;
-  border-left: 0;
-  border-right: 0;
-  padding-left: 1.2rem;
-}
+  border: none;
+  padding-left: 2.5em;
+  position: relative;
 
-.search > img {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: transparent;
-  fill: $light-grey;
-}
+  &:focus, &:active {
+    outline: none;
+  }
 
-input[type=search]::placeholder {
-  text-align: right;
-  color: $light-grey;
-  font-size: 13px;
+  &::placeholder {
+    text-align: left;
+    color: $light-grey;
+    font-size: 13px;
+    font-style: italic;
+  }
 }
 
 /*
@@ -266,12 +306,13 @@ Display a random creator
 #diplayed-card {
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
   width: 100%;
   max-width: 40ch;
   height: auto;
   max-height: min(80vh, 25rem);
   margin: 0;
+  transform-origin: center!important;
+  animation: pop-in .3s cubic-bezier(0.075, 0.82, 0.165, 1) both;
 }
 
 #display-card-container {
@@ -306,4 +347,13 @@ Display a random creator
   font-weight: bold;
   transition: 0.3s;
   cursor: pointer;
+}
+
+@keyframes pop-in {
+  from {
+    transform: scale3d(0, 0, 0) translate3d(-50%, -50%, 0);
+  }
+  to {
+    transform: scale3d(1, 1, 1) translate3d(-50%, -50%, 0);
+  }
 }
