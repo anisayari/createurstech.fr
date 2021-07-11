@@ -11,7 +11,7 @@ Un créateur doit respecter les conditions suivantes pour être présent sur le 
  - Avoir une chaîne active sur Youtube ou Twitch.
  - Être de langue française
  - Pour Youtube : un minimum de 10k abonnés
- - Pour Twitch : un minimum de 2k followers
+ - Pour Twitch : être Partner
  
 Pour ajouter un créateur, vous devez faire une Pull Request. Votre Pull Request doit modifier UNIQUEMENT le fichier : `_data/creators-short.json` et ajouter TOUS les champs suivants à l'heure actuelle pour le créateur pour lequel vous soumettez une proposition.
 
