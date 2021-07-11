@@ -48,20 +48,24 @@ body{
   padding : $card-padding;
   margin: $card-space;
   backdrop-filter:  blur(53px);
+  display: flex;
+  flex-direction: column;
 
   @media all and (max-width: 768px) {
-    min-height: 250px;
+    height: 250px;
     width: 48%;
   }
 
   @media all and (min-width: 768px) {
-    min-height: 340px;
+    height: 340px;
     width: 23%;
   }
 
   > p {
     margin-top: 10px;
+    margin-bottom: 10px;
     color: white;
+    flex-grow: 1
   }
 }
 
@@ -76,7 +80,6 @@ body{
 
   @media all and (max-width: 768px) {
     .description{
-      max-height: 6rem;
       overflow-y: auto;
       overflow-x: hidden;
       font-size: 0.8rem;
@@ -93,7 +96,6 @@ body{
     }
   
     .description{
-      max-height: 10rem;
       overflow-y: auto;
       overflow-x: hidden;
       font-size: 0.8rem;
