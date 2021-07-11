@@ -11,7 +11,7 @@ Un créateur doit respecter les conditions suivantes pour être présent sur le 
  - Avoir une chaîne active sur Youtube ou Twitch.
  - Être de langue française
  - Pour Youtube : un minimum de 10k abonnés
- - Pour Twitch : un minimum de 2k followers
+ - Pour Twitch : être Partner
  
 Pour ajouter un créateur, vous devez faire une Pull Request. Votre Pull Request doit modifier UNIQUEMENT le fichier : `_data/creators-short.json` et ajouter TOUS les champs suivants à l'heure actuelle pour le créateur pour lequel vous soumettez une proposition.
 
@@ -36,23 +36,23 @@ Pour ajouter un créateur, vous devez faire une Pull Request. Votre Pull Request
 - Vous pouvez accéder au site web à l'adresse `http://localhost:4000`.
 - Vous pouvez accéder au panneau d'administration avec une belle interface pour modifier le code à `http://localhost:4000/admin`
 - Modifier le code
-- Faites une Pull Request dans ce repo
+- Faites une Pull Request dans ce repo sur la branche test
 
 
 ### Contribution
-You can contribute by forking the project and making a Pull Request (please respect commit messages and Pull Request comments)
+Vous pouvez contribuer en forkant le projet et en faisant une pull request sur la branche test (faite un message de commit et de pull request clair svp. Pour chaque modification graphique il faut joindre une image avant/aprés au message)
 ### Todo
 - [x] Initialiser le projet sur Jekyll
 - [x] Configuration du domaine personnalisé
 - [x] Ajout de la complétion des données (front)
 - [x] Ajouter des sélections multiples sur l'écran d'accueil
-- [ ] Concevoir des cartes de créateurs
-- [ ] Design des boutons
-- [ ] Design du site global
-- [ ] Adaptation responsive(mobile, tablette, pc)
+- [x] Concevoir des cartes de créateurs
+- [x] Design des boutons
+- [x] Design du site global
+- [x] Adaptation responsive(mobile, tablette, pc)
 - [x] Créer un flux de données à partir de Twitch / Youtube / Twitter
 - [x] Amélioration du fichier README
 - [x] Logo créateurs tech
-- [ ] Ajouter un bouton aléatoire pour afficher un créateur aléatoire
+- [x] Ajouter un bouton aléatoire pour afficher un créateur aléatoire
 - [x] Add shuffle order for each refresh
 - [x] Add Readmore on card instead of scroll
