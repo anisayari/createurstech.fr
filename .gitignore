@@ -6,3 +6,4 @@ vendor
 .idea/*
 .idea/
 Gemfile.lock
+.code/*
