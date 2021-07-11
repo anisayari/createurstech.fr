@@ -2,109 +2,109 @@
   Titles (idk where to put that)
 */
 h2 {
-  font-size: 1.7em;
-  margin: 1em 0 .5em 0;
+	font-size: 1.7em;
+	margin: 1em 0 0.5em 0;
 }
 
 /*
   Cards
 */
 .Grid {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	margin: auto;
 }
 
 .Grid__sizer {
-  align-self: flex-start;
-  @media all and (max-width: 768px) {
-    width: 50%;
-  }
-  @media all and (min-width: 768px) {
-    width: 25%;
-  }
+	align-self: flex-start;
+	@media all and (max-width: 768px) {
+		width: 50%;
+	}
+	@media all and (min-width: 768px) {
+		width: 25%;
+	}
 }
 
 .Card {
-  position: relative;
-  display: grid;
-  grid-row-gap: .75rem;
-  grid-template-rows: min-content 1fr min-content;
-  width: 48%;
-  height: 250px;
-  margin: $card-space;
-  padding: .7rem;
-  backdrop-filter: blur(53px);
-  background: $card-background-gradient;
-  border-radius: 1.25rem;
+	position: relative;
+	display: grid;
+	grid-row-gap: 0.75rem;
+	grid-template-rows: min-content 1fr min-content;
+	width: 48%;
+	height: 250px;
+	margin: $card-space;
+	padding: 0.7rem;
+	backdrop-filter: blur(53px);
+	background: $card-background-gradient;
+	border-radius: 1.25rem;
 
-  @media all and (min-width: 768px) {
-    width: 23%;
-    height: 340px;
-    padding: $card-padding;
-  }
+	@media all and (min-width: 768px) {
+		width: 23%;
+		height: 340px;
+		padding: $card-padding;
+	}
 
-  &__title {
-    display: flex;
-    align-items: center;
-  }
+	&__title {
+		display: flex;
+		align-items: center;
+	}
 
-  &__profileImage {
-    display: block;
-    height: $profil-image-size;
-    width: $profil-image-size;
-    border: rgb(204, 0, 255) solid 3px;
-    border-radius: 50%;
-  }
+	&__profileImage {
+		display: block;
+		height: $profil-image-size;
+		width: $profil-image-size;
+		border: rgb(204, 0, 255) solid 3px;
+		border-radius: 50%;
+	}
 
-  &__name {
-    align-self: center;
-    padding-left: 0.35rem;
-    font-weight: bold;
-    font-size: $card-name-size;
-    align-items: center;
-    align-content: center;
-    overflow-wrap: anywhere;
-  }
+	&__name {
+		align-self: center;
+		padding-left: 0.35rem;
+		font-weight: bold;
+		font-size: $card-name-size;
+		align-items: center;
+		align-content: center;
+		overflow-wrap: anywhere;
+	}
 
-  &__description {
-    overflow: auto;
-    overflow-wrap: break-word;
-    font-size: 0.8rem;
-    line-height: 1.3;
-  }
+	&__description {
+		overflow: auto;
+		overflow-wrap: break-word;
+		font-size: 0.8rem;
+		line-height: 1.3;
+	}
 }
 
 .SocialNetworks {
-  display: flex;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-  gap: .5rem .25rem;
-  align-items: baseline;
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	gap: 0.5rem 0.25rem;
+	align-items: baseline;
 
-  .Network {
-    font-size: .75rem;
-    gap: .5em;
+	.Network {
+		font-size: 0.75rem;
+		gap: 0.5em;
 
-    img {
-      transform: translateY(0.15em);
-      width: 1em;
-      height: auto;
-    }
+		img {
+			transform: translateY(0.15em);
+			width: 1em;
+			height: auto;
+		}
 
-    &--youtube {
-      --background: #C4302B;
-    }
+		&--youtube {
+			--background: #c4302b;
+		}
 
-    &--twitch {
-      --background: #6441A5;
-    }
+		&--twitch {
+			--background: #6441a5;
+		}
 
-    &--twitter {
-      --background: #1DA1F2;
-    }
-  }
+		&--twitter {
+			--background: #1da1f2;
+		}
+	}
 }
 
 /*
@@ -123,8 +123,8 @@ h2 {
 }*/
 
 label[for="search"] {
-  font-size: 1.5rem;
-  font-weight: 700;
+	font-size: 1.5rem;
+	font-weight: 700;
 }
 
 //Vote
@@ -169,53 +169,56 @@ label[for="search"] {
 //  transform: rotate(180deg);
 //}
 
-
 /*
 Buttons
 */
 .button_tags {
-  font-family: "Poppins", sans-serif;
-  background: transparent;
-  color: white !important;
-  border:none !important;
-  margin: 2px;
-  cursor: pointer;
-  border-radius: 700px;
-  display: inline-block;
-  text-transform: uppercase;
-  font-size: 12px;
-  padding: 0.5em 1.5em;
-  position: relative;
+	font-family: "Poppins", sans-serif;
+	background: transparent;
+	color: white !important;
+	border: none !important;
+	margin: 2px;
+	cursor: pointer;
+	border-radius: 700px;
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 12px;
+	padding: 0.5em 1.5em;
+	position: relative;
 
-  &::before {
-    z-index: -1;
-    content: "";
-    position: absolute;
-    top: 0; right: 0;
-    width: 100%; height: 100%;
-    border-radius: 700px;
-    background: linear-gradient(#B848AC, #DE3765);
-    opacity: 0;
-    transition: opacity .7s cubic-bezier(0.075, 0.82, 0.165, 1);
-  }
+	&::before {
+		z-index: -1;
+		content: "";
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		border-radius: 700px;
+		background: linear-gradient(#b848ac, #de3765);
+		opacity: 0;
+		transition: opacity 0.7s cubic-bezier(0.075, 0.82, 0.165, 1);
+	}
 
-  &:hover::before {
-    opacity: 1;
-  }
+	&:hover::before {
+		opacity: 1;
+	}
 }
 
 .button:active,
 .button.is-checked {
-  font-weight: 600;
-  &::before { opacity: 1; }
+	font-weight: 600;
+	&::before {
+		opacity: 1;
+	}
 }
 
 .button-group {
-  margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 .SocialNetworks .CallToAction:not(:last-of-type) {
-  margin-right: .5em;
+	margin-right: 0.5em;
 }
 
 /*
@@ -223,14 +226,14 @@ Scrollbar
 */
 
 *::-webkit-scrollbar {
-  background: #C4C4C44A;
-  border-radius: 22px;
-  width: 7px;
+	background: #c4c4c44a;
+	border-radius: 22px;
+	width: 7px;
 }
 
 *::-webkit-scrollbar-thumb {
-  background: $gradient;
-  border-radius: 22px;
+	background: $gradient;
+	border-radius: 22px;
 }
 
 /*
@@ -238,122 +241,133 @@ Search
 */
 
 .filters {
-  text-align: center;
+	text-align: center;
 }
 
 .filter-container {
-  background: $card-background-gradient;
-  height: 5rem;
-  border-radius: 22px;
-  display: flexbox;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: center;
+	background: $card-background-gradient;
+	height: 5rem;
+	border-radius: 22px;
+	display: flexbox;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
 }
 
 .search {
-  position: relative;
-  text-align: center;
-  margin: 1em;
+	position: relative;
+	text-align: center;
+	margin: 1em;
 }
 
 .search-bar {
-  position: relative;
-  display: inline-block;
+	position: relative;
+	display: inline-block;
 
-  &::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -10px;
-    width: 100%;
-    height: 3px;
-    background: $gradient;
-  }
+	&::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		bottom: -10px;
+		width: 100%;
+		height: 3px;
+		background: $gradient;
+	}
 
-  .search-icon {
-    position: absolute;
-    left: .75em;
-    top: 50%;
-    transform: translate3d(0, -50%, 0);
-  }
+	.search-icon {
+		position: absolute;
+		left: 0.75em;
+		top: 50%;
+		transform: translate3d(0, -50%, 0);
+	}
 }
 
-input[type=search] {
-  height: 2rem;
-  color: #F8F8F8;
-  background: none;
-  font-size: 18px;
-  border: none;
-  padding-left: 2.5em;
-  position: relative;
+input[type="search"] {
+	height: 2rem;
+	color: #f8f8f8;
+	background: none;
+	font-size: 18px;
+	border: none;
+	padding-left: 2.5em;
+	position: relative;
 
-  &:focus, &:active {
-    outline: none;
-  }
+	&:focus,
+	&:active {
+		outline: none;
+	}
 
-  &::placeholder {
-    text-align: left;
-    color: $light-grey;
-    font-size: 13px;
-    font-style: italic;
-  }
+	&::placeholder {
+		text-align: left;
+		color: $light-grey;
+		font-size: 13px;
+		font-style: italic;
+	}
 }
 
 /*
 Display a random creator
 */
 #diplayed-card {
-  top: 50%;
-  left: 50%;
-  width: 100%;
-  max-width: 40ch;
-  height: auto;
-  max-height: min(80vh, 25rem);
-  margin: 0;
-  transform-origin: center!important;
-  animation: pop-in .3s cubic-bezier(0.075, 0.82, 0.165, 1) both;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+	max-width: 40ch;
+	height: auto;
+	max-height: min(80vh, 25rem);
+	margin: 0;
+	transform-origin: center !important;
+	animation: pop-in 0.3s 0.3s cubic-bezier(0.075, 0.82, 0.165, 1) both;
 }
 
 #display-card-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 100;
-  height: 100%;
-  width: 100%;
-  padding: 2rem 1.5rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100;
+	height: 100vh;
+	width: 100vw;
+	padding: 2rem 1.5rem;
 
-  &::before {
-    position: absolute;;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    height: 100%;
-    width: 100%;
-    background-color: black;
-    backdrop-filter: blur(53px);
-    content: '';
-    opacity: 0.85;
-  }
+	&::before {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: -1;
+		height: 100%;
+		width: 100%;
+		animation: fade-in 0.3s cubic-bezier(0.075, 0.82, 0.165, 1) both;
+		background-color: black;
+		backdrop-filter: blur(53px);
+		content: "";
+		opacity: 0.85;
+	}
 }
 
 .close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
-  cursor: pointer;
+	position: absolute;
+	top: 15px;
+	right: 35px;
+	color: #f1f1f1;
+	font-size: 40px;
+	font-weight: bold;
+	transition: 0.3s;
+	cursor: pointer;
 }
 
 @keyframes pop-in {
-  from {
-    transform: scale3d(0, 0, 0) translate3d(-50%, -50%, 0);
-  }
-  to {
-    transform: scale3d(1, 1, 1) translate3d(-50%, -50%, 0);
-  }
+	from {
+		transform: scale3d(0, 0, 0) translate3d(-50%, -50%, 0);
+	}
+	to {
+		transform: scale3d(1, 1, 1) translate3d(-50%, -50%, 0);
+	}
+}
+
+@keyframes fade-in {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
