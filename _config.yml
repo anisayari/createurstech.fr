@@ -49,7 +49,7 @@ include:
   - assets/css/styles.css
   - assets/js/filterAndSearch.js
   - assets/js/script.js
-  - assets/images/logo.ong
+  - assets/images/logo.png
 
   # Google Analytics
 id_googletag: G-13K8N8BZFF

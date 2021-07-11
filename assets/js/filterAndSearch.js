@@ -2,12 +2,12 @@ var qsRegex;
 var buttonFilter;
 
 
-var $grid = $('.grid').isotope({
-    itemSelector: '.card',
+var $grid = $('.Grid').isotope({
+    itemSelector: '.Card',
     percentPosition: true,
     layoutMode: 'masonry',
     masonry: {
-      columnWidth: '.grid-sizer'
+      columnWidth: '.Grid__sizer'
     },
     filter: function() {
       $this = $(this)

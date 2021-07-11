@@ -1,4 +1,3 @@
-
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
   <div class='filters'>
@@ -17,32 +16,37 @@
         {%endfor%}
         <button class='button button_tags button_categorie'  data-filter="*">Tout</button>
     </div>
+
   </div>
 
-  <h2> Recherche </h2>
+  <div>
+    <label for="search">Recherche</label>
+  </div>
 
   <div class="search">
-    <img class="search-icon" src="assets/images/followers.svg"/>
+    <img class="search-icon" src="assets/images/followers.svg" aria-hidden="true"/>
     <input type="search" class="quicksearch" placeholder="Créateurs, créatrices, mot-clé.." name="search" id='search' />
     <button class='button button_tags' onclick="shuffleCard()" >Aléatoire</button>
   </div>
 
 
 
-<div class="grid ">
-  <div class="grid-sizer"></div>
+<section class="Grid">
+<h2 class="ReaderOnly">Les créateurs répondants correspondants aux critères sélectionnés</h2>
+  <div class="Grid__sizer"></div>
         {% for creators in site.data.creators %}
 				{% if creators.condition_card %}
-            <div class="card {{creators.categories}} {{creators.plateforms}}">
-                <div class='title'>
+            <article class="Card {{creators.categories}} {{creators.plateforms}}">
+                <h3 class='Card__title'>
                     {% if creators.youtube_profil_image_url != '' %}
-                    <img src='{{creators.youtube_profil_image_url}}'  class="rounded profil-image" />
+                    <img src='{{creators.youtube_profil_image_url}}'  class="Card__profileImage" alt=""/>
                     {% else %}
-                    <img src='{{creators.twitch_profil_image_url}}'  class="rounded profil-image" />
+                    <img src='{{creators.twitch_profil_image_url}}'  class="Card__profileImage" alt=""/>
                     {% endif %}
-                    <p class="global_name {{ creators.global_name }} ">  @{{ creators.global_name }} </p>
-                    <span></span>
-                </div>
+                    <span class="Card__name {{ creators.global_name }} ">
+<span aria-hidden="true">@</span>{{ creators.global_name }}
+</span>
+                </h3>
                 <!--div class="categories">
                   <p class="category">
                     #Python
@@ -51,33 +55,36 @@
                     #IA
                   </p>
                 </div-->
-                <p class="description ">
-									{% if creators.youtube_description != '' %}
-                    {{ creators.youtube_description | newline_to_br}}
-									{% else %}
-									  {{ creators.twitch_description |  newline_to_br}}
-									{% endif %}
+                <p class="Card__description">
+                    {% if creators.youtube_description != '' %}
+                        {{ creators.youtube_description | newline_to_br}}
+                    {% else %}
+                        {{ creators.twitch_description |  newline_to_br}}
+                    {% endif %}
                 </p>
-                <div class="social-networks">
+                <footer class="SocialNetworks">
                   {% if  creators.twitter_account_name   != '' and creators.twitter_followers != '' %}
-                  <a class="button-twitter info" href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank">
+                  <a class="CallToAction Network Network--twitter" rel="noopener" href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank">
                     <i class="fab fa-twitter"></i>
-                    <p class="follower-counter">{{ creators.twitter_followers }}</p>
+                    <span class="ReaderOnly">twitter</span>
+                    <span class="follower-counter" aria-hidden="true">{{ creators.twitter_followers }}</span>
                   </a>
                   {% endif %}
                   {% if creators.youtube_channel_name  != ''  and	creators.condition_youtube	%}
-                  <a class='button-youtube info' href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank">
-                      <img src="assets/images/youtube.svg"/>
-                      <p class="follower-counter" >{{ creators.youtube_subscriber_count}}</p>
+                  <a class='CallToAction Network Network--youtube' rel="noopener" href='https://youtube.com/channel/{{ creators.youtube_channel_id | markdownify | strip_html }}' target="_blank">
+                    <img src="assets/images/youtube.svg" aria-hidden="true"/>
+                    <span class="ReaderOnly">youtube</span>
+                    <span class="follower-counter" aria-hidden="true">{{ creators.youtube_subscriber_count}}</span>
                   </a>
                   {% endif %}     
                   {%  if   creators.twitch_channel_name  != '' and creators.condition_twitch  %}
-                  <a class='button-twitch info' href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank">
+                  <a class='CallToAction Network Network--twitch' rel="noopener" href='https://twitch.com/{{ creators.twitch_channel_name | markdownify | strip_html }}' target="_blank">
                     <i class="fab fa-twitch"></i>
-                    <p class="follower-counter"> {{ creators.twitch_followers}}</p>
+                    <span class="ReaderOnly">twitch</span>
+                    <span class="follower-counter" aria-hidden="true">{{ creators.twitch_followers}}</span>
                   </a>
                   {% endif  %}
-                </div>
+                </footer>
                 <!--div class="votes-container">
                   <p class="votes-count">345 votes</p>
                   <div>
@@ -89,13 +96,11 @@
                     </span>
                   </div>
                 </div-->         
-        </div>
+        </article>
 				{% endif %}
         {% endfor %}
-</div>
-<div id="display-card-container" hidden>
- 
-</div>
+</section>
+<div id="display-card-container" hidden></div>
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script src="/assets/js/script.js"></script>

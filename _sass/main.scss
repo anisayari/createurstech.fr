@@ -9,8 +9,31 @@
 
   --col-width: 92rem;
 
+  color: white;
   font-family: var(--main-font-family);
   scroll-behavior: smooth;
+}
+
+body {
+  background-color: #222222;
+}
+
+.no-scroll{
+  overflow: hidden !important;
+}
+
+/* Text meant only for screen readers. */
+.ReaderOnly {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
 }
 
 /*
