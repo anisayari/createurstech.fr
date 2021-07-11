@@ -64,7 +64,7 @@
                 </p>
                 <footer class="SocialNetworks">
                   {% if  creators.twitter_account_name   != '' and creators.twitter_followers != '' %}
-                  <a class="CallToAction Network Network--twitter" rel="noopener" href='https://twitter.com/@{{ creators.screen_name| markdownify | strip_html}}' target="_blank">
+                  <a class="CallToAction Network Network--twitter" rel="noopener" href='https://twitter.com/@{{ creators.twitter_screen_name| markdownify | strip_html}}' target="_blank">
                     <i class="fab fa-twitter"></i>
                     <span class="ReaderOnly">twitter</span>
                     <span class="follower-counter" aria-hidden="true">{{ creators.twitter_followers }}</span>
