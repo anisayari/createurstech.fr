@@ -649,4 +649,11 @@
     "twitch_channel_name": "",
     "twitter_screen_name": "art_developpeur"
   }
+  "millomaker": {
+    "youtube_channel_id": "UChFaUrD7t1JQ0w7rObWhIRA",
+    "youtube_channel_username": "millomaker",
+    "categories": "makers",
+    "twitch_channel_name": "",
+    "twitter_screen_name": ""
+  }
 }
