@@ -656,5 +656,33 @@
     "categories": "makers",
     "twitch_channel_name": "",
     "twitter_screen_name": ""
+  },
+  "Nightech": {
+    "youtube_channel_id": "UCu6HC8ahaPWqqfSvic7nWyQ",
+    "youtube_channel_username": "Nightware91",
+    "categories": "actu_tech",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "Nightech_YT"
+  },
+  "Frandroid": {
+    "youtube_channel_id": "UCgoxc-VKU0cw9BcM9z_qokg",
+    "youtube_channel_username": "FrAndroidTube",
+    "categories": "actu_tech",
+    "twitch_channel_name": "frandroidlive",
+    "twitter_screen_name": "Frandroid"
+  },
+  "Monsieur GRrr": {
+    "youtube_channel_id": "UCTOAKgwfqqCbOytF3RNGGVw",
+    "youtube_channel_username": "",
+    "categories": "actu_tech",
+    "twitch_channel_name": "monsieur_grrr",
+    "twitter_screen_name": "MonsieurGRrr"
+  },
+  "Brandon Le Proktor": {
+    "youtube_channel_id": "UCGjKSSIpN7aYQluu04kPrsA",
+    "youtube_channel_username": "lynk0s",
+    "categories": "actu_tech",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "BrandonLKS"
   }
 }
