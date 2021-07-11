@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
 
-{%- include head.html -%}
+  {%- include head.html -%}
 
-<body>
-<picture class="BackgroundImage" aria-hidden="true">
-    <source srcset="assets/images/background.avif" type="image/avif">
-    <source srcset="assets/images/background.webp" type="image/webp">
-    <img src="assets/images/background.png" alt="">
-</picture>
-{%- include header.html -%}
-<main>
-    {{ content }}
-</main>
+  <body>
+    <picture class="BackgroundImage" aria-hidden="true">
+      <source srcset="assets/images/background.avif" type="image/avif">
+      <source srcset="assets/images/background.webp" type="image/webp">
+      <img src="assets/images/background.png" alt="">
+    </picture>
 
-{%- include footer.html -%}
+    {%- include header.html -%}
 
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
 
-<script>
-</script>
-</body>
+    {%- include footer.html -%}
+
+  </body>
 
 </html>

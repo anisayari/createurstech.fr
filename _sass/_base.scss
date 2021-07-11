@@ -9,10 +9,6 @@ dl, dd, ol, ul, figure {
 
 }
 
-button {
-  cursor: pointer;
-}
-
 /**
  * Images
  */
@@ -61,23 +57,14 @@ Custom Call To Action
   background: var(--background, transparent);
   border: none;
   border-radius: 50px;
-  box-shadow: 0 0 0 1px var(--shadowColor, var(--background, currentColor));
+  box-shadow: 0 0 0 1px var(--background, currentColor);
   outline: none;
   transition: all .4s ease;
 
   &:focus,
   &:hover {
     z-index: 1;
-    box-shadow: 0 0 0 .25em  var(--shadowColor currentColor);
-  }
-}
-
-/*
-  Stack
-*/
-.Stack {
-  > * + * {
-    margin-top: var(--stackMargin, 1.25em);
+    box-shadow: 0 0 0 .25em currentColor;
   }
 }
 
