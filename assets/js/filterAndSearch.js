@@ -55,7 +55,7 @@ const updateParams = () => {
   const data = new FormData(searchForm);
 
   for (let [name, value] of data) {
-    params.set(name, encodeURIComponent(value))
+    params.set(name, encodeURIComponent(value));
   }
 
   window.history.replaceState(
