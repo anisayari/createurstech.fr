@@ -6,7 +6,7 @@
         {% for plateform in site.data.plateforms %}
         <button class='button button_tags' data-filter=".{{plateform}}">{{plateform}}</button>
         {%endfor%}
-        <button class='button button_tags button_plateform'  data-filter="">Tout</button>
+        <button class='button button_tags button_plateform is-checked'  data-filter="">Tout</button>
     </div>
 
     <h2> Sujet </h2>
@@ -14,7 +14,7 @@
         {% for categorie in site.data.categories %}
         <button class='button button_tags' data-filter=".{{categorie}}">{{categorie}}</button>
         {%endfor%}
-        <button class='button button_tags button_categorie'  data-filter="*">Tout</button>
+        <button class='button button_tags button_categorie is-checked'  data-filter="*">Tout</button>
     </div>
 
   </div>
