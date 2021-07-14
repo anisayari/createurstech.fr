@@ -1,77 +1,84 @@
-var qsRegex;
-var buttonFilter;
+var $grid = $(".Grid").isotope({
+  itemSelector: ".Card",
+  percentPosition: true,
+  layoutMode: "masonry",
+  masonry: {
+    columnWidth: ".Grid__sizer"
+  }
+})
+$grid.isotope("shuffle")
 
+let params = new URLSearchParams(window.location.search)
+const searchForm = document.querySelector("form")
+const searchNameInput = document.querySelector("input[name=\"creator_name\"]")
+const formElements = searchForm.elements
 
-var $grid = $('.Grid').isotope({
-    itemSelector: '.Card',
-    percentPosition: true,
-    layoutMode: 'masonry',
-    masonry: {
-      columnWidth: '.Grid__sizer'
-    },
-    filter: function() {
-      $this = $(this)
-      var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
-      var buttonResult = buttonFilter ? $this.is( buttonFilter ) : true;
-      return searchResult && buttonResult;
+const creators = document.querySelectorAll(".Card")
+
+const init = () => {
+  Array.from(formElements).map(element => {
+    if (element.getAttribute("value") === params.get("platform") && null !== params.get("platform") && !element.checked) {
+      element.checked = true
+      element.focus()
     }
-  });
-  $grid.isotope('shuffle')
-
-  var filters = {};
-  
-  $('.filters').on( 'click', '.button', function( event ) {
-     var $button = $( event.currentTarget );
-    var $buttonGroup = $button.parents('.button-group');
-    var filterGroup = $buttonGroup.attr('data-filter-group');
-      filters[ filterGroup ] = $button.attr('data-filter').replace(/ /g,"_").toLowerCase().toLowerCase().replace(/[!"#$%&'()+,\/:;<=>?@[\\\]^`{|}~]/g, "\\\$&");
-    var filterValue = concatValues( filters );
-    buttonFilter = filterValue;
-  $grid.isotope()    
-});
-      
-  $('.button-group').each( function( i, buttonGroup ) {
-    var $buttonGroup = $( buttonGroup );
-    $buttonGroup.on( 'click', 'button', function( event ) {
-      $buttonGroup.find('.is-checked').removeClass('is-checked');
-      var $button = $( event.currentTarget );
-      $button.addClass('is-checked');
-    });
-  });
-  
-  // flatten object by concatting values
-  function concatValues( obj ) {
-    var value = '';
-    for ( var prop in obj ) {
-      value += obj[ prop ];
+    if (element.getAttribute("value") === params.get("category") && null !== params.get("category") && !element.checked) {
+      element.checked = true
+      element.focus()
     }
-    return value;
+    if (element.getAttribute("name") === "creator_name" && null !== params.get("creator_name")) {
+      const oldValue = element.getAttribute("value")
+      searchNameInput.setAttribute("value", params.get("creator_name"))
+      oldValue !== params.get("creator_name") && element.focus()
+    }
+  })
+
+  filterCreators()
+}
+
+const filterCreators = () => {
+  Array.from(creators).map(creator => {
+    const creatorName = creator.querySelector(".CreatorName")
+
+    if (
+      params.get("platform") && !creator.classList.contains(params.get("platform"))
+      || params.get("category") && !creator.classList.contains(decodeURIComponent(params.get("category").toLowerCase()).split(" ").join("_"))
+      || params.get("creator_name") && !creatorName.innerHTML.toString().toLowerCase().includes(params.get("creator_name").toLowerCase())
+    ) {
+      creator.style.display = "none"
+    } else {
+      creator.style.display = "grid"
+    }
+  })
+
+  refreshCards()
+}
+
+init()
+
+const updateParams = () => {
+  if (params.get("creator_name")) {
+    searchNameInput.setAttribute("value", params.get("creator_name"))
   }
 
-$("button.button_plateform").click()
-$("button.button_categorie").click()
-      // quick search regex
-  var qsRegex;
-  
-  // init Isotope
-  
-  // use value of search field to filter
-  var $quicksearch = $('.quicksearch').keyup( debounce( function() {
-    qsRegex = new RegExp( $quicksearch.val(), 'gi' );
-    $grid.isotope();
-  }, 200 ) );
-  
-  // debounce so filtering doesn't happen every millisecond
-  function debounce( fn, threshold ) {
-    var timeout;
-    threshold = threshold || 100;
-    return function debounced() {
-      clearTimeout( timeout );
-      var args = arguments;
-      var _this = this;
-      function delayed() {
-        fn.apply( _this, args );
-      }
-      timeout = setTimeout( delayed, threshold );
-    };
+  const data = new FormData(searchForm)
+
+  for (let [name, value] of data) {
+    params.set(name, encodeURIComponent(value))
   }
+
+  window.history.pushState(
+    {},
+    "",
+    decodeURIComponent(`${window.location.pathname}?${params}`)
+  )
+
+  filterCreators()
+}
+
+window.addEventListener("popstate", () => {
+  params = new URLSearchParams(window.location.search)
+  init()
+})
+searchNameInput.addEventListener("oninput", updateParams)
+searchForm.addEventListener("change", updateParams)
+searchForm.addEventListener("submit", () => false)

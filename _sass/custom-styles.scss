@@ -1,4 +1,94 @@
 /*
+  Form
+ */
+.FormSection {
+  margin-bottom: 4rem;
+  padding: 0 .9rem;
+}
+
+.FilterForm {
+  --stackMargin: 1.5rem;
+
+  &__fieldset {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 1em;
+    margin-inline: 0;
+    margin-bottom: 0;
+    padding: 0;
+    border: none;
+  }
+
+  &__label {
+    margin-bottom: calc(var(--stackMargin) * .3);
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+
+  input[type="radio"] {
+    &:checked {
+      + .CallToAction {
+        --color: white;
+        --background: linear-gradient(#B848AC, #DE3765);
+        --shadowColor: var(--color);
+
+        border-color: #DE3765;
+      }
+    }
+
+    &:focus + .CallToAction {
+      z-index: 1;
+      box-shadow: 0 0 0 .25em currentColor;
+    }
+  }
+
+  .CallToAction {
+    font-size: .75rem;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  &__search {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      bottom: .5rem;
+      display: block;
+      width: 1rem;
+      height: 1rem;
+      background: url('/assets/images/followers.svg');
+      content: '';
+      pointer-events: none;
+    }
+  }
+
+  input[type=search] {
+    --stackMargin: .5rem;
+
+    display: block;
+    height: 2rem;
+    padding-left: 1.5rem;
+    color: #F8F8F8;
+    font-size: 18px;
+    background: none;
+    border-width: 3px;
+    border-image: $gradient;
+    border-image-slice: 1;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+
+    &::placeholder {
+      color: $light-grey;
+      font-size: 13px;
+      text-align: right;
+    }
+  }
+}
+
+/*
   Cards
 */
 .Grid {
@@ -114,11 +204,6 @@
   cursor: pointer;
 }*/
 
-label[for="search"] {
-  font-size: 1.5rem;
-  font-weight: 700;
-}
-
 //Vote
 
 /*
@@ -161,43 +246,6 @@ label[for="search"] {
 //  transform: rotate(180deg);
 //}
 
-
-/*
-Buttons
-*/
-.button:active,
-.button.is-checked {
-  background: linear-gradient(#B848AC, #DE3765);
-  border-color: #DE3765 !important;
-  color: #fff !important;
-}
-
-.button_tags:hover {
-  color: #ffffff !important;
-  background: linear-gradient(#B848AC, #DE3765);
-  border-color: #DE3765 !important;
-  transition: all 0.4s ease 0s;
-}
-
-.button_tags {
-  color: white !important;
-  margin: 2px;
-  text-transform: uppercase;
-  text-decoration: none;
-  background: transparent;
-  padding: 2px 5px 2px 5px;
-  cursor: pointer;
-  border: 1px solid #ffffff !important;
-  border-radius: 70px;
-  display: inline-block;
-  transition: all 0.4s ease 0s;
-  font-size: 12px;
-}
-
-.button-group {
-  margin-bottom: 10px;
-}
-
 /*
 Scrollbar
 */
@@ -217,48 +265,6 @@ Scrollbar
 Search
 */
 
-.filter-container {
-  background: $card-background-gradient;
-  height: 5rem;
-  border-radius: 22px;
-  display: flexbox;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.search {
-  position: relative;
-  padding: 0.75rem $card-space;
-}
-
-input[type=search] {
-  height: 2rem;
-  color: #F8F8F8;
-  background: none;
-  font-size: 18px;
-  border-width: 3px;
-  border-image: $gradient;
-  border-image-slice: 1;
-  border-top: 0;
-  border-left: 0;
-  border-right: 0;
-  padding-left: 1.2rem;
-}
-
-.search > img {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: transparent;
-  fill: $light-grey;
-}
-
-input[type=search]::placeholder {
-  text-align: right;
-  color: $light-grey;
-  font-size: 13px;
-}
 
 /*
 Display a random creator

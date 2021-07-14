@@ -1,35 +1,47 @@
 <script src="https://kit.fontawesome.com/72c07d4b2a.js" crossorigin="anonymous"></script>
 
-  <div class='filters'>
-    <h2> Plateforme </h2>
-    <div class="button-group filter-button-group" data-filter-group='plateform'>
-        {% for plateform in site.data.plateforms %}
-        <button class='button button_tags' data-filter=".{{plateform}}">{{plateform}}</button>
-        {%endfor%}
-        <button class='button button_tags button_plateform'  data-filter="">Tout</button>
-    </div>
+<section class="FormSection Stack">
+    <h2 class="ReaderOnly">Filtres des créateurs affichés</h2>
 
-    <h2> Sujet </h2>
-    <div class="button-group filter-button-group" data-filter-group='categories' >
-        {% for categorie in site.data.categories %}
-        <button class='button button_tags' data-filter=".{{categorie}}">{{categorie}}</button>
-        {%endfor%}
-        <button class='button button_tags button_categorie'  data-filter="*">Tout</button>
-    </div>
+    <form class="FilterForm Stack">
+        <fieldset class="FilterForm__fieldset">
+            <legend class="FilterForm__label">Plateforme</legend>
+            <div>
+                <input type="radio" name="platform" value="" id="all_platforms" checked class="ReaderOnly">
+                <label for="all_platforms" class="CallToAction">Tout</label>
+            </div>
+            {% for plateform in site.data.plateforms %}
+                <div>
+                    <input type="radio" name="platform" value="{{ plateform }}" id="{{ plateform }}" class="ReaderOnly">
+                    <label for="{{ plateform }}" class="CallToAction">{{ plateform }}</label>
+                </div>
+            {% endfor %}
+        </fieldset>
+    
+        <fieldset class="FilterForm__fieldset">
+            <legend class="FilterForm__label">Sujet</legend>
+            <div>
+                <input type="radio" name="category" value="" id="all_categories" checked class="ReaderOnly">
+                <label for="all_categories" class="CallToAction">Tout</label>
+            </div>
+            {% for category in site.data.categories %}
+                <div>
+                    <input type="radio" name="category" value="{{ category }}" id="{{ category }}" class="ReaderOnly">
+                    <label for="{{ category }}" class="CallToAction">{{ category }}</label>
+                </div>
+            {% endfor %}
+        </fieldset>
+    
+        <div class="FilterForm__search Stack">
+            <label for="search_input" class="FilterForm__label">Rechercher un créateur</label>
+            <input type="search" class="quicksearch" oninput="updateParams()"
+                   placeholder="Créateurs, créatrices, mot-clé.." name="creator_name"
+                   id='search_input'/>
+        </div>
+    </form>
+    <button type="button" class='CallToAction' onclick="shuffleCard()" >Aléatoire</button>
 
-  </div>
-
-  <div>
-    <label for="search">Recherche</label>
-  </div>
-
-  <div class="search">
-    <img class="search-icon" src="assets/images/followers.svg" aria-hidden="true"/>
-    <input type="search" class="quicksearch" placeholder="Créateurs, créatrices, mot-clé.." name="search" id='search' />
-    <button class='button button_tags' onclick="shuffleCard()" >Aléatoire</button>
-  </div>
-
-
+</section>
 
 <section class="Grid">
 <h2 class="ReaderOnly">Les créateurs répondants correspondants aux critères sélectionnés</h2>
@@ -44,7 +56,7 @@
                     <img src='{{creators.twitch_profil_image_url}}'  class="Card__profileImage" alt=""/>
                     {% endif %}
                     <span class="Card__name {{ creators.global_name }} ">
-<span aria-hidden="true">@</span>{{ creators.global_name }}
+<span aria-hidden="true">@</span><span class="CreatorName">{{ creators.global_name }}</span>
 </span>
                 </h3>
                 <!--div class="categories">
