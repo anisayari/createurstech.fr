@@ -17,16 +17,18 @@ const creators = document.querySelectorAll(".Card")
 
 const init = () => {
   Array.from(formElements).map(element => {
-    if (element.getAttribute("value") === params.get("platform") && !element.checked) {
+    if (element.getAttribute("value") === params.get("platform") && null !== params.get("platform") && !element.checked) {
       element.checked = true
       element.focus()
+      console.log(element)
     }
-    if (element.getAttribute("value") === params.get("category") && !element.checked) {
+    if (element.getAttribute("value") === params.get("category") && null !== params.get("category") && !element.checked) {
       element.checked = true
       element.focus()
     }
     if (element.getAttribute("name") === "creator_name" && null !== params.get("creator_name")) {
       const oldValue = element.getAttribute("value")
+      console.log(params.get("creator_name"), oldValue)
       searchNameInput.setAttribute("value", params.get("creator_name"))
       oldValue !== params.get("creator_name") && element.focus()
     }
