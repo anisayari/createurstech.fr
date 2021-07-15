@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -17,15 +17,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-domain: createurstech.fr       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: createurstech.fr # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 title: Les createurs Tech français
-tagline:  Le site qui référence tous les créateurs de contenus tech sur Youtube et Twitch en francais.
+tagline: Le site qui référence tous les créateurs de contenus tech sur Youtube et Twitch en francais.
 description: Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
-image: logo.png
-baseurl: "" # the subpath of your site, e.g. /blog
+image:
+  path: /banner.png
+baseurl: '' # the subpath of your site, e.g. /blog
 url: https://createurstech.fr
-author : Open Source
-logo : /logo/png
+author: Open Source
+logo: https://createurstech.fr/logo.png
+locale: fr_FR
+twitter:
+  username: createurstech
+  card: summary
 
 # Build settings
 #theme: minima
@@ -42,8 +47,8 @@ plugins:
 # their entries' file path in the `include:` list.
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 include:
   - assets/css/styles.css
