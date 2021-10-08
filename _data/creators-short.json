@@ -691,5 +691,12 @@
     "categories": "actu_tech",
     "twitch_channel_name": "Mathieu_UE",
     "twitter_screen_name": "MathieuGamedev"
+  },
+  "TUTO UNITY FR": {
+    "youtube_channel_id": "UCJRwb5W4ZzG43J5_dViL6Fw",
+    "youtube_channel_username": "TUTOUNITYFR",
+    "categories": "actu_tech",
+    "twitch_channel_name": "",
+    "twitter_screen_name": "tutounityfr"
   }
 }
