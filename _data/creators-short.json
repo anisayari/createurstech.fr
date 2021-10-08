@@ -684,5 +684,12 @@
     "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": "BrandonLKS"
+  },
+  "MATHIEU": {
+    "youtube_channel_id": "UCEnPuFDPRzZzeH2UFJ1Q4cA",
+    "youtube_channel_username": "MATHIEU_YT",
+    "categories": "actu_tech",
+    "twitch_channel_name": "Mathieu_UE",
+    "twitter_screen_name": "MathieuGamedev"
   }
 }
