@@ -684,5 +684,12 @@
     "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": "BrandonLKS"
+  },
+  "CryptoMatrix": {
+    "youtube_channel_id": "UCefQC4Y-X9MBRuYBKc2waiQ",
+    "youtube_channel_username": "",
+    "categories":"blockchain actu_tech",
+    "twitch_channel_name": "enterthecryptomatrix",
+    "twitter_screen_name": "CryptoMatrix2"
   }
 }
