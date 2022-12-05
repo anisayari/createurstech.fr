@@ -684,5 +684,12 @@
     "categories": "actu_tech",
     "twitch_channel_name": "",
     "twitter_screen_name": "BrandonLKS"
+  },
+  "Inforea": {
+    "youtube_channel_id": "UCDdq7223m_fAZiX2ejJodug",
+    "youtube_channel_username": "",
+    "categories": "makers",
+    "twitch_channel_name": "inforea",
+    "twitter_screen_name": "_Inforea"
   }
 }
